@@ -1,73 +1,79 @@
 [
   {
+    "full_name": "trinib/Linux-Bash-Commands",
+    "stargazers_count": 2309,
+    "open_issues_count": 1,
+    "forks_count": 70
+  },
+  {
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 2041,
-    "open_issues_count": 9,
-    "forks_count": 88
+    "stargazers_count": 2191,
+    "open_issues_count": 5,
+    "forks_count": 95
   },
   {
     "full_name": "pulumi/examples",
-    "stargazers_count": 1875,
-    "open_issues_count": 129,
-    "forks_count": 738
+    "stargazers_count": 1878,
+    "open_issues_count": 130,
+    "forks_count": 742
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 26742,
-    "open_issues_count": 2370,
-    "forks_count": 957
+    "stargazers_count": 26815,
+    "open_issues_count": 2366,
+    "forks_count": 958
   },
   {
     "full_name": "Legit-Labs/legitify",
-    "stargazers_count": 207,
+    "stargazers_count": 213,
     "open_issues_count": 9,
-    "forks_count": 12
+    "forks_count": 15
   },
   {
     "full_name": "tierrun/tier",
-    "stargazers_count": 231,
-    "open_issues_count": 6,
+    "stargazers_count": 235,
+    "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "ballerine-io/ballerine",
-    "stargazers_count": 1091,
-    "open_issues_count": 12,
-    "forks_count": 30
+    "stargazers_count": 1118,
+    "open_issues_count": 10,
+    "forks_count": 33
   },
   {
     "full_name": "answerdev/answer",
-    "stargazers_count": 4038,
-    "open_issues_count": 22,
-    "forks_count": 204
+    "stargazers_count": 4094,
+    "open_issues_count": 21,
+    "forks_count": 207
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 137,
-    "open_issues_count": 20,
-    "forks_count": 11
+    "stargazers_count": 141,
+    "open_issues_count": 21,
+    "forks_count": 13
   },
   {
     "full_name": "hashicorp/consul",
-    "stargazers_count": 25625,
-    "open_issues_count": 1174,
-    "forks_count": 4186
+    "stargazers_count": 25633,
+    "open_issues_count": 1172,
+    "forks_count": 4188
   },
   {
     "full_name": "saltstack/salt",
-    "stargazers_count": 12831,
-    "open_issues_count": 2886,
-    "forks_count": 5353
+    "stargazers_count": 12836,
+    "open_issues_count": 2877,
+    "forks_count": 5351
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 35010,
-    "open_issues_count": 1688,
-    "forks_count": 8092
+    "stargazers_count": 35059,
+    "open_issues_count": 1689,
+    "forks_count": 8096
   },
   {
     "full_name": "twitter-together/action",
-    "stargazers_count": 672,
+    "stargazers_count": 671,
     "open_issues_count": 31,
     "forks_count": 78
   },
@@ -79,68 +85,68 @@
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 16695,
-    "open_issues_count": 296,
-    "forks_count": 1609
+    "stargazers_count": 16723,
+    "open_issues_count": 298,
+    "forks_count": 1615
   },
   {
     "full_name": "badges/shields",
-    "stargazers_count": 18251,
-    "open_issues_count": 344,
-    "forks_count": 5076
+    "stargazers_count": 18270,
+    "open_issues_count": 343,
+    "forks_count": 5082
   },
   {
     "full_name": "mattermost/focalboard",
-    "stargazers_count": 13502,
-    "open_issues_count": 633,
-    "forks_count": 1050
+    "stargazers_count": 13527,
+    "open_issues_count": 628,
+    "forks_count": 1061
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 44431,
-    "open_issues_count": 385,
-    "forks_count": 3327
+    "stargazers_count": 44487,
+    "open_issues_count": 395,
+    "forks_count": 3332
   },
   {
     "full_name": "OpenGenus/cosmos",
-    "stargazers_count": 13272,
-    "open_issues_count": 2626,
-    "forks_count": 3633
+    "stargazers_count": 13270,
+    "open_issues_count": 2623,
+    "forks_count": 3630
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 33154,
-    "open_issues_count": 2034,
-    "forks_count": 4182
+    "stargazers_count": 33211,
+    "open_issues_count": 2047,
+    "forks_count": 4193
   },
   {
     "full_name": "pulumiverse/awesome-pulumi",
-    "stargazers_count": 123,
+    "stargazers_count": 124,
     "open_issues_count": 3,
     "forks_count": 19
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 204,
-    "open_issues_count": 194,
+    "stargazers_count": 208,
+    "open_issues_count": 198,
     "forks_count": 2
   },
   {
     "full_name": "oreal-solutions/motionlink-cli",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "utterance/utterances",
-    "stargazers_count": 7217,
+    "stargazers_count": 7228,
     "open_issues_count": 135,
-    "forks_count": 534
+    "forks_count": 535
   },
   {
     "full_name": "GitTools/GitVersion",
-    "stargazers_count": 2379,
-    "open_issues_count": 195,
+    "stargazers_count": 2381,
+    "open_issues_count": 189,
     "forks_count": 616
   },
   {
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "pulumi/pulumi-github",
-    "stargazers_count": 24,
-    "open_issues_count": 25,
+    "stargazers_count": 25,
+    "open_issues_count": 26,
     "forks_count": 8
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 14162,
-    "open_issues_count": 1559,
-    "forks_count": 796
+    "stargazers_count": 14197,
+    "open_issues_count": 1561,
+    "forks_count": 798
   },
   {
     "full_name": "saic-mdal/lama",
-    "stargazers_count": 4494,
+    "stargazers_count": 4507,
     "open_issues_count": 63,
-    "forks_count": 500
+    "forks_count": 499
   },
   {
     "full_name": "saagarjha/TSOEnabler",
     "stargazers_count": 207,
     "open_issues_count": 3,
     "forks_count": 11
-  },
-  {
-    "full_name": "tfutils/tfenv",
-    "stargazers_count": 3471,
-    "open_issues_count": 40,
-    "forks_count": 349
   }
 ]
