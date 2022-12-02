@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "strongdm/comply",
+    "stargazers_count": 958,
+    "open_issues_count": 22,
+    "forks_count": 197
+  },
+  {
+    "full_name": "supertokens/supertokens-core",
+    "stargazers_count": 7617,
+    "open_issues_count": 82,
+    "forks_count": 263
+  },
+  {
+    "full_name": "openblocks-dev/openblocks",
+    "stargazers_count": 3578,
+    "open_issues_count": 41,
+    "forks_count": 94
+  },
+  {
+    "full_name": "pre-commit/pre-commit",
+    "stargazers_count": 9266,
+    "open_issues_count": 24,
+    "forks_count": 685
+  },
+  {
+    "full_name": "nitrictech/nitric",
+    "stargazers_count": 452,
+    "open_issues_count": 23,
+    "forks_count": 16
+  },
+  {
+    "full_name": "trufflesecurity/trufflehog",
+    "stargazers_count": 9805,
+    "open_issues_count": 97,
+    "forks_count": 1190
+  },
+  {
+    "full_name": "FlagAI-Open/FlagAI",
+    "stargazers_count": 677,
+    "open_issues_count": 3,
+    "forks_count": 64
+  },
+  {
+    "full_name": "kuchin/awesome-cto",
+    "stargazers_count": 16816,
+    "open_issues_count": 1,
+    "forks_count": 917
+  },
+  {
     "full_name": "EISMGard/github-audit-tool",
     "stargazers_count": 178,
     "open_issues_count": 0,
@@ -7,93 +55,93 @@
   },
   {
     "full_name": "awslabs/aws-lambda-powertools-typescript",
-    "stargazers_count": 971,
+    "stargazers_count": 988,
     "open_issues_count": 75,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "nodesource/distributions",
-    "stargazers_count": 10792,
-    "open_issues_count": 58,
-    "forks_count": 2958
+    "stargazers_count": 10810,
+    "open_issues_count": 57,
+    "forks_count": 2963
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 4907,
-    "open_issues_count": 46,
-    "forks_count": 91
+    "stargazers_count": 4974,
+    "open_issues_count": 45,
+    "forks_count": 95
   },
   {
     "full_name": "trinib/Linux-Bash-Commands",
-    "stargazers_count": 2498,
+    "stargazers_count": 2512,
     "open_issues_count": 0,
-    "forks_count": 81
+    "forks_count": 84
   },
   {
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 3250,
-    "open_issues_count": 11,
-    "forks_count": 162
+    "stargazers_count": 3409,
+    "open_issues_count": 12,
+    "forks_count": 184
   },
   {
     "full_name": "pulumi/examples",
-    "stargazers_count": 1895,
-    "open_issues_count": 133,
-    "forks_count": 748
+    "stargazers_count": 1898,
+    "open_issues_count": 134,
+    "forks_count": 751
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 27195,
-    "open_issues_count": 2384,
+    "stargazers_count": 27306,
+    "open_issues_count": 2398,
     "forks_count": 971
   },
   {
     "full_name": "Legit-Labs/legitify",
-    "stargazers_count": 238,
+    "stargazers_count": 241,
     "open_issues_count": 8,
     "forks_count": 19
   },
   {
     "full_name": "tierrun/tier",
-    "stargazers_count": 258,
+    "stargazers_count": 263,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "ballerine-io/ballerine",
-    "stargazers_count": 1174,
-    "open_issues_count": 9,
-    "forks_count": 39
+    "stargazers_count": 1186,
+    "open_issues_count": 10,
+    "forks_count": 41
   },
   {
     "full_name": "answerdev/answer",
-    "stargazers_count": 4368,
+    "stargazers_count": 4390,
     "open_issues_count": 17,
     "forks_count": 225
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 150,
+    "stargazers_count": 151,
     "open_issues_count": 24,
     "forks_count": 14
   },
   {
     "full_name": "hashicorp/consul",
-    "stargazers_count": 25707,
-    "open_issues_count": 1190,
-    "forks_count": 4199
+    "stargazers_count": 25727,
+    "open_issues_count": 1192,
+    "forks_count": 4200
   },
   {
     "full_name": "saltstack/salt",
-    "stargazers_count": 12873,
-    "open_issues_count": 2877,
-    "forks_count": 5354
+    "stargazers_count": 12880,
+    "open_issues_count": 2888,
+    "forks_count": 5357
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 35270,
-    "open_issues_count": 1710,
-    "forks_count": 8154
+    "stargazers_count": 35352,
+    "open_issues_count": 1707,
+    "forks_count": 8161
   },
   {
     "full_name": "twitter-together/action",
@@ -103,80 +151,32 @@
   },
   {
     "full_name": "Netflix/hubcommander",
-    "stargazers_count": 1232,
+    "stargazers_count": 1234,
     "open_issues_count": 14,
     "forks_count": 160
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 16791,
+    "stargazers_count": 16817,
     "open_issues_count": 303,
-    "forks_count": 1619
+    "forks_count": 1624
   },
   {
     "full_name": "badges/shields",
-    "stargazers_count": 18427,
-    "open_issues_count": 332,
-    "forks_count": 5116
+    "stargazers_count": 18451,
+    "open_issues_count": 340,
+    "forks_count": 5120
   },
   {
     "full_name": "mattermost/focalboard",
-    "stargazers_count": 13728,
-    "open_issues_count": 631,
-    "forks_count": 1098
+    "stargazers_count": 13764,
+    "open_issues_count": 642,
+    "forks_count": 1105
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 44963,
-    "open_issues_count": 407,
-    "forks_count": 3358
-  },
-  {
-    "full_name": "OpenGenus/cosmos",
-    "stargazers_count": 13278,
-    "open_issues_count": 2621,
-    "forks_count": 3627
-  },
-  {
-    "full_name": "go-gitea/gitea",
-    "stargazers_count": 33491,
-    "open_issues_count": 2063,
-    "forks_count": 4230
-  },
-  {
-    "full_name": "pulumiverse/awesome-pulumi",
-    "stargazers_count": 126,
-    "open_issues_count": 3,
-    "forks_count": 20
-  },
-  {
-    "full_name": "maintainers/invite-automation",
-    "stargazers_count": 216,
-    "open_issues_count": 213,
-    "forks_count": 2
-  },
-  {
-    "full_name": "oreal-solutions/motionlink-cli",
-    "stargazers_count": 18,
-    "open_issues_count": 3,
-    "forks_count": 1
-  },
-  {
-    "full_name": "utterance/utterances",
-    "stargazers_count": 7276,
-    "open_issues_count": 138,
-    "forks_count": 538
-  },
-  {
-    "full_name": "GitTools/GitVersion",
-    "stargazers_count": 2395,
-    "open_issues_count": 192,
-    "forks_count": 617
-  },
-  {
-    "full_name": "brandonhilkert/fucking_shell_scripts",
-    "stargazers_count": 1175,
-    "open_issues_count": 2,
-    "forks_count": 88
+    "stargazers_count": 45008,
+    "open_issues_count": 404,
+    "forks_count": 3367
   }
 ]
