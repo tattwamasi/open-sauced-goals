@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "serverless-stack/sst",
+    "stargazers_count": 10366,
+    "open_issues_count": 531,
+    "forks_count": 882
+  },
+  {
+    "full_name": "serverless-stack/open-next",
+    "stargazers_count": 636,
+    "open_issues_count": 6,
+    "forks_count": 9
+  },
+  {
     "full_name": "thechangelog/transcripts",
     "stargazers_count": 378,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 315
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 8567,
-    "open_issues_count": 55,
-    "forks_count": 488
+    "stargazers_count": 9118,
+    "open_issues_count": 61,
+    "forks_count": 545
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 1273,
-    "open_issues_count": 60,
-    "forks_count": 44
+    "stargazers_count": 1291,
+    "open_issues_count": 59,
+    "forks_count": 47
   },
   {
     "full_name": "Hexagon/croner",
@@ -25,158 +37,146 @@
   },
   {
     "full_name": "apple/ml-stable-diffusion",
-    "stargazers_count": 4310,
-    "open_issues_count": 60,
-    "forks_count": 165
+    "stargazers_count": 4373,
+    "open_issues_count": 57,
+    "forks_count": 167
   },
   {
     "full_name": "strongdm/comply",
-    "stargazers_count": 969,
+    "stargazers_count": 970,
     "open_issues_count": 22,
     "forks_count": 198
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 7710,
-    "open_issues_count": 86,
-    "forks_count": 267
+    "stargazers_count": 7735,
+    "open_issues_count": 87,
+    "forks_count": 268
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 3749,
+    "stargazers_count": 3775,
     "open_issues_count": 62,
-    "forks_count": 110
+    "forks_count": 112
   },
   {
     "full_name": "pre-commit/pre-commit",
-    "stargazers_count": 9359,
-    "open_issues_count": 27,
-    "forks_count": 689
+    "stargazers_count": 9389,
+    "open_issues_count": 24,
+    "forks_count": 688
   },
   {
     "full_name": "nitrictech/nitric",
-    "stargazers_count": 467,
+    "stargazers_count": 468,
     "open_issues_count": 24,
     "forks_count": 16
   },
   {
     "full_name": "trufflesecurity/trufflehog",
-    "stargazers_count": 9907,
-    "open_issues_count": 99,
+    "stargazers_count": 9943,
+    "open_issues_count": 100,
     "forks_count": 1203
   },
   {
     "full_name": "FlagAI-Open/FlagAI",
-    "stargazers_count": 754,
-    "open_issues_count": 7,
-    "forks_count": 87
+    "stargazers_count": 764,
+    "open_issues_count": 3,
+    "forks_count": 88
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18388,
-    "open_issues_count": 1,
-    "forks_count": 1001
+    "stargazers_count": 18508,
+    "open_issues_count": 0,
+    "forks_count": 1004
   },
   {
     "full_name": "EISMGard/github-audit-tool",
-    "stargazers_count": 179,
+    "stargazers_count": 178,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "awslabs/aws-lambda-powertools-typescript",
-    "stargazers_count": 1029,
-    "open_issues_count": 74,
+    "stargazers_count": 1032,
+    "open_issues_count": 75,
     "forks_count": 67
   },
   {
     "full_name": "nodesource/distributions",
-    "stargazers_count": 10869,
-    "open_issues_count": 55,
-    "forks_count": 2981
+    "stargazers_count": 10890,
+    "open_issues_count": 54,
+    "forks_count": 2984
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5140,
+    "stargazers_count": 5169,
     "open_issues_count": 48,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "trinib/Linux-Bash-Commands",
-    "stargazers_count": 2557,
+    "stargazers_count": 2567,
     "open_issues_count": 0,
-    "forks_count": 91
+    "forks_count": 95
   },
   {
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 3582,
-    "open_issues_count": 18,
-    "forks_count": 209
+    "stargazers_count": 3598,
+    "open_issues_count": 19,
+    "forks_count": 213
   },
   {
     "full_name": "pulumi/examples",
-    "stargazers_count": 1915,
-    "open_issues_count": 135,
-    "forks_count": 759
+    "stargazers_count": 1914,
+    "open_issues_count": 136,
+    "forks_count": 762
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 27731,
-    "open_issues_count": 2450,
-    "forks_count": 987
+    "stargazers_count": 27816,
+    "open_issues_count": 2464,
+    "forks_count": 990
   },
   {
     "full_name": "Legit-Labs/legitify",
-    "stargazers_count": 283,
+    "stargazers_count": 286,
     "open_issues_count": 7,
     "forks_count": 23
   },
   {
     "full_name": "tierrun/tier",
-    "stargazers_count": 271,
-    "open_issues_count": 5,
+    "stargazers_count": 272,
+    "open_issues_count": 7,
     "forks_count": 3
   },
   {
     "full_name": "ballerine-io/ballerine",
-    "stargazers_count": 1222,
+    "stargazers_count": 1230,
     "open_issues_count": 12,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "answerdev/answer",
-    "stargazers_count": 4673,
-    "open_issues_count": 24,
-    "forks_count": 239
+    "stargazers_count": 5060,
+    "open_issues_count": 31,
+    "forks_count": 256
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 25,
     "forks_count": 14
   },
   {
     "full_name": "hashicorp/consul",
-    "stargazers_count": 25798,
-    "open_issues_count": 1186,
-    "forks_count": 4203
+    "stargazers_count": 25807,
+    "open_issues_count": 1175,
+    "forks_count": 4204
   },
   {
     "full_name": "saltstack/salt",
-    "stargazers_count": 12911,
-    "open_issues_count": 2894,
-    "forks_count": 5373
-  },
-  {
-    "full_name": "hashicorp/terraform",
-    "stargazers_count": 35549,
-    "open_issues_count": 1719,
-    "forks_count": 8224
-  },
-  {
-    "full_name": "twitter-together/action",
-    "stargazers_count": 675,
-    "open_issues_count": 31,
-    "forks_count": 80
+    "stargazers_count": 12920,
+    "open_issues_count": 2890,
+    "forks_count": 5374
   }
 ]
