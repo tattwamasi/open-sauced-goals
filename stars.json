@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "maguowei/starred",
+    "stargazers_count": 1199,
+    "open_issues_count": 13,
+    "forks_count": 81
+  },
+  {
+    "full_name": "maguowei/awesome-stars",
+    "stargazers_count": 322,
+    "open_issues_count": 4,
+    "forks_count": 61
+  },
+  {
+    "full_name": "githubnext/blocks-dev",
+    "stargazers_count": 11,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "githubocto/repo-visualizer",
+    "stargazers_count": 798,
+    "open_issues_count": 13,
+    "forks_count": 88
+  },
+  {
+    "full_name": "Wattenberger/footsteps-vscode",
+    "stargazers_count": 240,
+    "open_issues_count": 20,
+    "forks_count": 12
+  },
+  {
     "full_name": "schnerring/hugo-mod-json-resume",
     "stargazers_count": 14,
     "open_issues_count": 1,
@@ -25,63 +55,63 @@
   },
   {
     "full_name": "gofireflyio/aiac",
-    "stargazers_count": 1241,
+    "stargazers_count": 1354,
     "open_issues_count": 2,
-    "forks_count": 78
+    "forks_count": 85
   },
   {
     "full_name": "bellingcat/octosuite",
-    "stargazers_count": 1099,
+    "stargazers_count": 1140,
     "open_issues_count": 0,
-    "forks_count": 112
+    "forks_count": 114
   },
   {
     "full_name": "joshuatz/linkedin-to-jsonresume",
-    "stargazers_count": 146,
+    "stargazers_count": 147,
     "open_issues_count": 9,
     "forks_count": 36
   },
   {
     "full_name": "rbardini/resumed",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "karpathy/nn-zero-to-hero",
-    "stargazers_count": 5769,
-    "open_issues_count": 13,
-    "forks_count": 470
+    "stargazers_count": 6050,
+    "open_issues_count": 14,
+    "forks_count": 504
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 40693,
-    "open_issues_count": 918,
-    "forks_count": 3408
+    "stargazers_count": 40930,
+    "open_issues_count": 914,
+    "forks_count": 3428
   },
   {
     "full_name": "hwchase17/langchain",
-    "stargazers_count": 5118,
-    "open_issues_count": 125,
-    "forks_count": 405
+    "stargazers_count": 5372,
+    "open_issues_count": 144,
+    "forks_count": 445
   },
   {
     "full_name": "facebook/folly",
-    "stargazers_count": 24660,
-    "open_issues_count": 378,
-    "forks_count": 5034
+    "stargazers_count": 24681,
+    "open_issues_count": 380,
+    "forks_count": 5038
   },
   {
     "full_name": "jnv/lists",
-    "stargazers_count": 8720,
+    "stargazers_count": 8725,
     "open_issues_count": 0,
     "forks_count": 670
   },
   {
     "full_name": "DovAmir/awesome-design-patterns",
-    "stargazers_count": 27341,
+    "stargazers_count": 27511,
     "open_issues_count": 12,
-    "forks_count": 2203
+    "forks_count": 2213
   },
   {
     "full_name": "VirtusLab/codetale",
@@ -91,21 +121,21 @@
   },
   {
     "full_name": "transitive-bullshit/chatgpt-api",
-    "stargazers_count": 5868,
-    "open_issues_count": 14,
-    "forks_count": 645
+    "stargazers_count": 6291,
+    "open_issues_count": 5,
+    "forks_count": 690
   },
   {
     "full_name": "timkmecl/chatgpt-vscode",
-    "stargazers_count": 78,
-    "open_issues_count": 6,
+    "stargazers_count": 86,
+    "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "mpociot/chatgpt-vscode",
-    "stargazers_count": 2925,
+    "stargazers_count": 3133,
     "open_issues_count": 32,
-    "forks_count": 189
+    "forks_count": 201
   },
   {
     "full_name": "contextmap/contextmap",
@@ -115,21 +145,21 @@
   },
   {
     "full_name": "slsa-framework/slsa-verifier",
-    "stargazers_count": 71,
-    "open_issues_count": 67,
+    "stargazers_count": 73,
+    "open_issues_count": 69,
     "forks_count": 22
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 2233,
+    "stargazers_count": 2306,
     "open_issues_count": 78,
-    "forks_count": 82
+    "forks_count": 89
   },
   {
     "full_name": "jerryjliu/gpt_index",
-    "stargazers_count": 2932,
-    "open_issues_count": 33,
-    "forks_count": 215
+    "stargazers_count": 3138,
+    "open_issues_count": 37,
+    "forks_count": 242
   },
   {
     "full_name": "MLH-Fellowship/vscode-github-projects",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "karpathy/minGPT",
-    "stargazers_count": 12429,
+    "stargazers_count": 12571,
     "open_issues_count": 50,
-    "forks_count": 1367
+    "forks_count": 1377
   },
   {
     "full_name": "hpcaitech/ColossalAI",
-    "stargazers_count": 8171,
-    "open_issues_count": 151,
-    "forks_count": 740
-  },
-  {
-    "full_name": "cschleiden/vscode-github-actions",
-    "stargazers_count": 278,
-    "open_issues_count": 57,
-    "forks_count": 34
-  },
-  {
-    "full_name": "actions/add-to-project",
-    "stargazers_count": 322,
-    "open_issues_count": 17,
-    "forks_count": 62
-  },
-  {
-    "full_name": "ggerganov/whisper.cpp",
-    "stargazers_count": 5683,
-    "open_issues_count": 83,
-    "forks_count": 413
-  },
-  {
-    "full_name": "GitCredentialManager/git-credential-manager",
-    "stargazers_count": 3856,
-    "open_issues_count": 54,
-    "forks_count": 1185
-  },
-  {
-    "full_name": "refined-github/refined-github",
-    "stargazers_count": 20191,
-    "open_issues_count": 177,
-    "forks_count": 1385
+    "stargazers_count": 8219,
+    "open_issues_count": 155,
+    "forks_count": 746
   }
 ]
