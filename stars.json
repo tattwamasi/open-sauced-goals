@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "GitGuardian/ggshield",
+    "stargazers_count": 1238,
+    "open_issues_count": 44,
+    "forks_count": 113
+  },
+  {
     "full_name": "jontelang/WakaLet",
     "stargazers_count": 82,
     "open_issues_count": 5,
@@ -7,31 +13,31 @@
   },
   {
     "full_name": "aws/amazon-sagemaker-examples",
-    "stargazers_count": 7887,
-    "open_issues_count": 733,
-    "forks_count": 5885
+    "stargazers_count": 7914,
+    "open_issues_count": 732,
+    "forks_count": 5894
   },
   {
     "full_name": "karpathy/nanoGPT",
-    "stargazers_count": 13097,
-    "open_issues_count": 75,
-    "forks_count": 1159
+    "stargazers_count": 13553,
+    "open_issues_count": 85,
+    "forks_count": 1231
   },
   {
     "full_name": "welovedevs/react-ultimate-resume",
-    "stargazers_count": 2021,
-    "open_issues_count": 21,
-    "forks_count": 607
+    "stargazers_count": 2024,
+    "open_issues_count": 22,
+    "forks_count": 608
   },
   {
     "full_name": "kremalicious/portfolio",
     "stargazers_count": 417,
-    "open_issues_count": 3,
+    "open_issues_count": 6,
     "forks_count": 31
   },
   {
     "full_name": "schnerring/hugo-theme-gruvbox",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 14,
     "forks_count": 12
   },
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "rogerpadilla/nukak",
-    "stargazers_count": 49,
+    "stargazers_count": 65,
     "open_issues_count": 4,
     "forks_count": 1
   },
   {
     "full_name": "obss/BIOBSS",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 4,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "DrakeAxelrod/json-resume-service",
@@ -79,67 +85,67 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 7508,
-    "open_issues_count": 60,
-    "forks_count": 284
+    "stargazers_count": 7973,
+    "open_issues_count": 63,
+    "forks_count": 303
   },
   {
     "full_name": "google/osv-scanner",
-    "stargazers_count": 4518,
-    "open_issues_count": 51,
-    "forks_count": 215
+    "stargazers_count": 4544,
+    "open_issues_count": 56,
+    "forks_count": 218
   },
   {
     "full_name": "aquasecurity/tfsec",
-    "stargazers_count": 5609,
-    "open_issues_count": 81,
-    "forks_count": 486
+    "stargazers_count": 5619,
+    "open_issues_count": 82,
+    "forks_count": 487
   },
   {
     "full_name": "aquasecurity/trivy",
-    "stargazers_count": 16239,
-    "open_issues_count": 359,
-    "forks_count": 1575
+    "stargazers_count": 16285,
+    "open_issues_count": 353,
+    "forks_count": 1580
   },
   {
     "full_name": "bridgecrewio/checkov",
-    "stargazers_count": 5275,
-    "open_issues_count": 180,
-    "forks_count": 811
+    "stargazers_count": 5286,
+    "open_issues_count": 182,
+    "forks_count": 815
   },
   {
     "full_name": "plantuml/plantuml",
-    "stargazers_count": 7543,
-    "open_issues_count": 456,
+    "stargazers_count": 7557,
+    "open_issues_count": 451,
     "forks_count": 737
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 163273,
-    "open_issues_count": 287,
-    "forks_count": 26978
+    "stargazers_count": 163568,
+    "open_issues_count": 288,
+    "forks_count": 27018
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 228301,
-    "open_issues_count": 141,
-    "forks_count": 25998
+    "stargazers_count": 228692,
+    "open_issues_count": 144,
+    "forks_count": 26040
   },
   {
     "full_name": "snyk/cli",
-    "stargazers_count": 4337,
-    "open_issues_count": 159,
-    "forks_count": 529
+    "stargazers_count": 4338,
+    "open_issues_count": 160,
+    "forks_count": 533
   },
   {
     "full_name": "maguowei/starred",
-    "stargazers_count": 1210,
+    "stargazers_count": 1214,
     "open_issues_count": 15,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "maguowei/awesome-stars",
-    "stargazers_count": 325,
+    "stargazers_count": 327,
     "open_issues_count": 4,
     "forks_count": 61
   },
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "githubocto/repo-visualizer",
-    "stargazers_count": 804,
+    "stargazers_count": 807,
     "open_issues_count": 13,
     "forks_count": 89
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 29,
     "open_issues_count": 7,
     "forks_count": 4
-  },
-  {
-    "full_name": "githubnext/blocks-template-react",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
