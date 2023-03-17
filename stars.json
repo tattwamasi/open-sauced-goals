@@ -1,62 +1,98 @@
 [
   {
+    "full_name": "ggerganov/ggml",
+    "stargazers_count": 651,
+    "open_issues_count": 31,
+    "forks_count": 44
+  },
+  {
+    "full_name": "daveshap/raven",
+    "stargazers_count": 714,
+    "open_issues_count": 12,
+    "forks_count": 75
+  },
+  {
+    "full_name": "mortenjust/native-diffusion",
+    "stargazers_count": 456,
+    "open_issues_count": 5,
+    "forks_count": 30
+  },
+  {
+    "full_name": "huggingface/swift-coreml-diffusers",
+    "stargazers_count": 898,
+    "open_issues_count": 13,
+    "forks_count": 65
+  },
+  {
+    "full_name": "NouamaneTazi/bloomz.cpp",
+    "stargazers_count": 252,
+    "open_issues_count": 4,
+    "forks_count": 8
+  },
+  {
+    "full_name": "openai/evals",
+    "stargazers_count": 4868,
+    "open_issues_count": 221,
+    "forks_count": 702
+  },
+  {
     "full_name": "ggerganov/ggwave",
-    "stargazers_count": 1102,
+    "stargazers_count": 1114,
     "open_issues_count": 24,
     "forks_count": 91
   },
   {
     "full_name": "ggerganov/llama.cpp",
-    "stargazers_count": 4576,
-    "open_issues_count": 47,
-    "forks_count": 255
+    "stargazers_count": 8531,
+    "open_issues_count": 76,
+    "forks_count": 696
   },
   {
     "full_name": "advanced-security/gh-sbom",
-    "stargazers_count": 69,
-    "open_issues_count": 2,
+    "stargazers_count": 71,
+    "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 11213,
-    "open_issues_count": 1482,
+    "stargazers_count": 11246,
+    "open_issues_count": 1481,
     "forks_count": 624
   },
   {
     "full_name": "google/jsonnet",
-    "stargazers_count": 6096,
-    "open_issues_count": 241,
+    "stargazers_count": 6100,
+    "open_issues_count": 243,
     "forks_count": 420
   },
   {
     "full_name": "teamhanko/hanko",
-    "stargazers_count": 1612,
-    "open_issues_count": 43,
+    "stargazers_count": 1614,
+    "open_issues_count": 36,
     "forks_count": 62
   },
   {
     "full_name": "AsahiLinux/linux",
-    "stargazers_count": 1650,
+    "stargazers_count": 1647,
     "open_issues_count": 35,
     "forks_count": 54
   },
   {
     "full_name": "github/branch-deploy",
     "stargazers_count": 150,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "RaRe-Technologies/gensim",
-    "stargazers_count": 14056,
-    "open_issues_count": 392,
-    "forks_count": 4330
+    "stargazers_count": 14067,
+    "open_issues_count": 395,
+    "forks_count": 4332
   },
   {
     "full_name": "GitGuardian/ggshield",
-    "stargazers_count": 1258,
-    "open_issues_count": 39,
+    "stargazers_count": 1259,
+    "open_issues_count": 37,
     "forks_count": 115
   },
   {
@@ -67,15 +103,15 @@
   },
   {
     "full_name": "aws/amazon-sagemaker-examples",
-    "stargazers_count": 8022,
-    "open_issues_count": 745,
-    "forks_count": 5969
+    "stargazers_count": 8041,
+    "open_issues_count": 748,
+    "forks_count": 5988
   },
   {
     "full_name": "karpathy/nanoGPT",
-    "stargazers_count": 14671,
-    "open_issues_count": 105,
-    "forks_count": 1503
+    "stargazers_count": 14965,
+    "open_issues_count": 107,
+    "forks_count": 1566
   },
   {
     "full_name": "welovedevs/react-ultimate-resume",
@@ -85,7 +121,7 @@
   },
   {
     "full_name": "kremalicious/portfolio",
-    "stargazers_count": 422,
+    "stargazers_count": 425,
     "open_issues_count": 10,
     "forks_count": 31
   },
@@ -134,49 +170,13 @@
   {
     "full_name": "DrakeAxelrod/json-resume-service",
     "stargazers_count": 53,
-    "open_issues_count": 0,
-    "forks_count": 7
+    "open_issues_count": 1,
+    "forks_count": 8
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 9653,
-    "open_issues_count": 88,
-    "forks_count": 369
-  },
-  {
-    "full_name": "google/osv-scanner",
-    "stargazers_count": 4632,
-    "open_issues_count": 59,
-    "forks_count": 229
-  },
-  {
-    "full_name": "aquasecurity/tfsec",
-    "stargazers_count": 5672,
-    "open_issues_count": 89,
-    "forks_count": 488
-  },
-  {
-    "full_name": "aquasecurity/trivy",
-    "stargazers_count": 16551,
-    "open_issues_count": 381,
-    "forks_count": 1603
-  },
-  {
-    "full_name": "bridgecrewio/checkov",
-    "stargazers_count": 5362,
-    "open_issues_count": 169,
-    "forks_count": 834
-  },
-  {
-    "full_name": "plantuml/plantuml",
-    "stargazers_count": 7676,
-    "open_issues_count": 458,
-    "forks_count": 747
-  },
-  {
-    "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 164786,
-    "open_issues_count": 290,
-    "forks_count": 27194
+    "stargazers_count": 9939,
+    "open_issues_count": 84,
+    "forks_count": 381
   }
 ]
