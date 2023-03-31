@@ -1,19 +1,37 @@
 [
   {
+    "full_name": "GammaTauAI/reflexion-human-eval",
+    "stargazers_count": 290,
+    "open_issues_count": 1,
+    "forks_count": 30
+  },
+  {
+    "full_name": "noahshinn024/reflexion",
+    "stargazers_count": 150,
+    "open_issues_count": 2,
+    "forks_count": 15
+  },
+  {
+    "full_name": "mayooear/gpt4-pdf-chatbot-langchain",
+    "stargazers_count": 4251,
+    "open_issues_count": 24,
+    "forks_count": 643
+  },
+  {
     "full_name": "daveshap/REMO_Framework",
-    "stargazers_count": 7,
+    "stargazers_count": 32,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 6
   },
   {
     "full_name": "emptycrown/llama-hub",
-    "stargazers_count": 653,
-    "open_issues_count": 30,
-    "forks_count": 111
+    "stargazers_count": 721,
+    "open_issues_count": 34,
+    "forks_count": 121
   },
   {
     "full_name": "ventali/awesome-zk",
-    "stargazers_count": 861,
+    "stargazers_count": 865,
     "open_issues_count": 0,
     "forks_count": 127
   },
@@ -25,57 +43,57 @@
   },
   {
     "full_name": "cocktailpeanut/dalai",
-    "stargazers_count": 6982,
-    "open_issues_count": 213,
-    "forks_count": 758
+    "stargazers_count": 7831,
+    "open_issues_count": 237,
+    "forks_count": 867
   },
   {
     "full_name": "logspace-ai/langflow",
-    "stargazers_count": 1983,
-    "open_issues_count": 14,
-    "forks_count": 139
+    "stargazers_count": 2855,
+    "open_issues_count": 17,
+    "forks_count": 189
   },
   {
     "full_name": "microsoft/semantic-kernel",
-    "stargazers_count": 3394,
-    "open_issues_count": 34,
-    "forks_count": 317
+    "stargazers_count": 3715,
+    "open_issues_count": 32,
+    "forks_count": 363
   },
   {
     "full_name": "skills/introduction-to-github",
-    "stargazers_count": 2144,
+    "stargazers_count": 2154,
     "open_issues_count": 12,
-    "forks_count": 859
+    "forks_count": 868
   },
   {
     "full_name": "unifyai/ivy",
-    "stargazers_count": 9818,
-    "open_issues_count": 1662,
-    "forks_count": 3532
+    "stargazers_count": 9905,
+    "open_issues_count": 1532,
+    "forks_count": 3589
   },
   {
     "full_name": "tatsu-lab/stanford_alpaca",
-    "stargazers_count": 15473,
-    "open_issues_count": 78,
-    "forks_count": 2081
+    "stargazers_count": 16896,
+    "open_issues_count": 87,
+    "forks_count": 2312
   },
   {
     "full_name": "jtmuller5/The-HustleGPT-Challenge",
-    "stargazers_count": 1713,
+    "stargazers_count": 1792,
     "open_issues_count": 1,
-    "forks_count": 76
+    "forks_count": 81
   },
   {
     "full_name": "ggerganov/ggml",
-    "stargazers_count": 981,
-    "open_issues_count": 34,
-    "forks_count": 62
+    "stargazers_count": 1048,
+    "open_issues_count": 32,
+    "forks_count": 70
   },
   {
     "full_name": "daveshap/raven",
-    "stargazers_count": 749,
+    "stargazers_count": 760,
     "open_issues_count": 12,
-    "forks_count": 80
+    "forks_count": 83
   },
   {
     "full_name": "mortenjust/native-diffusion",
@@ -85,98 +103,80 @@
   },
   {
     "full_name": "huggingface/swift-coreml-diffusers",
-    "stargazers_count": 956,
+    "stargazers_count": 971,
     "open_issues_count": 12,
     "forks_count": 69
   },
   {
     "full_name": "NouamaneTazi/bloomz.cpp",
-    "stargazers_count": 551,
-    "open_issues_count": 12,
+    "stargazers_count": 568,
+    "open_issues_count": 11,
     "forks_count": 28
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 6855,
-    "open_issues_count": 327,
-    "forks_count": 1069
+    "stargazers_count": 7175,
+    "open_issues_count": 331,
+    "forks_count": 1136
   },
   {
     "full_name": "ggerganov/ggwave",
-    "stargazers_count": 1148,
+    "stargazers_count": 1160,
     "open_issues_count": 25,
     "forks_count": 90
   },
   {
     "full_name": "ggerganov/llama.cpp",
-    "stargazers_count": 14704,
-    "open_issues_count": 131,
-    "forks_count": 2001
+    "stargazers_count": 15905,
+    "open_issues_count": 127,
+    "forks_count": 2236
   },
   {
     "full_name": "advanced-security/gh-sbom",
-    "stargazers_count": 77,
-    "open_issues_count": 3,
+    "stargazers_count": 88,
+    "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 11321,
-    "open_issues_count": 1451,
-    "forks_count": 633
+    "stargazers_count": 11350,
+    "open_issues_count": 1455,
+    "forks_count": 635
   },
   {
     "full_name": "google/jsonnet",
-    "stargazers_count": 6142,
-    "open_issues_count": 243,
-    "forks_count": 419
+    "stargazers_count": 6160,
+    "open_issues_count": 244,
+    "forks_count": 420
   },
   {
     "full_name": "teamhanko/hanko",
-    "stargazers_count": 1634,
-    "open_issues_count": 41,
-    "forks_count": 64
+    "stargazers_count": 1635,
+    "open_issues_count": 45,
+    "forks_count": 65
   },
   {
     "full_name": "AsahiLinux/linux",
-    "stargazers_count": 1668,
-    "open_issues_count": 38,
+    "stargazers_count": 1674,
+    "open_issues_count": 36,
     "forks_count": 54
   },
   {
     "full_name": "github/branch-deploy",
-    "stargazers_count": 156,
+    "stargazers_count": 159,
     "open_issues_count": 4,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "RaRe-Technologies/gensim",
-    "stargazers_count": 14107,
+    "stargazers_count": 14130,
     "open_issues_count": 396,
-    "forks_count": 4345
+    "forks_count": 4343
   },
   {
     "full_name": "GitGuardian/ggshield",
     "stargazers_count": 1266,
-    "open_issues_count": 38,
+    "open_issues_count": 36,
     "forks_count": 116
-  },
-  {
-    "full_name": "jontelang/WakaLet",
-    "stargazers_count": 82,
-    "open_issues_count": 5,
-    "forks_count": 9
-  },
-  {
-    "full_name": "aws/amazon-sagemaker-examples",
-    "stargazers_count": 8075,
-    "open_issues_count": 745,
-    "forks_count": 6022
-  },
-  {
-    "full_name": "karpathy/nanoGPT",
-    "stargazers_count": 16162,
-    "open_issues_count": 121,
-    "forks_count": 1741
   }
 ]
