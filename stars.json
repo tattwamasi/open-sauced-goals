@@ -1,49 +1,55 @@
 [
   {
+    "full_name": "ShishirPatil/gorilla",
+    "stargazers_count": 8436,
+    "open_issues_count": 40,
+    "forks_count": 645
+  },
+  {
     "full_name": "JieyuZ2/EcoAssistant",
-    "stargazers_count": 59,
+    "stargazers_count": 63,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "amadad/agentcy",
-    "stargazers_count": 120,
-    "open_issues_count": 0,
-    "forks_count": 20
+    "stargazers_count": 135,
+    "open_issues_count": 1,
+    "forks_count": 21
   },
   {
     "full_name": "eureka-research/Eureka",
-    "stargazers_count": 1833,
-    "open_issues_count": 17,
-    "forks_count": 143
+    "stargazers_count": 2091,
+    "open_issues_count": 18,
+    "forks_count": 160
   },
   {
     "full_name": "agentlabs-inc/agentlabs",
-    "stargazers_count": 272,
+    "stargazers_count": 279,
     "open_issues_count": 4,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "lm-sys/FastChat",
-    "stargazers_count": 28575,
-    "open_issues_count": 391,
-    "forks_count": 3506
+    "stargazers_count": 28685,
+    "open_issues_count": 400,
+    "forks_count": 3515
   },
   {
     "full_name": "gethomepage/homepage",
-    "stargazers_count": 9954,
+    "stargazers_count": 10067,
     "open_issues_count": 2,
-    "forks_count": 557
+    "forks_count": 568
   },
   {
     "full_name": "OpenBMB/XAgent",
-    "stargazers_count": 3502,
-    "open_issues_count": 22,
-    "forks_count": 278
+    "stargazers_count": 3976,
+    "open_issues_count": 29,
+    "forks_count": 324
   },
   {
     "full_name": "dust-tt/llama-ssp",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -55,21 +61,21 @@
   },
   {
     "full_name": "intitni/CopilotForXcode",
-    "stargazers_count": 5481,
+    "stargazers_count": 5502,
     "open_issues_count": 18,
-    "forks_count": 257
+    "forks_count": 258
   },
   {
     "full_name": "DataBassGit/AgentForge",
-    "stargazers_count": 227,
+    "stargazers_count": 232,
     "open_issues_count": 6,
-    "forks_count": 59
+    "forks_count": 58
   },
   {
     "full_name": "mozilla/DeepSpeech",
-    "stargazers_count": 23219,
+    "stargazers_count": 23243,
     "open_issues_count": 135,
-    "forks_count": 3867
+    "forks_count": 3870
   },
   {
     "full_name": "yencarnacion/yt-sum",
@@ -79,27 +85,27 @@
   },
   {
     "full_name": "daveshap/ACE_Framework",
-    "stargazers_count": 838,
+    "stargazers_count": 858,
     "open_issues_count": 5,
-    "forks_count": 113
+    "forks_count": 119
   },
   {
     "full_name": "BerriAI/litellm",
-    "stargazers_count": 2369,
-    "open_issues_count": 119,
-    "forks_count": 192
+    "stargazers_count": 2480,
+    "open_issues_count": 115,
+    "forks_count": 206
   },
   {
     "full_name": "Pythagora-io/gpt-pilot",
-    "stargazers_count": 13124,
+    "stargazers_count": 13387,
     "open_issues_count": 71,
-    "forks_count": 987
+    "forks_count": 1002
   },
   {
     "full_name": "ZiwenZhuang/parkour",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 2,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "awslabs/app-development-for-backstage-io-on-aws",
@@ -109,74 +115,68 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 23636,
-    "open_issues_count": 507,
-    "forks_count": 4643
+    "stargazers_count": 23684,
+    "open_issues_count": 501,
+    "forks_count": 4658
   },
   {
     "full_name": "oam-dev/spec",
-    "stargazers_count": 2896,
+    "stargazers_count": 2900,
     "open_issues_count": 116,
     "forks_count": 250
   },
   {
     "full_name": "crossplane/crossplane",
-    "stargazers_count": 7681,
-    "open_issues_count": 194,
-    "forks_count": 806
+    "stargazers_count": 7688,
+    "open_issues_count": 195,
+    "forks_count": 807
   },
   {
     "full_name": "KillianLucas/open-interpreter",
-    "stargazers_count": 30909,
-    "open_issues_count": 229,
-    "forks_count": 2687
+    "stargazers_count": 31234,
+    "open_issues_count": 176,
+    "forks_count": 2720
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 22779,
-    "open_issues_count": 123,
-    "forks_count": 1631
+    "stargazers_count": 22824,
+    "open_issues_count": 126,
+    "forks_count": 1635
   },
   {
     "full_name": "YavorGIvanov/sam.cpp",
-    "stargazers_count": 1165,
+    "stargazers_count": 1166,
     "open_issues_count": 5,
     "forks_count": 47
   },
   {
     "full_name": "ipfs-cluster/ipfs-cluster",
-    "stargazers_count": 1408,
+    "stargazers_count": 1409,
     "open_issues_count": 114,
     "forks_count": 293
   },
   {
     "full_name": "GerevAI/gerev",
-    "stargazers_count": 2497,
+    "stargazers_count": 2501,
     "open_issues_count": 26,
     "forks_count": 160
   },
   {
     "full_name": "joonspk-research/generative_agents",
-    "stargazers_count": 13088,
-    "open_issues_count": 95,
-    "forks_count": 1470
+    "stargazers_count": 13149,
+    "open_issues_count": 97,
+    "forks_count": 1480
   },
   {
     "full_name": "1rgs/jsonformer",
-    "stargazers_count": 3093,
+    "stargazers_count": 3112,
     "open_issues_count": 26,
     "forks_count": 104
   },
   {
     "full_name": "geekan/MetaGPT",
-    "stargazers_count": 29833,
-    "open_issues_count": 173,
-    "forks_count": 3477
-  },
-  {
-    "full_name": "isl-org/OpenBot",
-    "stargazers_count": 2514,
-    "open_issues_count": 34,
-    "forks_count": 469
+    "stargazers_count": 30147,
+    "open_issues_count": 174,
+    "forks_count": 3500
   }
 ]
