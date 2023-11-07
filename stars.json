@@ -1,15 +1,15 @@
 [
   {
     "full_name": "AbanteAI/mentat",
-    "stargazers_count": 1705,
-    "open_issues_count": 46,
-    "forks_count": 156
+    "stargazers_count": 1708,
+    "open_issues_count": 48,
+    "forks_count": 159
   },
   {
     "full_name": "THUDM/CogVLM",
-    "stargazers_count": 1409,
+    "stargazers_count": 1441,
     "open_issues_count": 37,
-    "forks_count": 62
+    "forks_count": 66
   },
   {
     "full_name": "holzschu/Carnets",
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "paul-gauthier/aider",
-    "stargazers_count": 4418,
-    "open_issues_count": 30,
-    "forks_count": 630
+    "stargazers_count": 4485,
+    "open_issues_count": 29,
+    "forks_count": 634
   },
   {
     "full_name": "Andyinater/AutoGen_IterativeCoding",
-    "stargazers_count": 53,
+    "stargazers_count": 57,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 2320,
-    "open_issues_count": 46,
-    "forks_count": 79
+    "stargazers_count": 2338,
+    "open_issues_count": 47,
+    "forks_count": 80
   },
   {
     "full_name": "microsoft/kernel-memory",
-    "stargazers_count": 525,
-    "open_issues_count": 43,
-    "forks_count": 82
+    "stargazers_count": 539,
+    "open_issues_count": 40,
+    "forks_count": 88
   },
   {
     "full_name": "ShishirPatil/gorilla",
-    "stargazers_count": 8457,
-    "open_issues_count": 41,
-    "forks_count": 646
+    "stargazers_count": 8483,
+    "open_issues_count": 43,
+    "forks_count": 647
   },
   {
     "full_name": "JieyuZ2/EcoAssistant",
@@ -55,39 +55,39 @@
   },
   {
     "full_name": "amadad/agentcy",
-    "stargazers_count": 148,
+    "stargazers_count": 164,
     "open_issues_count": 3,
-    "forks_count": 24
+    "forks_count": 26
   },
   {
     "full_name": "eureka-research/Eureka",
-    "stargazers_count": 2148,
+    "stargazers_count": 2186,
     "open_issues_count": 18,
-    "forks_count": 169
+    "forks_count": 173
   },
   {
     "full_name": "agentlabs-inc/agentlabs",
-    "stargazers_count": 284,
+    "stargazers_count": 289,
     "open_issues_count": 4,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "lm-sys/FastChat",
-    "stargazers_count": 28820,
-    "open_issues_count": 402,
-    "forks_count": 3546
+    "stargazers_count": 28925,
+    "open_issues_count": 396,
+    "forks_count": 3567
   },
   {
     "full_name": "gethomepage/homepage",
-    "stargazers_count": 10152,
-    "open_issues_count": 2,
-    "forks_count": 574
+    "stargazers_count": 10213,
+    "open_issues_count": 1,
+    "forks_count": 577
   },
   {
     "full_name": "OpenBMB/XAgent",
-    "stargazers_count": 4265,
-    "open_issues_count": 25,
-    "forks_count": 350
+    "stargazers_count": 4419,
+    "open_issues_count": 17,
+    "forks_count": 368
   },
   {
     "full_name": "dust-tt/llama-ssp",
@@ -103,49 +103,49 @@
   },
   {
     "full_name": "intitni/CopilotForXcode",
-    "stargazers_count": 5524,
+    "stargazers_count": 5543,
     "open_issues_count": 20,
     "forks_count": 263
   },
   {
     "full_name": "DataBassGit/AgentForge",
-    "stargazers_count": 233,
+    "stargazers_count": 235,
     "open_issues_count": 6,
     "forks_count": 58
   },
   {
     "full_name": "mozilla/DeepSpeech",
-    "stargazers_count": 23248,
+    "stargazers_count": 23266,
     "open_issues_count": 136,
-    "forks_count": 3870
+    "forks_count": 3875
   },
   {
     "full_name": "yencarnacion/yt-sum",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "daveshap/ACE_Framework",
-    "stargazers_count": 873,
-    "open_issues_count": 4,
-    "forks_count": 125
+    "stargazers_count": 884,
+    "open_issues_count": 5,
+    "forks_count": 129
   },
   {
     "full_name": "BerriAI/litellm",
-    "stargazers_count": 2549,
-    "open_issues_count": 103,
-    "forks_count": 213
+    "stargazers_count": 2629,
+    "open_issues_count": 106,
+    "forks_count": 224
   },
   {
     "full_name": "Pythagora-io/gpt-pilot",
-    "stargazers_count": 13824,
-    "open_issues_count": 75,
-    "forks_count": 1059
+    "stargazers_count": 14540,
+    "open_issues_count": 80,
+    "forks_count": 1132
   },
   {
     "full_name": "ZiwenZhuang/parkour",
-    "stargazers_count": 271,
+    "stargazers_count": 274,
     "open_issues_count": 2,
     "forks_count": 46
   },
@@ -153,30 +153,30 @@
     "full_name": "awslabs/app-development-for-backstage-io-on-aws",
     "stargazers_count": 81,
     "open_issues_count": 4,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 23768,
-    "open_issues_count": 514,
-    "forks_count": 4672
+    "stargazers_count": 23841,
+    "open_issues_count": 495,
+    "forks_count": 4692
   },
   {
     "full_name": "oam-dev/spec",
-    "stargazers_count": 2901,
+    "stargazers_count": 2903,
     "open_issues_count": 116,
     "forks_count": 250
   },
   {
     "full_name": "crossplane/crossplane",
-    "stargazers_count": 7705,
-    "open_issues_count": 190,
-    "forks_count": 807
+    "stargazers_count": 7716,
+    "open_issues_count": 200,
+    "forks_count": 810
   },
   {
     "full_name": "KillianLucas/open-interpreter",
-    "stargazers_count": 31478,
-    "open_issues_count": 154,
-    "forks_count": 2747
+    "stargazers_count": 31727,
+    "open_issues_count": 140,
+    "forks_count": 2774
   }
 ]
