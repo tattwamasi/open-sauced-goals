@@ -1,21 +1,111 @@
 [
   {
+    "full_name": "YiVal/YiVal",
+    "stargazers_count": 2198,
+    "open_issues_count": 16,
+    "forks_count": 392
+  },
+  {
+    "full_name": "oobabooga/text-generation-webui-extensions",
+    "stargazers_count": 257,
+    "open_issues_count": 7,
+    "forks_count": 71
+  },
+  {
+    "full_name": "openai/openai-python",
+    "stargazers_count": 15418,
+    "open_issues_count": 64,
+    "forks_count": 2062
+  },
+  {
+    "full_name": "pmndrs/zustand",
+    "stargazers_count": 37022,
+    "open_issues_count": 3,
+    "forks_count": 1154
+  },
+  {
+    "full_name": "FlowiseAI/FlowiseChatEmbed",
+    "stargazers_count": 145,
+    "open_issues_count": 12,
+    "forks_count": 436
+  },
+  {
+    "full_name": "OpenBMB/BMTools",
+    "stargazers_count": 2723,
+    "open_issues_count": 10,
+    "forks_count": 249
+  },
+  {
+    "full_name": "AaronWard/generative-ai-workbook",
+    "stargazers_count": 60,
+    "open_issues_count": 0,
+    "forks_count": 20
+  },
+  {
+    "full_name": "Troyanovsky/Local-LLM-Comparison-Colab-UI",
+    "stargazers_count": 509,
+    "open_issues_count": 7,
+    "forks_count": 77
+  },
+  {
+    "full_name": "bonadio/autogenwebdemo",
+    "stargazers_count": 39,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "stargazers_count": 109832,
+    "open_issues_count": 1689,
+    "forks_count": 22022
+  },
+  {
+    "full_name": "AI-Engineer-Foundation/agent-protocol",
+    "stargazers_count": 512,
+    "open_issues_count": 20,
+    "forks_count": 44
+  },
+  {
+    "full_name": "amikos-tech/func-ai",
+    "stargazers_count": 5,
+    "open_issues_count": 9,
+    "forks_count": 1
+  },
+  {
+    "full_name": "aurelio-labs/funkagent",
+    "stargazers_count": 69,
+    "open_issues_count": 2,
+    "forks_count": 21
+  },
+  {
+    "full_name": "rizerphe/openai-functions",
+    "stargazers_count": 30,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
+    "full_name": "jxnl/instructor",
+    "stargazers_count": 2148,
+    "open_issues_count": 8,
+    "forks_count": 160
+  },
+  {
     "full_name": "thakkarparth007/copilot-explorer",
-    "stargazers_count": 466,
+    "stargazers_count": 467,
     "open_issues_count": 7,
     "forks_count": 55
   },
   {
     "full_name": "githubnext/testpilot",
-    "stargazers_count": 155,
+    "stargazers_count": 187,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "ParisNeo/lollms-webui",
-    "stargazers_count": 3067,
-    "open_issues_count": 89,
-    "forks_count": 397
+    "stargazers_count": 3094,
+    "open_issues_count": 90,
+    "forks_count": 398
   },
   {
     "full_name": "simonmesmith/agentflow",
@@ -25,21 +115,21 @@
   },
   {
     "full_name": "victordibia/autogen-ui",
-    "stargazers_count": 260,
-    "open_issues_count": 2,
+    "stargazers_count": 278,
+    "open_issues_count": 4,
     "forks_count": 27
   },
   {
     "full_name": "rnadigital/agentcloud",
-    "stargazers_count": 108,
-    "open_issues_count": 15,
-    "forks_count": 28
+    "stargazers_count": 114,
+    "open_issues_count": 16,
+    "forks_count": 30
   },
   {
     "full_name": "AI-Citizen/SolidGPT",
-    "stargazers_count": 1724,
+    "stargazers_count": 1735,
     "open_issues_count": 11,
-    "forks_count": 110
+    "forks_count": 112
   },
   {
     "full_name": "Andyinater/AutoGen_EnhancedAgents",
@@ -49,134 +139,44 @@
   },
   {
     "full_name": "denonrailz/obsidian-autogen",
-    "stargazers_count": 38,
+    "stargazers_count": 41,
     "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "KellanM/OpenAI-Api-Unreal",
-    "stargazers_count": 554,
+    "stargazers_count": 561,
     "open_issues_count": 16,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "D7EAD/liboai",
-    "stargazers_count": 233,
-    "open_issues_count": 5,
+    "stargazers_count": 236,
+    "open_issues_count": 4,
     "forks_count": 45
   },
   {
     "full_name": "sugarforever/LangChain-Advanced",
-    "stargazers_count": 81,
-    "open_issues_count": 1,
-    "forks_count": 22
+    "stargazers_count": 85,
+    "open_issues_count": 2,
+    "forks_count": 24
   },
   {
     "full_name": "githubnext/monaspace",
-    "stargazers_count": 8053,
-    "open_issues_count": 98,
-    "forks_count": 110
+    "stargazers_count": 8735,
+    "open_issues_count": 113,
+    "forks_count": 127
   },
   {
     "full_name": "PrefectHQ/marvin",
-    "stargazers_count": 3788,
+    "stargazers_count": 3817,
     "open_issues_count": 47,
-    "forks_count": 383
+    "forks_count": 386
   },
   {
     "full_name": "oobabooga/text-generation-webui",
-    "stargazers_count": 27054,
-    "open_issues_count": 316,
-    "forks_count": 3649
-  },
-  {
-    "full_name": "huggingface/candle",
-    "stargazers_count": 9946,
-    "open_issues_count": 94,
-    "forks_count": 428
-  },
-  {
-    "full_name": "microsoft/autogen",
-    "stargazers_count": 16361,
-    "open_issues_count": 245,
-    "forks_count": 1873
-  },
-  {
-    "full_name": "fixie-ai/ai-jsx",
-    "stargazers_count": 683,
-    "open_issues_count": 28,
-    "forks_count": 41
-  },
-  {
-    "full_name": "danielgross/localpilot",
-    "stargazers_count": 2975,
-    "open_issues_count": 18,
-    "forks_count": 113
-  },
-  {
-    "full_name": "linuxkit/linuxkit",
-    "stargazers_count": 7979,
-    "open_issues_count": 346,
-    "forks_count": 1039
-  },
-  {
-    "full_name": "raidendotai/openv0",
-    "stargazers_count": 2542,
-    "open_issues_count": 25,
-    "forks_count": 177
-  },
-  {
-    "full_name": "AbanteAI/mentat",
-    "stargazers_count": 1792,
-    "open_issues_count": 63,
-    "forks_count": 161
-  },
-  {
-    "full_name": "THUDM/CogVLM",
-    "stargazers_count": 2067,
-    "open_issues_count": 55,
-    "forks_count": 98
-  },
-  {
-    "full_name": "holzschu/Carnets",
-    "stargazers_count": 510,
-    "open_issues_count": 227,
-    "forks_count": 31
-  },
-  {
-    "full_name": "paul-gauthier/aider",
-    "stargazers_count": 5036,
-    "open_issues_count": 51,
-    "forks_count": 667
-  },
-  {
-    "full_name": "Andyinater/AutoGen_IterativeCoding",
-    "stargazers_count": 59,
-    "open_issues_count": 1,
-    "forks_count": 10
-  },
-  {
-    "full_name": "raphamorim/rio",
-    "stargazers_count": 2365,
-    "open_issues_count": 41,
-    "forks_count": 80
-  },
-  {
-    "full_name": "microsoft/kernel-memory",
-    "stargazers_count": 581,
-    "open_issues_count": 38,
-    "forks_count": 99
-  },
-  {
-    "full_name": "ShishirPatil/gorilla",
-    "stargazers_count": 8523,
-    "open_issues_count": 40,
-    "forks_count": 655
-  },
-  {
-    "full_name": "JieyuZ2/EcoAssistant",
-    "stargazers_count": 67,
-    "open_issues_count": 0,
-    "forks_count": 4
+    "stargazers_count": 27319,
+    "open_issues_count": 301,
+    "forks_count": 3691
   }
 ]
