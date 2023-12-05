@@ -1,32 +1,98 @@
 [
   {
+    "full_name": "getzep/zep",
+    "stargazers_count": 1558,
+    "open_issues_count": 21,
+    "forks_count": 213
+  },
+  {
+    "full_name": "mudler/LocalAI",
+    "stargazers_count": 13908,
+    "open_issues_count": 192,
+    "forks_count": 1212
+  },
+  {
+    "full_name": "Josh-XT/Local-LLM",
+    "stargazers_count": 17,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
+    "full_name": "daveshap/OpenAI_Agent_Swarm",
+    "stargazers_count": 2558,
+    "open_issues_count": 8,
+    "forks_count": 314
+  },
+  {
+    "full_name": "JamesTurland/JimsGarage",
+    "stargazers_count": 307,
+    "open_issues_count": 11,
+    "forks_count": 86
+  },
+  {
+    "full_name": "Chainlit/cookbook",
+    "stargazers_count": 296,
+    "open_issues_count": 7,
+    "forks_count": 94
+  },
+  {
+    "full_name": "Chainlit/chainlit",
+    "stargazers_count": 3935,
+    "open_issues_count": 69,
+    "forks_count": 436
+  },
+  {
+    "full_name": "vllm-project/vllm",
+    "stargazers_count": 10526,
+    "open_issues_count": 719,
+    "forks_count": 1264
+  },
+  {
+    "full_name": "abhishek-ch/streamlit-healthcare-ML-App",
+    "stargazers_count": 25,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "abhishek-ch/VectorVerse",
+    "stargazers_count": 35,
+    "open_issues_count": 4,
+    "forks_count": 7
+  },
+  {
+    "full_name": "disler/multi-agent-postgres-data-analytics",
+    "stargazers_count": 588,
+    "open_issues_count": 2,
+    "forks_count": 88
+  },
+  {
     "full_name": "neulab/prompt2model",
-    "stargazers_count": 1663,
-    "open_issues_count": 40,
-    "forks_count": 137
+    "stargazers_count": 1670,
+    "open_issues_count": 43,
+    "forks_count": 138
   },
   {
     "full_name": "yeyu2/Youtube_demos",
-    "stargazers_count": 27,
+    "stargazers_count": 34,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 11
   },
   {
     "full_name": "readmeio/api",
-    "stargazers_count": 431,
-    "open_issues_count": 13,
+    "stargazers_count": 434,
+    "open_issues_count": 15,
     "forks_count": 22
   },
   {
     "full_name": "deepset-ai/haystack",
-    "stargazers_count": 11752,
-    "open_issues_count": 469,
-    "forks_count": 1482
+    "stargazers_count": 11794,
+    "open_issues_count": 459,
+    "forks_count": 1487
   },
   {
     "full_name": "MeetKai/functionary",
-    "stargazers_count": 363,
-    "open_issues_count": 10,
+    "stargazers_count": 374,
+    "open_issues_count": 12,
     "forks_count": 24
   },
   {
@@ -37,25 +103,25 @@
   },
   {
     "full_name": "danielgtaylor/restish",
-    "stargazers_count": 559,
+    "stargazers_count": 567,
     "open_issues_count": 23,
     "forks_count": 62
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 48177,
-    "open_issues_count": 28,
-    "forks_count": 3482
+    "stargazers_count": 48282,
+    "open_issues_count": 31,
+    "forks_count": 3486
   },
   {
     "full_name": "SillyTavern/SillyTavern",
-    "stargazers_count": 3759,
-    "open_issues_count": 219,
-    "forks_count": 995
+    "stargazers_count": 3837,
+    "open_issues_count": 220,
+    "forks_count": 1026
   },
   {
     "full_name": "Snapchat/djinni",
-    "stargazers_count": 148,
+    "stargazers_count": 150,
     "open_issues_count": 11,
     "forks_count": 41
   },
@@ -73,110 +139,44 @@
   },
   {
     "full_name": "princeton-vl/infinigen",
-    "stargazers_count": 4806,
-    "open_issues_count": 44,
-    "forks_count": 503
+    "stargazers_count": 4813,
+    "open_issues_count": 45,
+    "forks_count": 504
   },
   {
     "full_name": "utmapp/UTM",
-    "stargazers_count": 22252,
-    "open_issues_count": 643,
-    "forks_count": 1177
+    "stargazers_count": 22300,
+    "open_issues_count": 651,
+    "forks_count": 1182
   },
   {
     "full_name": "assafelovic/gpt-researcher",
-    "stargazers_count": 5788,
-    "open_issues_count": 28,
-    "forks_count": 669
+    "stargazers_count": 5865,
+    "open_issues_count": 34,
+    "forks_count": 678
   },
   {
     "full_name": "jacoblee93/fully-local-pdf-chatbot",
-    "stargazers_count": 227,
-    "open_issues_count": 2,
-    "forks_count": 63
+    "stargazers_count": 251,
+    "open_issues_count": 3,
+    "forks_count": 69
   },
   {
     "full_name": "langchain-ai/chat-langchain",
-    "stargazers_count": 4054,
-    "open_issues_count": 105,
-    "forks_count": 955
+    "stargazers_count": 4068,
+    "open_issues_count": 104,
+    "forks_count": 956
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 1977,
-    "open_issues_count": 139,
+    "stargazers_count": 1986,
+    "open_issues_count": 108,
     "forks_count": 84
   },
   {
     "full_name": "ferdikoomen/openapi-typescript-codegen",
-    "stargazers_count": 2169,
-    "open_issues_count": 213,
-    "forks_count": 492
-  },
-  {
-    "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 18317,
-    "open_issues_count": 4340,
-    "forks_count": 5804
-  },
-  {
-    "full_name": "thebaselab/codeapp",
-    "stargazers_count": 2447,
-    "open_issues_count": 412,
-    "forks_count": 167
-  },
-  {
-    "full_name": "YiVal/YiVal",
-    "stargazers_count": 2186,
-    "open_issues_count": 16,
-    "forks_count": 391
-  },
-  {
-    "full_name": "oobabooga/text-generation-webui-extensions",
-    "stargazers_count": 269,
-    "open_issues_count": 8,
-    "forks_count": 72
-  },
-  {
-    "full_name": "openai/openai-python",
-    "stargazers_count": 16180,
-    "open_issues_count": 69,
-    "forks_count": 2156
-  },
-  {
-    "full_name": "pmndrs/zustand",
-    "stargazers_count": 37339,
-    "open_issues_count": 3,
-    "forks_count": 1159
-  },
-  {
-    "full_name": "FlowiseAI/FlowiseChatEmbed",
-    "stargazers_count": 149,
-    "open_issues_count": 16,
-    "forks_count": 464
-  },
-  {
-    "full_name": "OpenBMB/BMTools",
-    "stargazers_count": 2731,
-    "open_issues_count": 11,
-    "forks_count": 251
-  },
-  {
-    "full_name": "AaronWard/generative-ai-workbook",
-    "stargazers_count": 66,
-    "open_issues_count": 0,
-    "forks_count": 25
-  },
-  {
-    "full_name": "Troyanovsky/Local-LLM-Comparison-Colab-UI",
-    "stargazers_count": 584,
-    "open_issues_count": 7,
-    "forks_count": 82
-  },
-  {
-    "full_name": "bonadio/autogenwebdemo",
-    "stargazers_count": 47,
-    "open_issues_count": 0,
-    "forks_count": 9
+    "stargazers_count": 2177,
+    "open_issues_count": 214,
+    "forks_count": 494
   }
 ]
