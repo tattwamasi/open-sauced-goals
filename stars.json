@@ -1,81 +1,87 @@
 [
   {
+    "full_name": "remotion-dev/github-unwrapped-2023",
+    "stargazers_count": 787,
+    "open_issues_count": 7,
+    "forks_count": 61
+  },
+  {
     "full_name": "huggingface/trl",
-    "stargazers_count": 6918,
-    "open_issues_count": 85,
-    "forks_count": 784
+    "stargazers_count": 6979,
+    "open_issues_count": 83,
+    "forks_count": 793
   },
   {
     "full_name": "unslothai/unsloth",
-    "stargazers_count": 2443,
-    "open_issues_count": 13,
-    "forks_count": 127
+    "stargazers_count": 2512,
+    "open_issues_count": 17,
+    "forks_count": 132
   },
   {
     "full_name": "myshell-ai/OpenVoice",
-    "stargazers_count": 7063,
-    "open_issues_count": 24,
-    "forks_count": 494
+    "stargazers_count": 10896,
+    "open_issues_count": 47,
+    "forks_count": 833
   },
   {
     "full_name": "Lightning-AI/lit-gpt",
-    "stargazers_count": 4557,
-    "open_issues_count": 133,
-    "forks_count": 449
+    "stargazers_count": 4702,
+    "open_issues_count": 139,
+    "forks_count": 474
   },
   {
     "full_name": "brevdev/notebooks",
-    "stargazers_count": 745,
+    "stargazers_count": 765,
     "open_issues_count": 5,
-    "forks_count": 138
+    "forks_count": 140
   },
   {
     "full_name": "tantaraio/voy",
-    "stargazers_count": 500,
+    "stargazers_count": 505,
     "open_issues_count": 17,
     "forks_count": 15
   },
   {
     "full_name": "google/centaur",
     "stargazers_count": 10,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "full_name": "huggingface/chat-ui",
-    "stargazers_count": 4650,
-    "open_issues_count": 121,
-    "forks_count": 588
+    "stargazers_count": 4688,
+    "open_issues_count": 117,
+    "forks_count": 594
   },
   {
     "full_name": "openai/openai-openapi",
-    "stargazers_count": 742,
-    "open_issues_count": 18,
+    "stargazers_count": 747,
+    "open_issues_count": 21,
     "forks_count": 262
   },
   {
     "full_name": "OpenAccess-AI-Collective/axolotl",
-    "stargazers_count": 3226,
-    "open_issues_count": 171,
-    "forks_count": 324
+    "stargazers_count": 3329,
+    "open_issues_count": 176,
+    "forks_count": 335
   },
   {
     "full_name": "apple/axlearn",
-    "stargazers_count": 511,
-    "open_issues_count": 18,
+    "stargazers_count": 514,
+    "open_issues_count": 14,
     "forks_count": 93
   },
   {
     "full_name": "OpenBuddy/OpenBuddy",
-    "stargazers_count": 1083,
+    "stargazers_count": 1085,
     "open_issues_count": 12,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "apple/ml-ferret",
-    "stargazers_count": 5935,
-    "open_issues_count": 5,
-    "forks_count": 285
+    "stargazers_count": 6187,
+    "open_issues_count": 7,
+    "forks_count": 309
   },
   {
     "full_name": "spruceid/chatbot",
@@ -91,43 +97,43 @@
   },
   {
     "full_name": "compiler-explorer/compiler-explorer",
-    "stargazers_count": 14448,
-    "open_issues_count": 721,
-    "forks_count": 1615
+    "stargazers_count": 14470,
+    "open_issues_count": 725,
+    "forks_count": 1619
   },
   {
     "full_name": "ollama-webui/ollama-webui",
-    "stargazers_count": 2988,
+    "stargazers_count": 3160,
     "open_issues_count": 20,
-    "forks_count": 282
+    "forks_count": 296
   },
   {
     "full_name": "predibase/lorax",
-    "stargazers_count": 611,
-    "open_issues_count": 31,
-    "forks_count": 46
+    "stargazers_count": 625,
+    "open_issues_count": 35,
+    "forks_count": 49
   },
   {
     "full_name": "10clouds/aiconsole",
     "stargazers_count": 157,
-    "open_issues_count": 241,
+    "open_issues_count": 246,
     "forks_count": 8
   },
   {
     "full_name": "CopilotKit/CopilotKit",
-    "stargazers_count": 2083,
-    "open_issues_count": 28,
-    "forks_count": 178
+    "stargazers_count": 2519,
+    "open_issues_count": 29,
+    "forks_count": 216
   },
   {
     "full_name": "linexjlin/GPTs",
-    "stargazers_count": 21415,
+    "stargazers_count": 21592,
     "open_issues_count": 6,
-    "forks_count": 3074
+    "forks_count": 3099
   },
   {
     "full_name": "epfLLM/Megatron-LLM",
-    "stargazers_count": 375,
+    "stargazers_count": 376,
     "open_issues_count": 4,
     "forks_count": 55
   },
@@ -135,48 +141,42 @@
     "full_name": "mudler/LocalAGI",
     "stargazers_count": 193,
     "open_issues_count": 6,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "skypilot-org/skypilot",
-    "stargazers_count": 4788,
-    "open_issues_count": 324,
-    "forks_count": 307
+    "stargazers_count": 4826,
+    "open_issues_count": 326,
+    "forks_count": 309
   },
   {
     "full_name": "lobehub/lobe-chat",
-    "stargazers_count": 15220,
-    "open_issues_count": 118,
-    "forks_count": 2798
+    "stargazers_count": 15846,
+    "open_issues_count": 115,
+    "forks_count": 2978
   },
   {
     "full_name": "aymenfurter/microagents",
-    "stargazers_count": 631,
+    "stargazers_count": 638,
     "open_issues_count": 4,
     "forks_count": 18
   },
   {
     "full_name": "mckaywrigley/chatbot-ui",
-    "stargazers_count": 20060,
-    "open_issues_count": 475,
-    "forks_count": 5822
+    "stargazers_count": 20395,
+    "open_issues_count": 366,
+    "forks_count": 5876
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 6059,
-    "open_issues_count": 601,
-    "forks_count": 489
+    "stargazers_count": 6086,
+    "open_issues_count": 593,
+    "forks_count": 491
   },
   {
     "full_name": "coder/envbuilder",
-    "stargazers_count": 48,
-    "open_issues_count": 16,
+    "stargazers_count": 49,
+    "open_issues_count": 17,
     "forks_count": 9
-  },
-  {
-    "full_name": "coder/packages",
-    "stargazers_count": 19,
-    "open_issues_count": 4,
-    "forks_count": 4
   }
 ]
