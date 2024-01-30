@@ -1,63 +1,123 @@
 [
   {
-    "full_name": "LostRuins/lite.koboldai.net",
-    "stargazers_count": 43,
+    "full_name": "oughtinc/ice",
+    "stargazers_count": 488,
+    "open_issues_count": 22,
+    "forks_count": 60
+  },
+  {
+    "full_name": "brexhq/prompt-engineering",
+    "stargazers_count": 7597,
     "open_issues_count": 4,
+    "forks_count": 475
+  },
+  {
+    "full_name": "eth-sri/lmql",
+    "stargazers_count": 2996,
+    "open_issues_count": 106,
+    "forks_count": 161
+  },
+  {
+    "full_name": "guidance-ai/guidance",
+    "stargazers_count": 15999,
+    "open_issues_count": 150,
+    "forks_count": 1025
+  },
+  {
+    "full_name": "robocorp/actions-cookbook",
+    "stargazers_count": 12,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "cirruslabs/orchard",
+    "stargazers_count": 140,
+    "open_issues_count": 11,
+    "forks_count": 10
+  },
+  {
+    "full_name": "cirruslabs/tart",
+    "stargazers_count": 3229,
+    "open_issues_count": 10,
+    "forks_count": 92
+  },
+  {
+    "full_name": "collabora/WhisperSpeech",
+    "stargazers_count": 2597,
+    "open_issues_count": 23,
+    "forks_count": 113
+  },
+  {
+    "full_name": "mingrammer/diagrams",
+    "stargazers_count": 33722,
+    "open_issues_count": 354,
+    "forks_count": 2191
+  },
+  {
+    "full_name": "dvmazur/mixtral-offloading",
+    "stargazers_count": 2019,
+    "open_issues_count": 12,
+    "forks_count": 187
+  },
+  {
+    "full_name": "LostRuins/lite.koboldai.net",
+    "stargazers_count": 44,
+    "open_issues_count": 6,
     "forks_count": 17
   },
   {
     "full_name": "e-p-armstrong/augmentoolkit",
-    "stargazers_count": 124,
+    "stargazers_count": 127,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "sweepai/sweep",
-    "stargazers_count": 6637,
-    "open_issues_count": 689,
-    "forks_count": 388
+    "stargazers_count": 6644,
+    "open_issues_count": 691,
+    "forks_count": 390
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7807,
-    "open_issues_count": 76,
-    "forks_count": 3259
+    "stargazers_count": 7825,
+    "open_issues_count": 75,
+    "forks_count": 3260
   },
   {
     "full_name": "modal-labs/quillman",
-    "stargazers_count": 895,
+    "stargazers_count": 896,
     "open_issues_count": 6,
-    "forks_count": 90
+    "forks_count": 91
   },
   {
     "full_name": "modal-labs/doppel-bot",
-    "stargazers_count": 162,
+    "stargazers_count": 164,
     "open_issues_count": 4,
     "forks_count": 23
   },
   {
     "full_name": "zulip/zulip",
-    "stargazers_count": 19312,
-    "open_issues_count": 2478,
-    "forks_count": 7204
+    "stargazers_count": 19337,
+    "open_issues_count": 2466,
+    "forks_count": 7216
   },
   {
     "full_name": "vercel/ai-chatbot",
-    "stargazers_count": 3810,
-    "open_issues_count": 29,
-    "forks_count": 950
+    "stargazers_count": 3839,
+    "open_issues_count": 33,
+    "forks_count": 961
   },
   {
     "full_name": "vercel/ai",
-    "stargazers_count": 5690,
-    "open_issues_count": 111,
-    "forks_count": 1137
+    "stargazers_count": 5727,
+    "open_issues_count": 113,
+    "forks_count": 1147
   },
   {
     "full_name": "robocorp/robocorp",
-    "stargazers_count": 90,
-    "open_issues_count": 30,
-    "forks_count": 7
+    "stargazers_count": 141,
+    "open_issues_count": 35,
+    "forks_count": 10
   },
   {
     "full_name": "polterguy/magic",
@@ -67,39 +127,39 @@
   },
   {
     "full_name": "webpilot-ai/Webpilot",
-    "stargazers_count": 1564,
-    "open_issues_count": 14,
-    "forks_count": 142
+    "stargazers_count": 1574,
+    "open_issues_count": 15,
+    "forks_count": 143
   },
   {
     "full_name": "langchain-ai/langchain-nextjs-template",
-    "stargazers_count": 669,
+    "stargazers_count": 675,
     "open_issues_count": 10,
-    "forks_count": 131
+    "forks_count": 133
   },
   {
     "full_name": "networkx/networkx",
-    "stargazers_count": 13816,
-    "open_issues_count": 342,
-    "forks_count": 3165
+    "stargazers_count": 13825,
+    "open_issues_count": 347,
+    "forks_count": 3163
   },
   {
     "full_name": "bigscience-workshop/petals",
-    "stargazers_count": 8306,
-    "open_issues_count": 80,
-    "forks_count": 430
+    "stargazers_count": 8327,
+    "open_issues_count": 81,
+    "forks_count": 431
   },
   {
     "full_name": "cg123/mergekit",
-    "stargazers_count": 1846,
-    "open_issues_count": 50,
-    "forks_count": 146
+    "stargazers_count": 1923,
+    "open_issues_count": 51,
+    "forks_count": 153
   },
   {
     "full_name": "shoelace-style/shoelace",
-    "stargazers_count": 11294,
-    "open_issues_count": 27,
-    "forks_count": 686
+    "stargazers_count": 11339,
+    "open_issues_count": 30,
+    "forks_count": 688
   },
   {
     "full_name": "crutchcorn/nextjs-shoelace-example",
@@ -109,7 +169,7 @@
   },
   {
     "full_name": "metamind-ai/autogen-agi",
-    "stargazers_count": 152,
+    "stargazers_count": 157,
     "open_issues_count": 5,
     "forks_count": 27
   },
@@ -118,65 +178,5 @@
     "stargazers_count": 340,
     "open_issues_count": 132,
     "forks_count": 396
-  },
-  {
-    "full_name": "microsoft/TaskWeaver",
-    "stargazers_count": 3799,
-    "open_issues_count": 18,
-    "forks_count": 613
-  },
-  {
-    "full_name": "marimo-team/marimo",
-    "stargazers_count": 3046,
-    "open_issues_count": 46,
-    "forks_count": 55
-  },
-  {
-    "full_name": "sidak/otfusion",
-    "stargazers_count": 111,
-    "open_issues_count": 5,
-    "forks_count": 22
-  },
-  {
-    "full_name": "hkproj/mistral-llm-notes",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "penpot/penpot",
-    "stargazers_count": 25417,
-    "open_issues_count": 321,
-    "forks_count": 1211
-  },
-  {
-    "full_name": "cpacker/MemGPT",
-    "stargazers_count": 7508,
-    "open_issues_count": 139,
-    "forks_count": 819
-  },
-  {
-    "full_name": "parea-ai/parea-sdk-py",
-    "stargazers_count": 13,
-    "open_issues_count": 53,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Poly186-AI-DAO/Poly186",
-    "stargazers_count": 65,
-    "open_issues_count": 1,
-    "forks_count": 12
-  },
-  {
-    "full_name": "semgrep/semgrep-vscode",
-    "stargazers_count": 50,
-    "open_issues_count": 2,
-    "forks_count": 22
-  },
-  {
-    "full_name": "langchain-ai/opengpts",
-    "stargazers_count": 5176,
-    "open_issues_count": 54,
-    "forks_count": 610
   }
 ]
