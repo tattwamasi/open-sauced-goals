@@ -1,9 +1,165 @@
 [
   {
+    "full_name": "duo-labs/py_webauthn",
+    "stargazers_count": 770,
+    "open_issues_count": 3,
+    "forks_count": 200
+  },
+  {
+    "full_name": "duo-labs/webauthn.io",
+    "stargazers_count": 599,
+    "open_issues_count": 7,
+    "forks_count": 111
+  },
+  {
+    "full_name": "teamhanko/passkeys",
+    "stargazers_count": 32,
+    "open_issues_count": 9,
+    "forks_count": 3
+  },
+  {
+    "full_name": "romkatv/powerlevel10k",
+    "stargazers_count": 41635,
+    "open_issues_count": 39,
+    "forks_count": 2022
+  },
+  {
+    "full_name": "Homebrew/homebrew-cask-fonts",
+    "stargazers_count": 2817,
+    "open_issues_count": 0,
+    "forks_count": 490
+  },
+  {
+    "full_name": "Semantic-Org/Semantic-UI",
+    "stargazers_count": 50933,
+    "open_issues_count": 1078,
+    "forks_count": 4960
+  },
+  {
+    "full_name": "python-trio/trio",
+    "stargazers_count": 5778,
+    "open_issues_count": 322,
+    "forks_count": 321
+  },
+  {
+    "full_name": "dabeaz/curio",
+    "stargazers_count": 3985,
+    "open_issues_count": 18,
+    "forks_count": 249
+  },
+  {
+    "full_name": "MagicStack/uvloop",
+    "stargazers_count": 9853,
+    "open_issues_count": 96,
+    "forks_count": 523
+  },
+  {
+    "full_name": "quarto-dev/quarto",
+    "stargazers_count": 210,
+    "open_issues_count": 138,
+    "forks_count": 16
+  },
+  {
+    "full_name": "quarto-dev/quarto-cli",
+    "stargazers_count": 3052,
+    "open_issues_count": 1005,
+    "forks_count": 259
+  },
+  {
+    "full_name": "feast-dev/feast",
+    "stargazers_count": 5111,
+    "open_issues_count": 146,
+    "forks_count": 903
+  },
+  {
+    "full_name": "alteryx/featuretools",
+    "stargazers_count": 6963,
+    "open_issues_count": 171,
+    "forks_count": 858
+  },
+  {
+    "full_name": "featureform/featureform",
+    "stargazers_count": 1654,
+    "open_issues_count": 81,
+    "forks_count": 89
+  },
+  {
+    "full_name": "juicedata/juicefs",
+    "stargazers_count": 9437,
+    "open_issues_count": 131,
+    "forks_count": 832
+  },
+  {
+    "full_name": "zilliztech/GPTCache",
+    "stargazers_count": 6132,
+    "open_issues_count": 55,
+    "forks_count": 430
+  },
+  {
+    "full_name": "dstackai/dstack",
+    "stargazers_count": 1012,
+    "open_issues_count": 26,
+    "forks_count": 68
+  },
+  {
+    "full_name": "SYSTRAN/faster-whisper",
+    "stargazers_count": 7459,
+    "open_issues_count": 168,
+    "forks_count": 606
+  },
+  {
+    "full_name": "UKPLab/sentence-transformers",
+    "stargazers_count": 13155,
+    "open_issues_count": 1008,
+    "forks_count": 2265
+  },
+  {
+    "full_name": "ipkn/crow",
+    "stargazers_count": 7372,
+    "open_issues_count": 209,
+    "forks_count": 882
+  },
+  {
+    "full_name": "CrowCpp/Crow",
+    "stargazers_count": 2573,
+    "open_issues_count": 91,
+    "forks_count": 284
+  },
+  {
+    "full_name": "lganzzzo/canchat",
+    "stargazers_count": 59,
+    "open_issues_count": 3,
+    "forks_count": 9
+  },
+  {
+    "full_name": "oatpp/oatpp",
+    "stargazers_count": 7273,
+    "open_issues_count": 221,
+    "forks_count": 1250
+  },
+  {
+    "full_name": "Luodian/Otter",
+    "stargazers_count": 3368,
+    "open_issues_count": 54,
+    "forks_count": 275
+  },
+  {
+    "full_name": "fastai/ghapi",
+    "stargazers_count": 500,
+    "open_issues_count": 49,
+    "forks_count": 57
+  },
+  {
+    "full_name": "fastai/nbdev",
+    "stargazers_count": 4693,
+    "open_issues_count": 144,
+    "forks_count": 465
+  },
+  {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 25824,
-    "open_issues_count": 43,
-    "forks_count": 3709
+    "stargazers_count": 25952,
+    "open_issues_count": 44,
+    "forks_count": 3655
   },
   {
     "full_name": "mustache/spec",
@@ -19,164 +175,8 @@
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 9998,
+    "stargazers_count": 10045,
     "open_issues_count": 128,
-    "forks_count": 385
-  },
-  {
-    "full_name": "runatlantis/atlantis",
-    "stargazers_count": 7040,
-    "open_issues_count": 581,
-    "forks_count": 983
-  },
-  {
-    "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 7088,
-    "open_issues_count": 251,
-    "forks_count": 2498
-  },
-  {
-    "full_name": "JanssenProject/jans",
-    "stargazers_count": 359,
-    "open_issues_count": 535,
-    "forks_count": 60
-  },
-  {
-    "full_name": "FusionAuth/fusionauth-python-client",
-    "stargazers_count": 24,
-    "open_issues_count": 7,
-    "forks_count": 12
-  },
-  {
-    "full_name": "ueberdosis/hocuspocus",
-    "stargazers_count": 906,
-    "open_issues_count": 41,
-    "forks_count": 91
-  },
-  {
-    "full_name": "ueberdosis/tiptap",
-    "stargazers_count": 22954,
-    "open_issues_count": 471,
-    "forks_count": 1960
-  },
-  {
-    "full_name": "langfuse/langfuse",
-    "stargazers_count": 2084,
-    "open_issues_count": 59,
-    "forks_count": 180
-  },
-  {
-    "full_name": "riccardomusmeci/mlx-llm",
-    "stargazers_count": 171,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "outlines-dev/outlines",
-    "stargazers_count": 4571,
-    "open_issues_count": 102,
-    "forks_count": 216
-  },
-  {
-    "full_name": "sacha-ichbiah/outlines-mlx",
-    "stargazers_count": 23,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "ishan0102/iClone",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mlx-graphs/mlx-graphs",
-    "stargazers_count": 27,
-    "open_issues_count": 16,
-    "forks_count": 2
-  },
-  {
-    "full_name": "pyg-team/pytorch_geometric",
-    "stargazers_count": 19593,
-    "open_issues_count": 924,
-    "forks_count": 3504
-  },
-  {
-    "full_name": "Azure-Samples/container-apps-openai",
-    "stargazers_count": 97,
-    "open_issues_count": 13,
-    "forks_count": 38
-  },
-  {
-    "full_name": "bentoml/BentoML",
-    "stargazers_count": 6308,
-    "open_issues_count": 214,
-    "forks_count": 721
-  },
-  {
-    "full_name": "bentoml/Yatai",
-    "stargazers_count": 737,
-    "open_issues_count": 16,
-    "forks_count": 68
-  },
-  {
-    "full_name": "bentoml/OpenLLM",
-    "stargazers_count": 8172,
-    "open_issues_count": 82,
-    "forks_count": 579
-  },
-  {
-    "full_name": "embedchain/embedchain",
-    "stargazers_count": 7733,
-    "open_issues_count": 175,
-    "forks_count": 1321
-  },
-  {
-    "full_name": "dermasmid/scrapetube",
-    "stargazers_count": 239,
-    "open_issues_count": 22,
-    "forks_count": 41
-  },
-  {
-    "full_name": "jackmpcollins/magentic",
-    "stargazers_count": 1466,
-    "open_issues_count": 6,
-    "forks_count": 57
-  },
-  {
-    "full_name": "tensorchord/Awesome-LLMOps",
-    "stargazers_count": 2562,
-    "open_issues_count": 0,
-    "forks_count": 255
-  },
-  {
-    "full_name": "BerriAI/clerkie-cli",
-    "stargazers_count": 88,
-    "open_issues_count": 6,
-    "forks_count": 7
-  },
-  {
-    "full_name": "markmap/markmap",
-    "stargazers_count": 6317,
-    "open_issues_count": 50,
-    "forks_count": 433
-  },
-  {
-    "full_name": "skitsanos/mindtree",
-    "stargazers_count": 45,
-    "open_issues_count": 2,
-    "forks_count": 8
-  },
-  {
-    "full_name": "n8n-io/n8n",
-    "stargazers_count": 38801,
-    "open_issues_count": 304,
-    "forks_count": 4650
-  },
-  {
-    "full_name": "apple/ml-mgie",
-    "stargazers_count": 3445,
-    "open_issues_count": 4,
-    "forks_count": 236
+    "forks_count": 352
   }
 ]
