@@ -1,33 +1,33 @@
 [
   {
     "full_name": "Filimoa/open-parse",
-    "stargazers_count": 1551,
+    "stargazers_count": 1574,
     "open_issues_count": 9,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "wandb/openui",
-    "stargazers_count": 5944,
+    "stargazers_count": 6057,
     "open_issues_count": 8,
-    "forks_count": 521
+    "forks_count": 532
   },
   {
     "full_name": "getgrit/gritql",
-    "stargazers_count": 2239,
-    "open_issues_count": 47,
-    "forks_count": 36
+    "stargazers_count": 2277,
+    "open_issues_count": 51,
+    "forks_count": 37
   },
   {
     "full_name": "jsr-io/jsr",
-    "stargazers_count": 1518,
-    "open_issues_count": 101,
-    "forks_count": 64
+    "stargazers_count": 1532,
+    "open_issues_count": 103,
+    "forks_count": 65
   },
   {
     "full_name": "adap/flower",
-    "stargazers_count": 4146,
-    "open_issues_count": 438,
-    "forks_count": 740
+    "stargazers_count": 4165,
+    "open_issues_count": 433,
+    "forks_count": 741
   },
   {
     "full_name": "proto-at-block/bitkey",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "bluesky-social/ozone",
-    "stargazers_count": 180,
+    "stargazers_count": 183,
     "open_issues_count": 51,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "BPI-SINOVOIP/THG6500-TAX2-OPENWRT-BSP",
@@ -49,57 +49,57 @@
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 5302,
-    "open_issues_count": 58,
-    "forks_count": 197
+    "stargazers_count": 5333,
+    "open_issues_count": 51,
+    "forks_count": 201
   },
   {
     "full_name": "flydelabs/flyde",
-    "stargazers_count": 1546,
+    "stargazers_count": 1550,
     "open_issues_count": 21,
     "forks_count": 29
   },
   {
     "full_name": "jafioti/luminal",
-    "stargazers_count": 1088,
-    "open_issues_count": 21,
-    "forks_count": 68
+    "stargazers_count": 1098,
+    "open_issues_count": 22,
+    "forks_count": 69
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 19445,
+    "stargazers_count": 19448,
     "open_issues_count": 319,
-    "forks_count": 1152
+    "forks_count": 1154
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 23870,
-    "open_issues_count": 349,
-    "forks_count": 1249
+    "stargazers_count": 23925,
+    "open_issues_count": 365,
+    "forks_count": 1255
   },
   {
     "full_name": "ml-explore/mlx-examples",
-    "stargazers_count": 4851,
-    "open_issues_count": 90,
-    "forks_count": 710
+    "stargazers_count": 4903,
+    "open_issues_count": 92,
+    "forks_count": 718
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 13590,
-    "open_issues_count": 75,
-    "forks_count": 746
+    "stargazers_count": 15283,
+    "open_issues_count": 83,
+    "forks_count": 898
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 6678,
-    "open_issues_count": 534,
-    "forks_count": 512
+    "stargazers_count": 6725,
+    "open_issues_count": 535,
+    "forks_count": 515
   },
   {
     "full_name": "qnguyen3/chat-with-mlx",
-    "stargazers_count": 1032,
-    "open_issues_count": 25,
-    "forks_count": 99
+    "stargazers_count": 1046,
+    "open_issues_count": 23,
+    "forks_count": 100
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "keycloak/keycloak",
-    "stargazers_count": 19769,
-    "open_issues_count": 1969,
-    "forks_count": 6230
+    "stargazers_count": 19811,
+    "open_issues_count": 1963,
+    "forks_count": 6242
   },
   {
     "full_name": "auth0-blog/auth0-python-fastapi-sample",
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "joaomdmoura/crewAI",
-    "stargazers_count": 12067,
-    "open_issues_count": 218,
-    "forks_count": 1517
+    "stargazers_count": 12413,
+    "open_issues_count": 223,
+    "forks_count": 1596
   },
   {
     "full_name": "haotian-liu/LLaVA",
-    "stargazers_count": 15942,
-    "open_issues_count": 764,
-    "forks_count": 1701
+    "stargazers_count": 16038,
+    "open_issues_count": 780,
+    "forks_count": 1722
   },
   {
     "full_name": "aurelio-labs/semantic-router",
-    "stargazers_count": 1248,
-    "open_issues_count": 38,
-    "forks_count": 132
+    "stargazers_count": 1278,
+    "open_issues_count": 37,
+    "forks_count": 134
   },
   {
     "full_name": "Unitech/pm2",
-    "stargazers_count": 40665,
-    "open_issues_count": 917,
-    "forks_count": 2560
+    "stargazers_count": 40691,
+    "open_issues_count": 919,
+    "forks_count": 2563
   },
   {
     "full_name": "facebookresearch/fairseq",
-    "stargazers_count": 29194,
-    "open_issues_count": 1233,
-    "forks_count": 6231
+    "stargazers_count": 29224,
+    "open_issues_count": 1238,
+    "forks_count": 6236
   },
   {
     "full_name": "apideck-libraries/portman",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "Miksus/rocketry",
-    "stargazers_count": 3172,
+    "stargazers_count": 3174,
     "open_issues_count": 58,
     "forks_count": 100
   },
   {
     "full_name": "glideapps/quicktype",
-    "stargazers_count": 11471,
+    "stargazers_count": 11483,
     "open_issues_count": 472,
-    "forks_count": 1008
+    "forks_count": 1010
   }
 ]
