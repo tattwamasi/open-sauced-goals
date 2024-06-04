@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "sveltia/sveltia-cms",
+    "stargazers_count": 675,
+    "open_issues_count": 15,
+    "forks_count": 30
+  },
+  {
+    "full_name": "privatemaker/headless-cms",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "microsoft/codetour",
-    "stargazers_count": 4328,
+    "stargazers_count": 4330,
     "open_issues_count": 69,
     "forks_count": 109
   },
@@ -13,15 +25,15 @@
   },
   {
     "full_name": "tagyoureit/nodejs-poolController",
-    "stargazers_count": 307,
-    "open_issues_count": 19,
+    "stargazers_count": 308,
+    "open_issues_count": 20,
     "forks_count": 91
   },
   {
     "full_name": "esphome/esphome",
-    "stargazers_count": 7857,
-    "open_issues_count": 205,
-    "forks_count": 3253
+    "stargazers_count": 7873,
+    "open_issues_count": 213,
+    "forks_count": 3262
   },
   {
     "full_name": "irealva/gadgets-and-sensors",
@@ -49,15 +61,15 @@
   },
   {
     "full_name": "milvus-io/milvus",
-    "stargazers_count": 27512,
-    "open_issues_count": 784,
-    "forks_count": 2649
+    "stargazers_count": 27589,
+    "open_issues_count": 801,
+    "forks_count": 2661
   },
   {
     "full_name": "moby/moby",
-    "stargazers_count": 67890,
-    "open_issues_count": 3398,
-    "forks_count": 18564
+    "stargazers_count": 67921,
+    "open_issues_count": 3401,
+    "forks_count": 18566
   },
   {
     "full_name": "idan/spectacle-block",
@@ -87,25 +99,25 @@
     "full_name": "githubnext/blocks",
     "stargazers_count": 330,
     "open_issues_count": 22,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "khoj-ai/khoj",
-    "stargazers_count": 10613,
-    "open_issues_count": 65,
-    "forks_count": 519
+    "stargazers_count": 10950,
+    "open_issues_count": 59,
+    "forks_count": 540
   },
   {
     "full_name": "ros-navigation/navigation2",
-    "stargazers_count": 2201,
-    "open_issues_count": 82,
+    "stargazers_count": 2223,
+    "open_issues_count": 87,
     "forks_count": 1174
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 31704,
-    "open_issues_count": 244,
-    "forks_count": 4186
+    "stargazers_count": 32358,
+    "open_issues_count": 233,
+    "forks_count": 4284
   },
   {
     "full_name": "primer/primer.style",
@@ -115,68 +127,56 @@
   },
   {
     "full_name": "githubnext/copilot-workspace-user-manual",
-    "stargazers_count": 242,
-    "open_issues_count": 2,
-    "forks_count": 24
+    "stargazers_count": 250,
+    "open_issues_count": 3,
+    "forks_count": 25
   },
   {
     "full_name": "modelscope/agentscope",
-    "stargazers_count": 2497,
+    "stargazers_count": 2520,
     "open_issues_count": 24,
-    "forks_count": 160
+    "forks_count": 164
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 3583,
-    "open_issues_count": 16,
-    "forks_count": 177
+    "stargazers_count": 3649,
+    "open_issues_count": 13,
+    "forks_count": 179
   },
   {
     "full_name": "sugarforever/chat-ollama",
-    "stargazers_count": 2155,
-    "open_issues_count": 196,
-    "forks_count": 330
+    "stargazers_count": 2180,
+    "open_issues_count": 199,
+    "forks_count": 332
   },
   {
     "full_name": "MassimilianoPasquini97/raycast_ollama",
-    "stargazers_count": 156,
+    "stargazers_count": 157,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "rjmacarthy/twinny",
-    "stargazers_count": 1899,
+    "stargazers_count": 2034,
     "open_issues_count": 16,
-    "forks_count": 103
+    "forks_count": 109
   },
   {
     "full_name": "tmandry/AXSwift",
-    "stargazers_count": 305,
+    "stargazers_count": 306,
     "open_issues_count": 14,
     "forks_count": 53
   },
   {
     "full_name": "kevinhermawan/Ollamac",
-    "stargazers_count": 919,
+    "stargazers_count": 926,
     "open_issues_count": 27,
     "forks_count": 45
   },
   {
     "full_name": "andersrex/notesollama",
-    "stargazers_count": 486,
+    "stargazers_count": 489,
     "open_issues_count": 6,
     "forks_count": 31
-  },
-  {
-    "full_name": "Filimoa/open-parse",
-    "stargazers_count": 1919,
-    "open_issues_count": 12,
-    "forks_count": 68
-  },
-  {
-    "full_name": "wandb/openui",
-    "stargazers_count": 15601,
-    "open_issues_count": 39,
-    "forks_count": 1314
   }
 ]
