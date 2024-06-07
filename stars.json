@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "GreenBitAI/gbx-lm",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mikeroyal/Self-Hosting-Guide",
+    "stargazers_count": 9123,
+    "open_issues_count": 14,
+    "forks_count": 480
+  },
+  {
     "full_name": "sveltia/sveltia-cms",
-    "stargazers_count": 675,
-    "open_issues_count": 15,
-    "forks_count": 30
+    "stargazers_count": 685,
+    "open_issues_count": 16,
+    "forks_count": 32
   },
   {
     "full_name": "privatemaker/headless-cms",
@@ -13,7 +25,7 @@
   },
   {
     "full_name": "microsoft/codetour",
-    "stargazers_count": 4330,
+    "stargazers_count": 4332,
     "open_issues_count": 69,
     "forks_count": 109
   },
@@ -26,14 +38,14 @@
   {
     "full_name": "tagyoureit/nodejs-poolController",
     "stargazers_count": 308,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 91
   },
   {
     "full_name": "esphome/esphome",
-    "stargazers_count": 7873,
-    "open_issues_count": 213,
-    "forks_count": 3262
+    "stargazers_count": 7886,
+    "open_issues_count": 212,
+    "forks_count": 3270
   },
   {
     "full_name": "irealva/gadgets-and-sensors",
@@ -61,15 +73,15 @@
   },
   {
     "full_name": "milvus-io/milvus",
-    "stargazers_count": 27589,
-    "open_issues_count": 801,
-    "forks_count": 2661
+    "stargazers_count": 27650,
+    "open_issues_count": 804,
+    "forks_count": 2662
   },
   {
     "full_name": "moby/moby",
-    "stargazers_count": 67921,
-    "open_issues_count": 3401,
-    "forks_count": 18566
+    "stargazers_count": 67935,
+    "open_issues_count": 3406,
+    "forks_count": 18562
   },
   {
     "full_name": "idan/spectacle-block",
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "jaked/programmable-matter",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 17,
     "forks_count": 5
   },
@@ -103,21 +115,21 @@
   },
   {
     "full_name": "khoj-ai/khoj",
-    "stargazers_count": 10950,
+    "stargazers_count": 11076,
     "open_issues_count": 59,
-    "forks_count": 540
+    "forks_count": 551
   },
   {
     "full_name": "ros-navigation/navigation2",
-    "stargazers_count": 2223,
-    "open_issues_count": 87,
-    "forks_count": 1174
+    "stargazers_count": 2232,
+    "open_issues_count": 84,
+    "forks_count": 1173
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 32358,
-    "open_issues_count": 233,
-    "forks_count": 4284
+    "stargazers_count": 32851,
+    "open_issues_count": 246,
+    "forks_count": 4356
   },
   {
     "full_name": "primer/primer.style",
@@ -127,56 +139,44 @@
   },
   {
     "full_name": "githubnext/copilot-workspace-user-manual",
-    "stargazers_count": 250,
+    "stargazers_count": 252,
     "open_issues_count": 3,
     "forks_count": 25
   },
   {
     "full_name": "modelscope/agentscope",
-    "stargazers_count": 2520,
-    "open_issues_count": 24,
-    "forks_count": 164
+    "stargazers_count": 2529,
+    "open_issues_count": 17,
+    "forks_count": 165
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 3649,
+    "stargazers_count": 3699,
     "open_issues_count": 13,
-    "forks_count": 179
+    "forks_count": 183
   },
   {
     "full_name": "sugarforever/chat-ollama",
-    "stargazers_count": 2180,
+    "stargazers_count": 2208,
     "open_issues_count": 199,
-    "forks_count": 332
+    "forks_count": 335
   },
   {
     "full_name": "MassimilianoPasquini97/raycast_ollama",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "rjmacarthy/twinny",
-    "stargazers_count": 2034,
-    "open_issues_count": 16,
-    "forks_count": 109
+    "stargazers_count": 2099,
+    "open_issues_count": 18,
+    "forks_count": 113
   },
   {
     "full_name": "tmandry/AXSwift",
     "stargazers_count": 306,
     "open_issues_count": 14,
     "forks_count": 53
-  },
-  {
-    "full_name": "kevinhermawan/Ollamac",
-    "stargazers_count": 926,
-    "open_issues_count": 27,
-    "forks_count": 45
-  },
-  {
-    "full_name": "andersrex/notesollama",
-    "stargazers_count": 489,
-    "open_issues_count": 6,
-    "forks_count": 31
   }
 ]
