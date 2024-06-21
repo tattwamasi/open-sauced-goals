@@ -1,38 +1,92 @@
 [
   {
+    "full_name": "openvla/openvla",
+    "stargazers_count": 393,
+    "open_issues_count": 3,
+    "forks_count": 34
+  },
+  {
+    "full_name": "redwoodjs/redwood",
+    "stargazers_count": 16880,
+    "open_issues_count": 458,
+    "forks_count": 971
+  },
+  {
+    "full_name": "cloudevents/sdk-python",
+    "stargazers_count": 261,
+    "open_issues_count": 17,
+    "forks_count": 53
+  },
+  {
+    "full_name": "openfaas/faasd",
+    "stargazers_count": 2901,
+    "open_issues_count": 5,
+    "forks_count": 206
+  },
+  {
+    "full_name": "sst/ion",
+    "stargazers_count": 1042,
+    "open_issues_count": 224,
+    "forks_count": 118
+  },
+  {
+    "full_name": "tensorchord/envd",
+    "stargazers_count": 1926,
+    "open_issues_count": 142,
+    "forks_count": 156
+  },
+  {
+    "full_name": "firecracker-microvm/firecracker-containerd",
+    "stargazers_count": 2088,
+    "open_issues_count": 82,
+    "forks_count": 179
+  },
+  {
+    "full_name": "triggermesh/triggermesh",
+    "stargazers_count": 585,
+    "open_issues_count": 68,
+    "forks_count": 69
+  },
+  {
+    "full_name": "cloudevents/spec",
+    "stargazers_count": 4870,
+    "open_issues_count": 42,
+    "forks_count": 577
+  },
+  {
     "full_name": "envoyproxy/envoy",
-    "stargazers_count": 24188,
-    "open_issues_count": 1738,
-    "forks_count": 4664
+    "stargazers_count": 24203,
+    "open_issues_count": 1743,
+    "forks_count": 4673
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 35044,
-    "open_issues_count": 40,
-    "forks_count": 1573
+    "stargazers_count": 35454,
+    "open_issues_count": 41,
+    "forks_count": 1588
   },
   {
     "full_name": "bracesproul/gen-ui-python",
-    "stargazers_count": 42,
-    "open_issues_count": 0,
-    "forks_count": 24
+    "stargazers_count": 56,
+    "open_issues_count": 1,
+    "forks_count": 29
   },
   {
     "full_name": "bracesproul/gen-ui",
-    "stargazers_count": 64,
-    "open_issues_count": 2,
-    "forks_count": 25
+    "stargazers_count": 74,
+    "open_issues_count": 4,
+    "forks_count": 27
   },
   {
     "full_name": "airbnb/visx",
-    "stargazers_count": 19010,
+    "stargazers_count": 19029,
     "open_issues_count": 132,
-    "forks_count": 691
+    "forks_count": 690
   },
   {
     "full_name": "TimMikeladze/next-flag",
-    "stargazers_count": 25,
-    "open_issues_count": 2,
+    "stargazers_count": 26,
+    "open_issues_count": 3,
     "forks_count": 0
   },
   {
@@ -43,14 +97,14 @@
   },
   {
     "full_name": "mikeroyal/Self-Hosting-Guide",
-    "stargazers_count": 9286,
-    "open_issues_count": 14,
-    "forks_count": 486
+    "stargazers_count": 9333,
+    "open_issues_count": 15,
+    "forks_count": 491
   },
   {
     "full_name": "sveltia/sveltia-cms",
-    "stargazers_count": 695,
-    "open_issues_count": 18,
+    "stargazers_count": 699,
+    "open_issues_count": 19,
     "forks_count": 33
   },
   {
@@ -73,15 +127,15 @@
   },
   {
     "full_name": "tagyoureit/nodejs-poolController",
-    "stargazers_count": 310,
+    "stargazers_count": 311,
     "open_issues_count": 10,
     "forks_count": 91
   },
   {
     "full_name": "esphome/esphome",
-    "stargazers_count": 7924,
-    "open_issues_count": 212,
-    "forks_count": 3297
+    "stargazers_count": 7938,
+    "open_issues_count": 213,
+    "forks_count": 3303
   },
   {
     "full_name": "irealva/gadgets-and-sensors",
@@ -109,74 +163,20 @@
   },
   {
     "full_name": "milvus-io/milvus",
-    "stargazers_count": 27811,
-    "open_issues_count": 804,
-    "forks_count": 2679
+    "stargazers_count": 27862,
+    "open_issues_count": 820,
+    "forks_count": 2683
   },
   {
     "full_name": "moby/moby",
-    "stargazers_count": 67992,
-    "open_issues_count": 3398,
-    "forks_count": 18566
+    "stargazers_count": 67999,
+    "open_issues_count": 3394,
+    "forks_count": 18570
   },
   {
     "full_name": "idan/spectacle-block",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "jaked/mermaid-block",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "jaked/programmable-matter",
-    "stargazers_count": 76,
-    "open_issues_count": 17,
-    "forks_count": 5
-  },
-  {
-    "full_name": "githubnext/blocks-examples",
-    "stargazers_count": 93,
-    "open_issues_count": 15,
-    "forks_count": 17
-  },
-  {
-    "full_name": "githubnext/blocks",
-    "stargazers_count": 331,
-    "open_issues_count": 22,
-    "forks_count": 43
-  },
-  {
-    "full_name": "khoj-ai/khoj",
-    "stargazers_count": 11421,
-    "open_issues_count": 62,
-    "forks_count": 567
-  },
-  {
-    "full_name": "ros-navigation/navigation2",
-    "stargazers_count": 2262,
-    "open_issues_count": 101,
-    "forks_count": 1182
-  },
-  {
-    "full_name": "langgenius/dify",
-    "stargazers_count": 34197,
-    "open_issues_count": 255,
-    "forks_count": 4579
-  },
-  {
-    "full_name": "primer/primer.style",
-    "stargazers_count": 161,
-    "open_issues_count": 15,
-    "forks_count": 32
-  },
-  {
-    "full_name": "githubnext/copilot-workspace-user-manual",
-    "stargazers_count": 276,
-    "open_issues_count": 3,
-    "forks_count": 26
   }
 ]
