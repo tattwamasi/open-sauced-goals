@@ -1,43 +1,145 @@
 [
   {
+    "full_name": "octodemo/webhook-demo",
+    "stargazers_count": 10,
+    "open_issues_count": 29,
+    "forks_count": 2
+  },
+  {
+    "full_name": "cirruslabs/vetu",
+    "stargazers_count": 61,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "traderepublic/Cilicon",
+    "stargazers_count": 947,
+    "open_issues_count": 6,
+    "forks_count": 27
+  },
+  {
+    "full_name": "uptane/aktualizr",
+    "stargazers_count": 15,
+    "open_issues_count": 10,
+    "forks_count": 14
+  },
+  {
+    "full_name": "uptane/uptane.github.io",
+    "stargazers_count": 32,
+    "open_issues_count": 16,
+    "forks_count": 26
+  },
+  {
+    "full_name": "slackhq/nebula",
+    "stargazers_count": 13970,
+    "open_issues_count": 85,
+    "forks_count": 937
+  },
+  {
+    "full_name": "jozu-ai/kitops",
+    "stargazers_count": 256,
+    "open_issues_count": 41,
+    "forks_count": 24
+  },
+  {
+    "full_name": "Patrowl/PatrowlManager",
+    "stargazers_count": 615,
+    "open_issues_count": 177,
+    "forks_count": 112
+  },
+  {
+    "full_name": "huginn/huginn",
+    "stargazers_count": 42154,
+    "open_issues_count": 707,
+    "forks_count": 3701
+  },
+  {
+    "full_name": "leon-ai/leon",
+    "stargazers_count": 14888,
+    "open_issues_count": 103,
+    "forks_count": 1225
+  },
+  {
+    "full_name": "node-red/node-red",
+    "stargazers_count": 18913,
+    "open_issues_count": 375,
+    "forks_count": 3308
+  },
+  {
+    "full_name": "superfly/domain-reseller-guide",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "bots-garden/capsule",
+    "stargazers_count": 287,
+    "open_issues_count": 36,
+    "forks_count": 8
+  },
+  {
+    "full_name": "piku/piku",
+    "stargazers_count": 5368,
+    "open_issues_count": 12,
+    "forks_count": 129
+  },
+  {
+    "full_name": "activepieces/activepieces",
+    "stargazers_count": 8537,
+    "open_issues_count": 153,
+    "forks_count": 934
+  },
+  {
+    "full_name": "CorentinTh/it-tools",
+    "stargazers_count": 18216,
+    "open_issues_count": 435,
+    "forks_count": 2155
+  },
+  {
+    "full_name": "coollabsio/coolify",
+    "stargazers_count": 25487,
+    "open_issues_count": 260,
+    "forks_count": 1297
+  },
+  {
     "full_name": "openvla/openvla",
-    "stargazers_count": 393,
+    "stargazers_count": 441,
     "open_issues_count": 3,
-    "forks_count": 34
+    "forks_count": 38
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 16880,
-    "open_issues_count": 458,
-    "forks_count": 971
+    "stargazers_count": 16887,
+    "open_issues_count": 460,
+    "forks_count": 970
   },
   {
     "full_name": "cloudevents/sdk-python",
-    "stargazers_count": 261,
+    "stargazers_count": 262,
     "open_issues_count": 17,
     "forks_count": 53
   },
   {
     "full_name": "openfaas/faasd",
-    "stargazers_count": 2901,
+    "stargazers_count": 2904,
     "open_issues_count": 5,
     "forks_count": 206
   },
   {
     "full_name": "sst/ion",
-    "stargazers_count": 1042,
-    "open_issues_count": 224,
-    "forks_count": 118
+    "stargazers_count": 1062,
+    "open_issues_count": 228,
+    "forks_count": 117
   },
   {
     "full_name": "tensorchord/envd",
     "stargazers_count": 1926,
-    "open_issues_count": 142,
+    "open_issues_count": 144,
     "forks_count": 156
   },
   {
     "full_name": "firecracker-microvm/firecracker-containerd",
-    "stargazers_count": 2088,
+    "stargazers_count": 2090,
     "open_issues_count": 82,
     "forks_count": 179
   },
@@ -49,134 +151,32 @@
   },
   {
     "full_name": "cloudevents/spec",
-    "stargazers_count": 4870,
-    "open_issues_count": 42,
-    "forks_count": 577
+    "stargazers_count": 4879,
+    "open_issues_count": 43,
+    "forks_count": 578
   },
   {
     "full_name": "envoyproxy/envoy",
-    "stargazers_count": 24203,
-    "open_issues_count": 1743,
-    "forks_count": 4673
+    "stargazers_count": 24221,
+    "open_issues_count": 1745,
+    "forks_count": 4676
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 35454,
-    "open_issues_count": 41,
-    "forks_count": 1588
+    "stargazers_count": 35649,
+    "open_issues_count": 42,
+    "forks_count": 1596
   },
   {
     "full_name": "bracesproul/gen-ui-python",
-    "stargazers_count": 56,
-    "open_issues_count": 1,
-    "forks_count": 29
-  },
-  {
-    "full_name": "bracesproul/gen-ui",
-    "stargazers_count": 74,
-    "open_issues_count": 4,
-    "forks_count": 27
-  },
-  {
-    "full_name": "airbnb/visx",
-    "stargazers_count": 19029,
-    "open_issues_count": 132,
-    "forks_count": 690
-  },
-  {
-    "full_name": "TimMikeladze/next-flag",
-    "stargazers_count": 26,
-    "open_issues_count": 3,
-    "forks_count": 0
-  },
-  {
-    "full_name": "GreenBitAI/gbx-lm",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mikeroyal/Self-Hosting-Guide",
-    "stargazers_count": 9333,
-    "open_issues_count": 15,
-    "forks_count": 491
-  },
-  {
-    "full_name": "sveltia/sveltia-cms",
-    "stargazers_count": 699,
-    "open_issues_count": 19,
+    "stargazers_count": 72,
+    "open_issues_count": 2,
     "forks_count": 33
   },
   {
-    "full_name": "privatemaker/headless-cms",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "microsoft/codetour",
-    "stargazers_count": 4336,
-    "open_issues_count": 69,
-    "forks_count": 109
-  },
-  {
-    "full_name": "rstrouse/nodejs-poolController-dashPanel",
-    "stargazers_count": 33,
-    "open_issues_count": 9,
-    "forks_count": 19
-  },
-  {
-    "full_name": "tagyoureit/nodejs-poolController",
-    "stargazers_count": 311,
-    "open_issues_count": 10,
-    "forks_count": 91
-  },
-  {
-    "full_name": "esphome/esphome",
-    "stargazers_count": 7938,
-    "open_issues_count": 213,
-    "forks_count": 3303
-  },
-  {
-    "full_name": "irealva/gadgets-and-sensors",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "DiatomStudio/Piccolo",
-    "stargazers_count": 350,
-    "open_issues_count": 10,
-    "forks_count": 58
-  },
-  {
-    "full_name": "johnboiles/obs-mac-virtualcam",
-    "stargazers_count": 4066,
-    "open_issues_count": 6,
-    "forks_count": 161
-  },
-  {
-    "full_name": "mattrothenberg/duckb-browser-block",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "milvus-io/milvus",
-    "stargazers_count": 27862,
-    "open_issues_count": 820,
-    "forks_count": 2683
-  },
-  {
-    "full_name": "moby/moby",
-    "stargazers_count": 67999,
-    "open_issues_count": 3394,
-    "forks_count": 18570
-  },
-  {
-    "full_name": "idan/spectacle-block",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "full_name": "bracesproul/gen-ui",
+    "stargazers_count": 80,
+    "open_issues_count": 4,
+    "forks_count": 28
   }
 ]
