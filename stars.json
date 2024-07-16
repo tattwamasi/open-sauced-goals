@@ -1,27 +1,93 @@
 [
   {
+    "full_name": "xz/new.css",
+    "stargazers_count": 3932,
+    "open_issues_count": 40,
+    "forks_count": 129
+  },
+  {
+    "full_name": "wintermute-cell/magick.css",
+    "stargazers_count": 891,
+    "open_issues_count": 2,
+    "forks_count": 13
+  },
+  {
+    "full_name": "lit/lit",
+    "stargazers_count": 17991,
+    "open_issues_count": 505,
+    "forks_count": 889
+  },
+  {
+    "full_name": "polarsource/polar",
+    "stargazers_count": 1524,
+    "open_issues_count": 70,
+    "forks_count": 50
+  },
+  {
+    "full_name": "lunamidori5/Midori-AI",
+    "stargazers_count": 74,
+    "open_issues_count": 2,
+    "forks_count": 22
+  },
+  {
+    "full_name": "Mintplex-Labs/openai-assistant-swarm",
+    "stargazers_count": 300,
+    "open_issues_count": 0,
+    "forks_count": 43
+  },
+  {
+    "full_name": "Mintplex-Labs/anything-llm",
+    "stargazers_count": 17381,
+    "open_issues_count": 135,
+    "forks_count": 1861
+  },
+  {
+    "full_name": "enoch1118/ollamaGUI",
+    "stargazers_count": 46,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "InternLM/lmdeploy",
+    "stargazers_count": 3350,
+    "open_issues_count": 227,
+    "forks_count": 299
+  },
+  {
+    "full_name": "jakobhoeg/nextjs-ollama-llm-ui",
+    "stargazers_count": 540,
+    "open_issues_count": 9,
+    "forks_count": 123
+  },
+  {
+    "full_name": "open-webui/pipelines",
+    "stargazers_count": 377,
+    "open_issues_count": 41,
+    "forks_count": 89
+  },
+  {
     "full_name": "gelldur/EventBus",
-    "stargazers_count": 344,
+    "stargazers_count": 347,
     "open_issues_count": 25,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "MarketingPipeline/Termino.js",
-    "stargazers_count": 473,
-    "open_issues_count": 3,
+    "stargazers_count": 515,
+    "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "expr-lang/expr",
-    "stargazers_count": 5849,
-    "open_issues_count": 40,
-    "forks_count": 379
+    "stargazers_count": 5862,
+    "open_issues_count": 38,
+    "forks_count": 382
   },
   {
     "full_name": "pocoproject/poco",
-    "stargazers_count": 8058,
-    "open_issues_count": 143,
-    "forks_count": 2110
+    "stargazers_count": 8064,
+    "open_issues_count": 146,
+    "forks_count": 2112
   },
   {
     "full_name": "stevenrobertson/cuburn",
@@ -31,43 +97,43 @@
   },
   {
     "full_name": "cairo-book/cairo-book",
-    "stargazers_count": 213,
-    "open_issues_count": 11,
-    "forks_count": 198
+    "stargazers_count": 214,
+    "open_issues_count": 16,
+    "forks_count": 201
   },
   {
     "full_name": "jaredhanson/passport",
-    "stargazers_count": 22670,
+    "stargazers_count": 22676,
     "open_issues_count": 380,
-    "forks_count": 1237
+    "forks_count": 1238
   },
   {
     "full_name": "liquidmetal-dev/flintlock",
-    "stargazers_count": 462,
-    "open_issues_count": 62,
+    "stargazers_count": 465,
+    "open_issues_count": 66,
     "forks_count": 30
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 25386,
-    "open_issues_count": 30,
+    "stargazers_count": 25431,
+    "open_issues_count": 17,
     "forks_count": 1803
   },
   {
     "full_name": "HungryHowies/How-To-Build-Zitadel-from-Source",
     "stargazers_count": 3,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "openid/AppAuth-iOS",
-    "stargazers_count": 1723,
+    "stargazers_count": 1725,
     "open_issues_count": 205,
-    "forks_count": 745
+    "forks_count": 746
   },
   {
     "full_name": "getcronit/pylon",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -81,25 +147,25 @@
     "full_name": "zitadel/typescript",
     "stargazers_count": 36,
     "open_issues_count": 21,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "Doriandarko/maestro",
-    "stargazers_count": 3800,
+    "stargazers_count": 3860,
     "open_issues_count": 39,
-    "forks_count": 607
+    "forks_count": 615
   },
   {
     "full_name": "docmost/docmost",
-    "stargazers_count": 2027,
-    "open_issues_count": 24,
-    "forks_count": 43
+    "stargazers_count": 2158,
+    "open_issues_count": 25,
+    "forks_count": 46
   },
   {
     "full_name": "sagemath/sage",
-    "stargazers_count": 1202,
-    "open_issues_count": 5288,
-    "forks_count": 414
+    "stargazers_count": 1207,
+    "open_issues_count": 5308,
+    "forks_count": 419
   },
   {
     "full_name": "ansible/ansible-jupyter-kernel",
@@ -109,74 +175,8 @@
   },
   {
     "full_name": "jupyter/jupyter",
-    "stargazers_count": 14804,
-    "open_issues_count": 46,
-    "forks_count": 3998
-  },
-  {
-    "full_name": "vatlab/sos",
-    "stargazers_count": 268,
-    "open_issues_count": 65,
-    "forks_count": 44
-  },
-  {
-    "full_name": "containerd/nerdctl",
-    "stargazers_count": 7655,
-    "open_issues_count": 299,
-    "forks_count": 567
-  },
-  {
-    "full_name": "evansm7/vftool",
-    "stargazers_count": 983,
-    "open_issues_count": 21,
-    "forks_count": 68
-  },
-  {
-    "full_name": "beringresearch/macpine",
-    "stargazers_count": 881,
-    "open_issues_count": 3,
-    "forks_count": 22
-  },
-  {
-    "full_name": "sickcodes/Docker-OSX",
-    "stargazers_count": 36173,
-    "open_issues_count": 352,
-    "forks_count": 1785
-  },
-  {
-    "full_name": "kholia/OSX-KVM",
-    "stargazers_count": 19471,
-    "open_issues_count": 4,
-    "forks_count": 1796
-  },
-  {
-    "full_name": "runfinch/finch",
-    "stargazers_count": 3479,
-    "open_issues_count": 114,
-    "forks_count": 88
-  },
-  {
-    "full_name": "abiosoft/colima",
-    "stargazers_count": 17799,
-    "open_issues_count": 295,
-    "forks_count": 365
-  },
-  {
-    "full_name": "patheard/aws-ecs-zitadel",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "zitadel/actions",
-    "stargazers_count": 25,
-    "open_issues_count": 1,
-    "forks_count": 6
-  },
-  {
-    "full_name": "zitadel/zitadel",
-    "stargazers_count": 7734,
-    "open_issues_count": 599,
-    "forks_count": 469
+    "stargazers_count": 14805,
+    "open_issues_count": 47,
+    "forks_count": 4003
   }
 ]
