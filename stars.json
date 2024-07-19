@@ -1,26 +1,26 @@
 [
   {
     "full_name": "xz/new.css",
-    "stargazers_count": 3932,
+    "stargazers_count": 3936,
     "open_issues_count": 40,
     "forks_count": 129
   },
   {
     "full_name": "wintermute-cell/magick.css",
-    "stargazers_count": 891,
+    "stargazers_count": 902,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "lit/lit",
-    "stargazers_count": 17991,
-    "open_issues_count": 505,
-    "forks_count": 889
+    "stargazers_count": 18004,
+    "open_issues_count": 504,
+    "forks_count": 888
   },
   {
     "full_name": "polarsource/polar",
-    "stargazers_count": 1524,
-    "open_issues_count": 70,
+    "stargazers_count": 1526,
+    "open_issues_count": 68,
     "forks_count": 50
   },
   {
@@ -31,63 +31,63 @@
   },
   {
     "full_name": "Mintplex-Labs/openai-assistant-swarm",
-    "stargazers_count": 300,
+    "stargazers_count": 302,
     "open_issues_count": 0,
     "forks_count": 43
   },
   {
     "full_name": "Mintplex-Labs/anything-llm",
-    "stargazers_count": 17381,
-    "open_issues_count": 135,
-    "forks_count": 1861
+    "stargazers_count": 17538,
+    "open_issues_count": 141,
+    "forks_count": 1880
   },
   {
     "full_name": "enoch1118/ollamaGUI",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "InternLM/lmdeploy",
-    "stargazers_count": 3350,
-    "open_issues_count": 227,
-    "forks_count": 299
+    "stargazers_count": 3405,
+    "open_issues_count": 248,
+    "forks_count": 303
   },
   {
     "full_name": "jakobhoeg/nextjs-ollama-llm-ui",
-    "stargazers_count": 540,
-    "open_issues_count": 9,
-    "forks_count": 123
+    "stargazers_count": 550,
+    "open_issues_count": 10,
+    "forks_count": 124
   },
   {
     "full_name": "open-webui/pipelines",
-    "stargazers_count": 377,
-    "open_issues_count": 41,
-    "forks_count": 89
+    "stargazers_count": 394,
+    "open_issues_count": 45,
+    "forks_count": 96
   },
   {
     "full_name": "gelldur/EventBus",
-    "stargazers_count": 347,
+    "stargazers_count": 348,
     "open_issues_count": 25,
     "forks_count": 80
   },
   {
     "full_name": "MarketingPipeline/Termino.js",
-    "stargazers_count": 515,
+    "stargazers_count": 527,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "expr-lang/expr",
-    "stargazers_count": 5862,
+    "stargazers_count": 5870,
     "open_issues_count": 38,
     "forks_count": 382
   },
   {
     "full_name": "pocoproject/poco",
-    "stargazers_count": 8064,
-    "open_issues_count": 146,
-    "forks_count": 2112
+    "stargazers_count": 8074,
+    "open_issues_count": 147,
+    "forks_count": 2115
   },
   {
     "full_name": "stevenrobertson/cuburn",
@@ -98,25 +98,25 @@
   {
     "full_name": "cairo-book/cairo-book",
     "stargazers_count": 214,
-    "open_issues_count": 16,
+    "open_issues_count": 18,
     "forks_count": 201
   },
   {
     "full_name": "jaredhanson/passport",
-    "stargazers_count": 22676,
+    "stargazers_count": 22686,
     "open_issues_count": 380,
-    "forks_count": 1238
+    "forks_count": 1237
   },
   {
     "full_name": "liquidmetal-dev/flintlock",
-    "stargazers_count": 465,
-    "open_issues_count": 66,
+    "stargazers_count": 469,
+    "open_issues_count": 62,
     "forks_count": 30
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 25431,
-    "open_issues_count": 17,
+    "stargazers_count": 25468,
+    "open_issues_count": 25,
     "forks_count": 1803
   },
   {
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "openid/AppAuth-iOS",
-    "stargazers_count": 1725,
+    "stargazers_count": 1726,
     "open_issues_count": 205,
-    "forks_count": 746
+    "forks_count": 747
   },
   {
     "full_name": "getcronit/pylon",
@@ -146,26 +146,26 @@
   {
     "full_name": "zitadel/typescript",
     "stargazers_count": 36,
-    "open_issues_count": 21,
+    "open_issues_count": 23,
     "forks_count": 15
   },
   {
     "full_name": "Doriandarko/maestro",
-    "stargazers_count": 3860,
-    "open_issues_count": 39,
-    "forks_count": 615
+    "stargazers_count": 3911,
+    "open_issues_count": 40,
+    "forks_count": 618
   },
   {
     "full_name": "docmost/docmost",
-    "stargazers_count": 2158,
-    "open_issues_count": 25,
-    "forks_count": 46
+    "stargazers_count": 2220,
+    "open_issues_count": 24,
+    "forks_count": 50
   },
   {
     "full_name": "sagemath/sage",
-    "stargazers_count": 1207,
-    "open_issues_count": 5308,
-    "forks_count": 419
+    "stargazers_count": 1212,
+    "open_issues_count": 5314,
+    "forks_count": 421
   },
   {
     "full_name": "ansible/ansible-jupyter-kernel",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "jupyter/jupyter",
-    "stargazers_count": 14805,
+    "stargazers_count": 14810,
     "open_issues_count": 47,
-    "forks_count": 4003
+    "forks_count": 4006
   }
 ]
