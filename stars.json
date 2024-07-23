@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "apache/eventmesh",
+    "stargazers_count": 1578,
+    "open_issues_count": 211,
+    "forks_count": 624
+  },
+  {
+    "full_name": "nativewind/nativewind",
+    "stargazers_count": 4632,
+    "open_issues_count": 186,
+    "forks_count": 250
+  },
+  {
+    "full_name": "rebaz94/qstash_dart",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "wasp-lang/open-saas",
+    "stargazers_count": 6159,
+    "open_issues_count": 50,
+    "forks_count": 596
+  },
+  {
+    "full_name": "denoland/deno-astro-adapter",
+    "stargazers_count": 63,
+    "open_issues_count": 4,
+    "forks_count": 17
+  },
+  {
+    "full_name": "vitejs/awesome-vite",
+    "stargazers_count": 13681,
+    "open_issues_count": 36,
+    "forks_count": 1085
+  },
+  {
+    "full_name": "ComfyWorkflows/ComfyUI-Launcher",
+    "stargazers_count": 441,
+    "open_issues_count": 14,
+    "forks_count": 50
+  },
+  {
+    "full_name": "matrix-org/matrix-hookshot",
+    "stargazers_count": 274,
+    "open_issues_count": 293,
+    "forks_count": 65
+  },
+  {
     "full_name": "xz/new.css",
     "stargazers_count": 3936,
     "open_issues_count": 40,
@@ -7,39 +55,39 @@
   },
   {
     "full_name": "wintermute-cell/magick.css",
-    "stargazers_count": 902,
+    "stargazers_count": 908,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "lit/lit",
-    "stargazers_count": 18004,
-    "open_issues_count": 504,
-    "forks_count": 888
+    "stargazers_count": 18026,
+    "open_issues_count": 507,
+    "forks_count": 891
   },
   {
     "full_name": "polarsource/polar",
-    "stargazers_count": 1526,
-    "open_issues_count": 68,
-    "forks_count": 50
+    "stargazers_count": 1529,
+    "open_issues_count": 73,
+    "forks_count": 51
   },
   {
     "full_name": "lunamidori5/Midori-AI",
-    "stargazers_count": 74,
+    "stargazers_count": 78,
     "open_issues_count": 2,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "Mintplex-Labs/openai-assistant-swarm",
-    "stargazers_count": 302,
+    "stargazers_count": 304,
     "open_issues_count": 0,
     "forks_count": 43
   },
   {
     "full_name": "Mintplex-Labs/anything-llm",
-    "stargazers_count": 17538,
-    "open_issues_count": 141,
-    "forks_count": 1880
+    "stargazers_count": 17695,
+    "open_issues_count": 142,
+    "forks_count": 1904
   },
   {
     "full_name": "enoch1118/ollamaGUI",
@@ -49,45 +97,45 @@
   },
   {
     "full_name": "InternLM/lmdeploy",
-    "stargazers_count": 3405,
-    "open_issues_count": 248,
-    "forks_count": 303
+    "stargazers_count": 3457,
+    "open_issues_count": 247,
+    "forks_count": 307
   },
   {
     "full_name": "jakobhoeg/nextjs-ollama-llm-ui",
-    "stargazers_count": 550,
-    "open_issues_count": 10,
-    "forks_count": 124
+    "stargazers_count": 561,
+    "open_issues_count": 9,
+    "forks_count": 130
   },
   {
     "full_name": "open-webui/pipelines",
-    "stargazers_count": 394,
-    "open_issues_count": 45,
-    "forks_count": 96
+    "stargazers_count": 415,
+    "open_issues_count": 50,
+    "forks_count": 103
   },
   {
     "full_name": "gelldur/EventBus",
     "stargazers_count": 348,
     "open_issues_count": 25,
-    "forks_count": 80
+    "forks_count": 78
   },
   {
     "full_name": "MarketingPipeline/Termino.js",
-    "stargazers_count": 527,
+    "stargazers_count": 530,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "expr-lang/expr",
-    "stargazers_count": 5870,
-    "open_issues_count": 38,
+    "stargazers_count": 5877,
+    "open_issues_count": 39,
     "forks_count": 382
   },
   {
     "full_name": "pocoproject/poco",
-    "stargazers_count": 8074,
-    "open_issues_count": 147,
-    "forks_count": 2115
+    "stargazers_count": 8078,
+    "open_issues_count": 150,
+    "forks_count": 2114
   },
   {
     "full_name": "stevenrobertson/cuburn",
@@ -97,27 +145,27 @@
   },
   {
     "full_name": "cairo-book/cairo-book",
-    "stargazers_count": 214,
-    "open_issues_count": 18,
-    "forks_count": 201
+    "stargazers_count": 215,
+    "open_issues_count": 21,
+    "forks_count": 205
   },
   {
     "full_name": "jaredhanson/passport",
-    "stargazers_count": 22686,
+    "stargazers_count": 22703,
     "open_issues_count": 380,
     "forks_count": 1237
   },
   {
     "full_name": "liquidmetal-dev/flintlock",
-    "stargazers_count": 469,
-    "open_issues_count": 62,
+    "stargazers_count": 473,
+    "open_issues_count": 65,
     "forks_count": 30
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 25468,
-    "open_issues_count": 25,
-    "forks_count": 1803
+    "stargazers_count": 25519,
+    "open_issues_count": 36,
+    "forks_count": 1802
   },
   {
     "full_name": "HungryHowies/How-To-Build-Zitadel-from-Source",
@@ -129,54 +177,6 @@
     "full_name": "openid/AppAuth-iOS",
     "stargazers_count": 1726,
     "open_issues_count": 205,
-    "forks_count": 747
-  },
-  {
-    "full_name": "getcronit/pylon",
-    "stargazers_count": 18,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "zitadel/terraform-provider-zitadel",
-    "stargazers_count": 21,
-    "open_issues_count": 17,
-    "forks_count": 13
-  },
-  {
-    "full_name": "zitadel/typescript",
-    "stargazers_count": 36,
-    "open_issues_count": 23,
-    "forks_count": 15
-  },
-  {
-    "full_name": "Doriandarko/maestro",
-    "stargazers_count": 3911,
-    "open_issues_count": 40,
-    "forks_count": 618
-  },
-  {
-    "full_name": "docmost/docmost",
-    "stargazers_count": 2220,
-    "open_issues_count": 24,
-    "forks_count": 50
-  },
-  {
-    "full_name": "sagemath/sage",
-    "stargazers_count": 1212,
-    "open_issues_count": 5314,
-    "forks_count": 421
-  },
-  {
-    "full_name": "ansible/ansible-jupyter-kernel",
-    "stargazers_count": 529,
-    "open_issues_count": 18,
-    "forks_count": 60
-  },
-  {
-    "full_name": "jupyter/jupyter",
-    "stargazers_count": 14810,
-    "open_issues_count": 47,
-    "forks_count": 4006
+    "forks_count": 749
   }
 ]
