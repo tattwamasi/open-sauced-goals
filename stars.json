@@ -1,14 +1,68 @@
 [
   {
+    "full_name": "mem0ai/mem0",
+    "stargazers_count": 17487,
+    "open_issues_count": 186,
+    "forks_count": 1666
+  },
+  {
+    "full_name": "stackblitz/webcontainer-core",
+    "stargazers_count": 3737,
+    "open_issues_count": 324,
+    "forks_count": 140
+  },
+  {
+    "full_name": "stackblitz/tutorialkit",
+    "stargazers_count": 86,
+    "open_issues_count": 13,
+    "forks_count": 9
+  },
+  {
+    "full_name": "JulianCataldo/web-garden",
+    "stargazers_count": 148,
+    "open_issues_count": 22,
+    "forks_count": 20
+  },
+  {
+    "full_name": "mattjennings/astro-live-code",
+    "stargazers_count": 29,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "HiDeoo/starlight-showcases",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "exo-explore/mlx-bitnet",
+    "stargazers_count": 88,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "exo-explore/exo",
+    "stargazers_count": 4299,
+    "open_issues_count": 44,
+    "forks_count": 186
+  },
+  {
+    "full_name": "bradtraversy/design-resources-for-developers",
+    "stargazers_count": 57550,
+    "open_issues_count": 1,
+    "forks_count": 11358
+  },
+  {
     "full_name": "apache/eventmesh",
-    "stargazers_count": 1578,
+    "stargazers_count": 1580,
     "open_issues_count": 211,
-    "forks_count": 624
+    "forks_count": 625
   },
   {
     "full_name": "nativewind/nativewind",
-    "stargazers_count": 4632,
-    "open_issues_count": 186,
+    "stargazers_count": 4645,
+    "open_issues_count": 188,
     "forks_count": 250
   },
   {
@@ -19,9 +73,9 @@
   },
   {
     "full_name": "wasp-lang/open-saas",
-    "stargazers_count": 6159,
-    "open_issues_count": 50,
-    "forks_count": 596
+    "stargazers_count": 6192,
+    "open_issues_count": 52,
+    "forks_count": 603
   },
   {
     "full_name": "denoland/deno-astro-adapter",
@@ -31,13 +85,13 @@
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 13681,
-    "open_issues_count": 36,
-    "forks_count": 1085
+    "stargazers_count": 13701,
+    "open_issues_count": 38,
+    "forks_count": 1088
   },
   {
     "full_name": "ComfyWorkflows/ComfyUI-Launcher",
-    "stargazers_count": 441,
+    "stargazers_count": 447,
     "open_issues_count": 14,
     "forks_count": 50
   },
@@ -49,69 +103,69 @@
   },
   {
     "full_name": "xz/new.css",
-    "stargazers_count": 3936,
+    "stargazers_count": 3938,
     "open_issues_count": 40,
     "forks_count": 129
   },
   {
     "full_name": "wintermute-cell/magick.css",
-    "stargazers_count": 908,
+    "stargazers_count": 910,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "lit/lit",
-    "stargazers_count": 18026,
-    "open_issues_count": 507,
-    "forks_count": 891
+    "stargazers_count": 18203,
+    "open_issues_count": 513,
+    "forks_count": 903
   },
   {
     "full_name": "polarsource/polar",
-    "stargazers_count": 1529,
-    "open_issues_count": 73,
+    "stargazers_count": 1533,
+    "open_issues_count": 65,
     "forks_count": 51
   },
   {
     "full_name": "lunamidori5/Midori-AI",
-    "stargazers_count": 78,
+    "stargazers_count": 81,
     "open_issues_count": 2,
     "forks_count": 23
   },
   {
     "full_name": "Mintplex-Labs/openai-assistant-swarm",
-    "stargazers_count": 304,
+    "stargazers_count": 308,
     "open_issues_count": 0,
-    "forks_count": 43
+    "forks_count": 45
   },
   {
     "full_name": "Mintplex-Labs/anything-llm",
-    "stargazers_count": 17695,
-    "open_issues_count": 142,
-    "forks_count": 1904
+    "stargazers_count": 17850,
+    "open_issues_count": 153,
+    "forks_count": 1922
   },
   {
     "full_name": "enoch1118/ollamaGUI",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "InternLM/lmdeploy",
-    "stargazers_count": 3457,
-    "open_issues_count": 247,
-    "forks_count": 307
+    "stargazers_count": 3515,
+    "open_issues_count": 266,
+    "forks_count": 316
   },
   {
     "full_name": "jakobhoeg/nextjs-ollama-llm-ui",
-    "stargazers_count": 561,
+    "stargazers_count": 570,
     "open_issues_count": 9,
-    "forks_count": 130
+    "forks_count": 133
   },
   {
     "full_name": "open-webui/pipelines",
-    "stargazers_count": 415,
-    "open_issues_count": 50,
-    "forks_count": 103
+    "stargazers_count": 442,
+    "open_issues_count": 54,
+    "forks_count": 104
   },
   {
     "full_name": "gelldur/EventBus",
@@ -121,62 +175,8 @@
   },
   {
     "full_name": "MarketingPipeline/Termino.js",
-    "stargazers_count": 530,
+    "stargazers_count": 532,
     "open_issues_count": 4,
     "forks_count": 9
-  },
-  {
-    "full_name": "expr-lang/expr",
-    "stargazers_count": 5877,
-    "open_issues_count": 39,
-    "forks_count": 382
-  },
-  {
-    "full_name": "pocoproject/poco",
-    "stargazers_count": 8078,
-    "open_issues_count": 150,
-    "forks_count": 2114
-  },
-  {
-    "full_name": "stevenrobertson/cuburn",
-    "stargazers_count": 38,
-    "open_issues_count": 10,
-    "forks_count": 11
-  },
-  {
-    "full_name": "cairo-book/cairo-book",
-    "stargazers_count": 215,
-    "open_issues_count": 21,
-    "forks_count": 205
-  },
-  {
-    "full_name": "jaredhanson/passport",
-    "stargazers_count": 22703,
-    "open_issues_count": 380,
-    "forks_count": 1237
-  },
-  {
-    "full_name": "liquidmetal-dev/flintlock",
-    "stargazers_count": 473,
-    "open_issues_count": 65,
-    "forks_count": 30
-  },
-  {
-    "full_name": "mantinedev/mantine",
-    "stargazers_count": 25519,
-    "open_issues_count": 36,
-    "forks_count": 1802
-  },
-  {
-    "full_name": "HungryHowies/How-To-Build-Zitadel-from-Source",
-    "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "openid/AppAuth-iOS",
-    "stargazers_count": 1726,
-    "open_issues_count": 205,
-    "forks_count": 749
   }
 ]
