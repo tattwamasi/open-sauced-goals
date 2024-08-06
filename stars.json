@@ -1,104 +1,152 @@
 [
   {
+    "full_name": "basecamp/kamal",
+    "stargazers_count": 9458,
+    "open_issues_count": 62,
+    "forks_count": 366
+  },
+  {
+    "full_name": "sasoria/astro-microfrontends-ssr",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "sasoria/astro-microfrontends",
+    "stargazers_count": 64,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
+    "full_name": "RocketCommunicationsInc/astro",
+    "stargazers_count": 103,
+    "open_issues_count": 8,
+    "forks_count": 25
+  },
+  {
+    "full_name": "scottnath/profile-components",
+    "stargazers_count": 3,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "pilcrowOnPaper/copenhagen",
+    "stargazers_count": 891,
+    "open_issues_count": 9,
+    "forks_count": 23
+  },
+  {
+    "full_name": "lucia-auth/lucia",
+    "stargazers_count": 8654,
+    "open_issues_count": 25,
+    "forks_count": 452
+  },
+  {
+    "full_name": "slice-so/merge-to-earn",
+    "stargazers_count": 163,
+    "open_issues_count": 5,
+    "forks_count": 12
+  },
+  {
     "full_name": "pinokiocomputer/pinokio",
-    "stargazers_count": 2965,
+    "stargazers_count": 3020,
     "open_issues_count": 180,
-    "forks_count": 243
+    "forks_count": 244
   },
   {
     "full_name": "OpenBB-finance/openbb-agents",
-    "stargazers_count": 227,
+    "stargazers_count": 230,
     "open_issues_count": 5,
     "forks_count": 29
   },
   {
     "full_name": "OpenBB-finance/OpenBB",
-    "stargazers_count": 26847,
-    "open_issues_count": 39,
-    "forks_count": 2620
+    "stargazers_count": 26873,
+    "open_issues_count": 38,
+    "forks_count": 2619
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 33829,
-    "open_issues_count": 326,
-    "forks_count": 3461
+    "stargazers_count": 33855,
+    "open_issues_count": 316,
+    "forks_count": 3465
   },
   {
     "full_name": "keephq/keep",
-    "stargazers_count": 3144,
+    "stargazers_count": 3154,
     "open_issues_count": 85,
-    "forks_count": 218
+    "forks_count": 221
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 35893,
-    "open_issues_count": 568,
-    "forks_count": 1215
+    "stargazers_count": 36166,
+    "open_issues_count": 573,
+    "forks_count": 1224
   },
   {
     "full_name": "dyrector-io/dyrectorio",
-    "stargazers_count": 1195,
-    "open_issues_count": 28,
+    "stargazers_count": 1203,
+    "open_issues_count": 27,
     "forks_count": 91
   },
   {
     "full_name": "elie222/inbox-zero",
-    "stargazers_count": 2264,
-    "open_issues_count": 31,
-    "forks_count": 214
+    "stargazers_count": 2280,
+    "open_issues_count": 32,
+    "forks_count": 215
   },
   {
     "full_name": "webstudio-is/webstudio",
-    "stargazers_count": 4278,
-    "open_issues_count": 243,
-    "forks_count": 430
+    "stargazers_count": 4326,
+    "open_issues_count": 249,
+    "forks_count": 434
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 7811,
-    "open_issues_count": 141,
+    "stargazers_count": 7847,
+    "open_issues_count": 140,
     "forks_count": 457
   },
   {
     "full_name": "mfts/papermark",
-    "stargazers_count": 3127,
-    "open_issues_count": 65,
-    "forks_count": 371
+    "stargazers_count": 3146,
+    "open_issues_count": 66,
+    "forks_count": 375
   },
   {
     "full_name": "Netflix/maestro",
-    "stargazers_count": 2382,
-    "open_issues_count": 26,
-    "forks_count": 153
+    "stargazers_count": 2762,
+    "open_issues_count": 25,
+    "forks_count": 171
   },
   {
     "full_name": "mem0ai/mem0",
-    "stargazers_count": 18675,
-    "open_issues_count": 172,
-    "forks_count": 1762
+    "stargazers_count": 19061,
+    "open_issues_count": 152,
+    "forks_count": 1791
   },
   {
     "full_name": "stackblitz/webcontainer-core",
-    "stargazers_count": 3746,
+    "stargazers_count": 3747,
     "open_issues_count": 326,
-    "forks_count": 141
+    "forks_count": 140
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 157,
-    "open_issues_count": 21,
-    "forks_count": 11
+    "stargazers_count": 165,
+    "open_issues_count": 27,
+    "forks_count": 12
   },
   {
     "full_name": "JulianCataldo/web-garden",
     "stargazers_count": 148,
-    "open_issues_count": 23,
-    "forks_count": 20
+    "open_issues_count": 22,
+    "forks_count": 18
   },
   {
     "full_name": "mattjennings/astro-live-code",
     "stargazers_count": 29,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
@@ -109,74 +157,26 @@
   },
   {
     "full_name": "exo-explore/mlx-bitnet",
-    "stargazers_count": 90,
+    "stargazers_count": 92,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "exo-explore/exo",
-    "stargazers_count": 5231,
-    "open_issues_count": 61,
-    "forks_count": 249
+    "stargazers_count": 5404,
+    "open_issues_count": 65,
+    "forks_count": 258
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 57638,
+    "stargazers_count": 57683,
     "open_issues_count": 0,
-    "forks_count": 11371
+    "forks_count": 11377
   },
   {
     "full_name": "apache/eventmesh",
     "stargazers_count": 1581,
-    "open_issues_count": 224,
+    "open_issues_count": 226,
     "forks_count": 625
-  },
-  {
-    "full_name": "nativewind/nativewind",
-    "stargazers_count": 4685,
-    "open_issues_count": 194,
-    "forks_count": 252
-  },
-  {
-    "full_name": "rebaz94/qstash_dart",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "wasp-lang/open-saas",
-    "stargazers_count": 6668,
-    "open_issues_count": 49,
-    "forks_count": 623
-  },
-  {
-    "full_name": "denoland/deno-astro-adapter",
-    "stargazers_count": 63,
-    "open_issues_count": 4,
-    "forks_count": 17
-  },
-  {
-    "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 13739,
-    "open_issues_count": 40,
-    "forks_count": 1092
-  },
-  {
-    "full_name": "ComfyWorkflows/ComfyUI-Launcher",
-    "stargazers_count": 456,
-    "open_issues_count": 14,
-    "forks_count": 52
-  },
-  {
-    "full_name": "matrix-org/matrix-hookshot",
-    "stargazers_count": 274,
-    "open_issues_count": 293,
-    "forks_count": 65
-  },
-  {
-    "full_name": "xz/new.css",
-    "stargazers_count": 3940,
-    "open_issues_count": 40,
-    "forks_count": 129
   }
 ]
