@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "chartdb/chartdb",
+    "stargazers_count": 1897,
+    "open_issues_count": 29,
+    "forks_count": 68
+  },
+  {
     "full_name": "NVIDIA/stdexec",
-    "stargazers_count": 1477,
-    "open_issues_count": 95,
+    "stargazers_count": 1480,
+    "open_issues_count": 99,
     "forks_count": 148
   },
   {
     "full_name": "supabase-community/supabase-vscode-extension",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 6,
     "forks_count": 1
   },
   {
     "full_name": "supabase-community/postgres-new",
-    "stargazers_count": 1859,
-    "open_issues_count": 33,
-    "forks_count": 130
+    "stargazers_count": 1917,
+    "open_issues_count": 29,
+    "forks_count": 133
   },
   {
     "full_name": "srcbookdev/srcbook",
-    "stargazers_count": 1550,
-    "open_issues_count": 13,
-    "forks_count": 32
+    "stargazers_count": 1639,
+    "open_issues_count": 15,
+    "forks_count": 36
   },
   {
     "full_name": "apHarmony/jsharmony-cms",
@@ -31,31 +37,31 @@
   },
   {
     "full_name": "EisenbergEffect/server-first-web-components",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "edgedb/edgedb",
-    "stargazers_count": 12881,
-    "open_issues_count": 791,
-    "forks_count": 395
+    "stargazers_count": 12894,
+    "open_issues_count": 788,
+    "forks_count": 396
   },
   {
     "full_name": "electric-sql/pglite",
-    "stargazers_count": 7532,
-    "open_issues_count": 48,
-    "forks_count": 135
+    "stargazers_count": 7621,
+    "open_issues_count": 47,
+    "forks_count": 136
   },
   {
     "full_name": "memgraph/mage",
-    "stargazers_count": 244,
+    "stargazers_count": 245,
     "open_issues_count": 58,
     "forks_count": 24
   },
   {
     "full_name": "Snapchat/KeyDB",
-    "stargazers_count": 11199,
+    "stargazers_count": 11216,
     "open_issues_count": 213,
     "forks_count": 568
   },
@@ -73,19 +79,19 @@
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 6952,
-    "open_issues_count": 307,
-    "forks_count": 551
+    "stargazers_count": 7018,
+    "open_issues_count": 313,
+    "forks_count": 556
   },
   {
     "full_name": "mickasmt/astro-nomy",
-    "stargazers_count": 372,
+    "stargazers_count": 373,
     "open_issues_count": 3,
     "forks_count": 92
   },
   {
     "full_name": "bholmesdev/simple-stack",
-    "stargazers_count": 279,
+    "stargazers_count": 280,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -104,26 +110,26 @@
   {
     "full_name": "ThreeDotsLabs/watermill-nats",
     "stargazers_count": 49,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 23
   },
   {
     "full_name": "ThreeDotsLabs/watermill",
-    "stargazers_count": 7197,
-    "open_issues_count": 109,
+    "stargazers_count": 7213,
+    "open_issues_count": 108,
     "forks_count": 387
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 15220,
-    "open_issues_count": 242,
-    "forks_count": 557
+    "stargazers_count": 15300,
+    "open_issues_count": 233,
+    "forks_count": 559
   },
   {
     "full_name": "onwidget/astrowind",
-    "stargazers_count": 3058,
-    "open_issues_count": 14,
-    "forks_count": 916
+    "stargazers_count": 3081,
+    "open_issues_count": 10,
+    "forks_count": 921
   },
   {
     "full_name": "thargor6/JWildfire",
@@ -133,13 +139,13 @@
   },
   {
     "full_name": "iconify/iconify",
-    "stargazers_count": 4282,
+    "stargazers_count": 4294,
     "open_issues_count": 15,
     "forks_count": 130
   },
   {
     "full_name": "taubyte/tau",
-    "stargazers_count": 3076,
+    "stargazers_count": 3104,
     "open_issues_count": 16,
     "forks_count": 83
   },
@@ -151,15 +157,15 @@
   },
   {
     "full_name": "keystonejs/keystone",
-    "stargazers_count": 9089,
-    "open_issues_count": 132,
-    "forks_count": 1138
+    "stargazers_count": 9101,
+    "open_issues_count": 135,
+    "forks_count": 1139
   },
   {
     "full_name": "a-atalla/vendure-astro-shop",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 1
   },
   {
     "full_name": "zankhq/astros",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 11678,
-    "open_issues_count": 136,
-    "forks_count": 594
-  },
-  {
-    "full_name": "neondatabase/neon",
-    "stargazers_count": 14120,
-    "open_issues_count": 845,
-    "forks_count": 398
+    "stargazers_count": 11691,
+    "open_issues_count": 135,
+    "forks_count": 593
   }
 ]
