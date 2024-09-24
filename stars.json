@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "MightyMoud/sidekick",
+    "stargazers_count": 2065,
+    "open_issues_count": 8,
+    "forks_count": 39
+  },
+  {
     "full_name": "stateofca/opencred",
-    "stargazers_count": 41,
-    "open_issues_count": 5,
-    "forks_count": 8
+    "stargazers_count": 43,
+    "open_issues_count": 6,
+    "forks_count": 10
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 26839,
-    "open_issues_count": 637,
-    "forks_count": 859
+    "stargazers_count": 26949,
+    "open_issues_count": 640,
+    "forks_count": 863
   },
   {
     "full_name": "surrealdb/license",
@@ -25,14 +31,14 @@
   },
   {
     "full_name": "martrapp/astro-vtbot",
-    "stargazers_count": 189,
-    "open_issues_count": 0,
+    "stargazers_count": 195,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "delucis/astro-embed",
-    "stargazers_count": 192,
-    "open_issues_count": 14,
+    "stargazers_count": 193,
+    "open_issues_count": 15,
     "forks_count": 30
   },
   {
@@ -43,61 +49,61 @@
   },
   {
     "full_name": "framework7io/framework7",
-    "stargazers_count": 18059,
+    "stargazers_count": 18064,
     "open_issues_count": 190,
-    "forks_count": 3234
+    "forks_count": 3235
   },
   {
     "full_name": "MadcowD/ell",
-    "stargazers_count": 2669,
-    "open_issues_count": 79,
-    "forks_count": 147
+    "stargazers_count": 3511,
+    "open_issues_count": 98,
+    "forks_count": 197
   },
   {
     "full_name": "devaradise/devolio",
-    "stargazers_count": 80,
-    "open_issues_count": 2,
+    "stargazers_count": 81,
+    "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "rehypejs/rehype",
-    "stargazers_count": 1755,
+    "stargazers_count": 1760,
     "open_issues_count": 0,
     "forks_count": 87
   },
   {
     "full_name": "coder/wush",
-    "stargazers_count": 650,
-    "open_issues_count": 8,
+    "stargazers_count": 661,
+    "open_issues_count": 11,
     "forks_count": 15
   },
   {
     "full_name": "Aircoookie/WLED",
-    "stargazers_count": 14617,
-    "open_issues_count": 353,
-    "forks_count": 3142
+    "stargazers_count": 14639,
+    "open_issues_count": 355,
+    "forks_count": 3145
   },
   {
     "full_name": "Thinkmill/keystatic",
-    "stargazers_count": 1141,
-    "open_issues_count": 94,
-    "forks_count": 75
+    "stargazers_count": 1144,
+    "open_issues_count": 95,
+    "forks_count": 74
   },
   {
     "full_name": "michael/editable-website",
-    "stargazers_count": 1425,
+    "stargazers_count": 1430,
     "open_issues_count": 11,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 3030,
-    "open_issues_count": 16,
-    "forks_count": 147
+    "stargazers_count": 3119,
+    "open_issues_count": 18,
+    "forks_count": 154
   },
   {
     "full_name": "NVIDIA/stdexec",
-    "stargazers_count": 1520,
+    "stargazers_count": 1523,
     "open_issues_count": 98,
     "forks_count": 155
   },
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "supabase-community/postgres-new",
-    "stargazers_count": 2133,
-    "open_issues_count": 34,
-    "forks_count": 158
+    "stargazers_count": 2163,
+    "open_issues_count": 32,
+    "forks_count": 161
   },
   {
     "full_name": "srcbookdev/srcbook",
-    "stargazers_count": 1934,
+    "stargazers_count": 1961,
     "open_issues_count": 20,
-    "forks_count": 51
+    "forks_count": 54
   },
   {
     "full_name": "apHarmony/jsharmony-cms",
@@ -127,31 +133,31 @@
   },
   {
     "full_name": "EisenbergEffect/server-first-web-components",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "edgedb/edgedb",
-    "stargazers_count": 12951,
-    "open_issues_count": 810,
-    "forks_count": 398
+    "stargazers_count": 12957,
+    "open_issues_count": 809,
+    "forks_count": 399
   },
   {
     "full_name": "electric-sql/pglite",
-    "stargazers_count": 8074,
-    "open_issues_count": 61,
-    "forks_count": 154
+    "stargazers_count": 8131,
+    "open_issues_count": 62,
+    "forks_count": 157
   },
   {
     "full_name": "memgraph/mage",
-    "stargazers_count": 247,
+    "stargazers_count": 248,
     "open_issues_count": 63,
-    "forks_count": 24
+    "forks_count": 23
   },
   {
     "full_name": "Snapchat/KeyDB",
-    "stargazers_count": 11286,
+    "stargazers_count": 11308,
     "open_issues_count": 217,
     "forks_count": 570
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 7294,
-    "open_issues_count": 333,
-    "forks_count": 578
-  },
-  {
-    "full_name": "mickasmt/astro-nomy",
-    "stargazers_count": 385,
-    "open_issues_count": 3,
-    "forks_count": 96
+    "stargazers_count": 7323,
+    "open_issues_count": 341,
+    "forks_count": 581
   }
 ]
