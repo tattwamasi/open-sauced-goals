@@ -1,21 +1,21 @@
 [
   {
     "full_name": "MightyMoud/sidekick",
-    "stargazers_count": 2065,
-    "open_issues_count": 8,
-    "forks_count": 39
+    "stargazers_count": 2616,
+    "open_issues_count": 10,
+    "forks_count": 45
   },
   {
     "full_name": "stateofca/opencred",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 6,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 26949,
-    "open_issues_count": 640,
-    "forks_count": 863
+    "stargazers_count": 27002,
+    "open_issues_count": 632,
+    "forks_count": 866
   },
   {
     "full_name": "surrealdb/license",
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "martrapp/astro-vtbot",
-    "stargazers_count": 195,
-    "open_issues_count": 2,
+    "stargazers_count": 197,
+    "open_issues_count": 0,
     "forks_count": 4
   },
   {
@@ -49,80 +49,80 @@
   },
   {
     "full_name": "framework7io/framework7",
-    "stargazers_count": 18064,
+    "stargazers_count": 18069,
     "open_issues_count": 190,
-    "forks_count": 3235
+    "forks_count": 3233
   },
   {
     "full_name": "MadcowD/ell",
-    "stargazers_count": 3511,
-    "open_issues_count": 98,
-    "forks_count": 197
+    "stargazers_count": 3718,
+    "open_issues_count": 95,
+    "forks_count": 212
   },
   {
     "full_name": "devaradise/devolio",
-    "stargazers_count": 81,
+    "stargazers_count": 84,
     "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "rehypejs/rehype",
-    "stargazers_count": 1760,
-    "open_issues_count": 0,
-    "forks_count": 87
+    "stargazers_count": 1764,
+    "open_issues_count": 1,
+    "forks_count": 88
   },
   {
     "full_name": "coder/wush",
-    "stargazers_count": 661,
-    "open_issues_count": 11,
+    "stargazers_count": 666,
+    "open_issues_count": 13,
     "forks_count": 15
   },
   {
     "full_name": "Aircoookie/WLED",
-    "stargazers_count": 14639,
-    "open_issues_count": 355,
-    "forks_count": 3145
+    "stargazers_count": 14648,
+    "open_issues_count": 353,
+    "forks_count": 3147
   },
   {
     "full_name": "Thinkmill/keystatic",
-    "stargazers_count": 1144,
+    "stargazers_count": 1153,
     "open_issues_count": 95,
     "forks_count": 74
   },
   {
     "full_name": "michael/editable-website",
-    "stargazers_count": 1430,
+    "stargazers_count": 1433,
     "open_issues_count": 11,
     "forks_count": 111
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 3119,
-    "open_issues_count": 18,
-    "forks_count": 154
+    "stargazers_count": 3224,
+    "open_issues_count": 19,
+    "forks_count": 160
   },
   {
     "full_name": "NVIDIA/stdexec",
-    "stargazers_count": 1523,
+    "stargazers_count": 1529,
     "open_issues_count": 98,
-    "forks_count": 155
+    "forks_count": 156
   },
   {
     "full_name": "supabase-community/supabase-vscode-extension",
     "stargazers_count": 46,
     "open_issues_count": 8,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "supabase-community/postgres-new",
-    "stargazers_count": 2163,
-    "open_issues_count": 32,
-    "forks_count": 161
+    "stargazers_count": 2183,
+    "open_issues_count": 33,
+    "forks_count": 168
   },
   {
     "full_name": "srcbookdev/srcbook",
-    "stargazers_count": 1961,
-    "open_issues_count": 20,
+    "stargazers_count": 1976,
+    "open_issues_count": 21,
     "forks_count": 54
   },
   {
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "edgedb/edgedb",
-    "stargazers_count": 12957,
-    "open_issues_count": 809,
+    "stargazers_count": 12964,
+    "open_issues_count": 815,
     "forks_count": 399
   },
   {
     "full_name": "electric-sql/pglite",
-    "stargazers_count": 8131,
-    "open_issues_count": 62,
-    "forks_count": 157
+    "stargazers_count": 8186,
+    "open_issues_count": 52,
+    "forks_count": 158
   },
   {
     "full_name": "memgraph/mage",
-    "stargazers_count": 248,
-    "open_issues_count": 63,
-    "forks_count": 23
+    "stargazers_count": 249,
+    "open_issues_count": 64,
+    "forks_count": 24
   },
   {
     "full_name": "Snapchat/KeyDB",
-    "stargazers_count": 11308,
+    "stargazers_count": 11326,
     "open_issues_count": 217,
-    "forks_count": 570
+    "forks_count": 572
   },
   {
     "full_name": "fly-apps/nats-cluster",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 7323,
-    "open_issues_count": 341,
-    "forks_count": 581
+    "stargazers_count": 7351,
+    "open_issues_count": 347,
+    "forks_count": 584
   }
 ]
