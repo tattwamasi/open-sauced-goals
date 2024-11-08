@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "vitejs/vite",
+    "stargazers_count": 68442,
+    "open_issues_count": 594,
+    "forks_count": 6173
+  },
+  {
     "full_name": "launchdarkly/terraform-provider-launchdarkly",
     "stargazers_count": 23,
     "open_issues_count": 22,
@@ -7,33 +13,33 @@
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 21654,
-    "open_issues_count": 333,
-    "forks_count": 3322
+    "stargazers_count": 21664,
+    "open_issues_count": 337,
+    "forks_count": 3323
   },
   {
     "full_name": "githubnext/vitale",
-    "stargazers_count": 195,
+    "stargazers_count": 196,
     "open_issues_count": 24,
     "forks_count": 6
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 90831,
-    "open_issues_count": 13979,
-    "forks_count": 21133
+    "stargazers_count": 90929,
+    "open_issues_count": 14001,
+    "forks_count": 21153
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 164069,
-    "open_issues_count": 10413,
-    "forks_count": 29209
+    "stargazers_count": 164089,
+    "open_issues_count": 10443,
+    "forks_count": 29252
   },
   {
     "full_name": "parcel-bundler/lightningcss",
-    "stargazers_count": 6458,
-    "open_issues_count": 223,
-    "forks_count": 186
+    "stargazers_count": 6463,
+    "open_issues_count": 225,
+    "forks_count": 187
   },
   {
     "full_name": "scottaohara/a11y_styled_form_controls",
@@ -55,13 +61,13 @@
   },
   {
     "full_name": "talonhub/community",
-    "stargazers_count": 637,
-    "open_issues_count": 187,
+    "stargazers_count": 638,
+    "open_issues_count": 188,
     "forks_count": 782
   },
   {
     "full_name": "serenadeai/serenade",
-    "stargazers_count": 327,
+    "stargazers_count": 328,
     "open_issues_count": 25,
     "forks_count": 56
   },
@@ -73,14 +79,14 @@
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 20108,
-    "open_issues_count": 236,
-    "forks_count": 574
+    "stargazers_count": 20188,
+    "open_issues_count": 220,
+    "forks_count": 577
   },
   {
     "full_name": "honojs/honox",
-    "stargazers_count": 1632,
-    "open_issues_count": 41,
+    "stargazers_count": 1643,
+    "open_issues_count": 42,
     "forks_count": 43
   },
   {
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 12521,
+    "stargazers_count": 12538,
     "open_issues_count": 284,
-    "forks_count": 646
+    "forks_count": 648
   },
   {
     "full_name": "partykit/sketch-waterhole",
@@ -103,25 +109,25 @@
   },
   {
     "full_name": "partykit/partykit",
-    "stargazers_count": 4677,
+    "stargazers_count": 4685,
     "open_issues_count": 76,
     "forks_count": 156
   },
   {
     "full_name": "codesandbox/sandpack",
-    "stargazers_count": 4884,
+    "stargazers_count": 4896,
     "open_issues_count": 104,
     "forks_count": 350
   },
   {
     "full_name": "agneym/playground",
-    "stargazers_count": 1058,
+    "stargazers_count": 1059,
     "open_issues_count": 8,
-    "forks_count": 156
+    "forks_count": 157
   },
   {
     "full_name": "edwardtufte/tufte-css",
-    "stargazers_count": 5967,
+    "stargazers_count": 5969,
     "open_issues_count": 14,
     "forks_count": 458
   },
@@ -133,13 +139,13 @@
   },
   {
     "full_name": "unplugin/unplugin-auto-import",
-    "stargazers_count": 3274,
-    "open_issues_count": 94,
+    "stargazers_count": 3277,
+    "open_issues_count": 95,
     "forks_count": 199
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 5361,
+    "stargazers_count": 5377,
     "open_issues_count": 24,
     "forks_count": 109
   },
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "openai/swarm",
-    "stargazers_count": 15499,
+    "stargazers_count": 15672,
     "open_issues_count": 11,
-    "forks_count": 1478
+    "forks_count": 1517
   },
   {
     "full_name": "ocavue/astrobook",
-    "stargazers_count": 97,
-    "open_issues_count": 3,
+    "stargazers_count": 98,
+    "open_issues_count": 5,
     "forks_count": 4
   },
   {
     "full_name": "unifiedjs/unified",
-    "stargazers_count": 4462,
+    "stargazers_count": 4466,
     "open_issues_count": 0,
-    "forks_count": 109
+    "forks_count": 110
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 10150,
-    "open_issues_count": 39,
-    "forks_count": 372
-  },
-  {
-    "full_name": "jh3y/whirl",
-    "stargazers_count": 1767,
-    "open_issues_count": 33,
-    "forks_count": 253
+    "stargazers_count": 10172,
+    "open_issues_count": 40,
+    "forks_count": 373
   }
 ]
