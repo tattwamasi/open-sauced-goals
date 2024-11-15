@@ -1,27 +1,27 @@
 [
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11817,
+    "stargazers_count": 11820,
     "open_issues_count": 80,
-    "forks_count": 1028
+    "forks_count": 1029
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 21955,
-    "open_issues_count": 418,
-    "forks_count": 1533
+    "stargazers_count": 21990,
+    "open_issues_count": 416,
+    "forks_count": 1536
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 17008,
+    "stargazers_count": 17033,
     "open_issues_count": 100,
-    "forks_count": 618
+    "forks_count": 620
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 75799,
-    "open_issues_count": 48,
-    "forks_count": 9878
+    "stargazers_count": 75971,
+    "open_issues_count": 45,
+    "forks_count": 9980
   },
   {
     "full_name": "andymatuschak/note-link-janitor",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "stereobooster/astro-digital-garden",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "remarkjs/remark-frontmatter",
-    "stargazers_count": 261,
+    "stargazers_count": 263,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "remarkjs/remark-gfm",
-    "stargazers_count": 744,
+    "stargazers_count": 746,
     "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "remarkjs/remark-github",
-    "stargazers_count": 178,
+    "stargazers_count": 179,
     "open_issues_count": 0,
     "forks_count": 22
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "remarkjs/remark-directive",
-    "stargazers_count": 269,
+    "stargazers_count": 271,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 68499,
-    "open_issues_count": 595,
-    "forks_count": 6183
+    "stargazers_count": 68563,
+    "open_issues_count": 587,
+    "forks_count": 6188
   },
   {
     "full_name": "launchdarkly/terraform-provider-launchdarkly",
@@ -103,37 +103,37 @@
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 21669,
-    "open_issues_count": 336,
-    "forks_count": 3326
+    "stargazers_count": 21681,
+    "open_issues_count": 332,
+    "forks_count": 3331
   },
   {
     "full_name": "githubnext/vitale",
-    "stargazers_count": 198,
+    "stargazers_count": 197,
     "open_issues_count": 24,
     "forks_count": 6
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 91037,
-    "open_issues_count": 13998,
-    "forks_count": 21174
+    "stargazers_count": 91129,
+    "open_issues_count": 13972,
+    "forks_count": 21186
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 164263,
-    "open_issues_count": 10485,
-    "forks_count": 29298
+    "stargazers_count": 164397,
+    "open_issues_count": 10490,
+    "forks_count": 29325
   },
   {
     "full_name": "parcel-bundler/lightningcss",
-    "stargazers_count": 6478,
-    "open_issues_count": 222,
+    "stargazers_count": 6484,
+    "open_issues_count": 224,
     "forks_count": 188
   },
   {
     "full_name": "scottaohara/a11y_styled_form_controls",
-    "stargazers_count": 459,
+    "stargazers_count": 461,
     "open_issues_count": 17,
     "forks_count": 34
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "talonhub/community",
-    "stargazers_count": 639,
-    "open_issues_count": 181,
-    "forks_count": 783
+    "stargazers_count": 642,
+    "open_issues_count": 164,
+    "forks_count": 784
   },
   {
     "full_name": "serenadeai/serenade",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 20267,
+    "stargazers_count": 20329,
     "open_issues_count": 227,
-    "forks_count": 579
+    "forks_count": 582
   },
   {
     "full_name": "honojs/honox",
-    "stargazers_count": 1651,
+    "stargazers_count": 1658,
     "open_issues_count": 44,
     "forks_count": 43
   }
