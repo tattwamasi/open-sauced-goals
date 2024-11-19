@@ -1,27 +1,45 @@
 [
   {
+    "full_name": "ibm-granite/granite-code-models",
+    "stargazers_count": 1143,
+    "open_issues_count": 1,
+    "forks_count": 81
+  },
+  {
+    "full_name": "outline/outline",
+    "stargazers_count": 28452,
+    "open_issues_count": 110,
+    "forks_count": 2276
+  },
+  {
+    "full_name": "fermyon/spin",
+    "stargazers_count": 5485,
+    "open_issues_count": 277,
+    "forks_count": 256
+  },
+  {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11820,
+    "stargazers_count": 11825,
     "open_issues_count": 80,
-    "forks_count": 1029
+    "forks_count": 1028
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 21990,
-    "open_issues_count": 416,
-    "forks_count": 1536
+    "stargazers_count": 22021,
+    "open_issues_count": 446,
+    "forks_count": 1541
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 17033,
+    "stargazers_count": 17071,
     "open_issues_count": 100,
     "forks_count": 620
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 75971,
-    "open_issues_count": 45,
-    "forks_count": 9980
+    "stargazers_count": 76122,
+    "open_issues_count": 46,
+    "forks_count": 10073
   },
   {
     "full_name": "andymatuschak/note-link-janitor",
@@ -43,13 +61,13 @@
   },
   {
     "full_name": "remarkjs/remark-frontmatter",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "remarkjs/remark-gfm",
-    "stargazers_count": 746,
+    "stargazers_count": 749,
     "open_issues_count": 0,
     "forks_count": 26
   },
@@ -67,7 +85,7 @@
   },
   {
     "full_name": "remarkjs/remark-directive",
-    "stargazers_count": 271,
+    "stargazers_count": 272,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -91,9 +109,9 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 68563,
-    "open_issues_count": 587,
-    "forks_count": 6188
+    "stargazers_count": 68646,
+    "open_issues_count": 593,
+    "forks_count": 6198
   },
   {
     "full_name": "launchdarkly/terraform-provider-launchdarkly",
@@ -103,32 +121,32 @@
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 21681,
-    "open_issues_count": 332,
-    "forks_count": 3331
+    "stargazers_count": 21695,
+    "open_issues_count": 337,
+    "forks_count": 3334
   },
   {
     "full_name": "githubnext/vitale",
-    "stargazers_count": 197,
+    "stargazers_count": 199,
     "open_issues_count": 24,
     "forks_count": 6
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 91129,
-    "open_issues_count": 13972,
-    "forks_count": 21186
+    "stargazers_count": 91207,
+    "open_issues_count": 14013,
+    "forks_count": 21216
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 164397,
-    "open_issues_count": 10490,
-    "forks_count": 29325
+    "stargazers_count": 164506,
+    "open_issues_count": 10528,
+    "forks_count": 29391
   },
   {
     "full_name": "parcel-bundler/lightningcss",
-    "stargazers_count": 6484,
-    "open_issues_count": 224,
+    "stargazers_count": 6494,
+    "open_issues_count": 225,
     "forks_count": 188
   },
   {
@@ -146,37 +164,19 @@
   {
     "full_name": "phillco/talon-axkit",
     "stargazers_count": 47,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 12
   },
   {
     "full_name": "talonhub/community",
-    "stargazers_count": 642,
-    "open_issues_count": 164,
-    "forks_count": 784
+    "stargazers_count": 643,
+    "open_issues_count": 161,
+    "forks_count": 783
   },
   {
     "full_name": "serenadeai/serenade",
-    "stargazers_count": 328,
+    "stargazers_count": 329,
     "open_issues_count": 25,
     "forks_count": 56
-  },
-  {
-    "full_name": "TalonCommunity/Wiki",
-    "stargazers_count": 82,
-    "open_issues_count": 27,
-    "forks_count": 81
-  },
-  {
-    "full_name": "honojs/hono",
-    "stargazers_count": 20329,
-    "open_issues_count": 227,
-    "forks_count": 582
-  },
-  {
-    "full_name": "honojs/honox",
-    "stargazers_count": 1658,
-    "open_issues_count": 44,
-    "forks_count": 43
   }
 ]
