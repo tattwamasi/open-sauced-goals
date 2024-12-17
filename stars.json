@@ -1,9 +1,9 @@
 [
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 31923,
-    "open_issues_count": 1100,
-    "forks_count": 862
+    "stargazers_count": 32546,
+    "open_issues_count": 1117,
+    "forks_count": 886
   },
   {
     "full_name": "engineswap/orderbook",
@@ -13,43 +13,43 @@
   },
   {
     "full_name": "acuteimmersive/openimmersive",
-    "stargazers_count": 52,
+    "stargazers_count": 54,
     "open_issues_count": 3,
     "forks_count": 6
   },
   {
     "full_name": "mikeswanson/SpatialPlayer",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 3,
     "forks_count": 24
   },
   {
     "full_name": "apple/swift-async-algorithms",
-    "stargazers_count": 3086,
-    "open_issues_count": 44,
+    "stargazers_count": 3092,
+    "open_issues_count": 43,
     "forks_count": 152
   },
   {
     "full_name": "steel-dev/steel-browser",
-    "stargazers_count": 2389,
-    "open_issues_count": 4,
-    "forks_count": 104
+    "stargazers_count": 2486,
+    "open_issues_count": 5,
+    "forks_count": 112
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 4234,
+    "stargazers_count": 4247,
     "open_issues_count": 79,
     "forks_count": 142
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 4592,
-    "open_issues_count": 74,
-    "forks_count": 493
+    "stargazers_count": 4952,
+    "open_issues_count": 61,
+    "forks_count": 542
   },
   {
     "full_name": "tailwindlabs/tailwindcss-container-queries",
-    "stargazers_count": 1295,
+    "stargazers_count": 1300,
     "open_issues_count": 8,
     "forks_count": 39
   },
@@ -61,81 +61,81 @@
   },
   {
     "full_name": "fishttp/awesome-bluesky",
-    "stargazers_count": 736,
-    "open_issues_count": 2,
-    "forks_count": 41
+    "stargazers_count": 743,
+    "open_issues_count": 6,
+    "forks_count": 45
   },
   {
     "full_name": "langchain-ai/agent-protocol",
-    "stargazers_count": 161,
+    "stargazers_count": 164,
     "open_issues_count": 5,
     "forks_count": 4
   },
   {
     "full_name": "serverless-dna/effe",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 13,
     "forks_count": 1
   },
   {
     "full_name": "barvian/fluid-tailwind",
-    "stargazers_count": 1332,
+    "stargazers_count": 1336,
     "open_issues_count": 3,
     "forks_count": 21
   },
   {
     "full_name": "leaningtech/webvm",
-    "stargazers_count": 10917,
-    "open_issues_count": 7,
-    "forks_count": 1682
+    "stargazers_count": 10964,
+    "open_issues_count": 5,
+    "forks_count": 1698
   },
   {
     "full_name": "wasmvision/wasmvision",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "ibm-granite/granite-code-models",
-    "stargazers_count": 1164,
+    "stargazers_count": 1168,
     "open_issues_count": 2,
     "forks_count": 84
   },
   {
     "full_name": "outline/outline",
-    "stargazers_count": 28814,
-    "open_issues_count": 113,
-    "forks_count": 2297
+    "stargazers_count": 28849,
+    "open_issues_count": 116,
+    "forks_count": 2298
   },
   {
     "full_name": "fermyon/spin",
-    "stargazers_count": 5562,
-    "open_issues_count": 279,
+    "stargazers_count": 5567,
+    "open_issues_count": 283,
     "forks_count": 259
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11838,
+    "stargazers_count": 11840,
     "open_issues_count": 80,
     "forks_count": 1033
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 22285,
-    "open_issues_count": 417,
-    "forks_count": 1572
+    "stargazers_count": 22328,
+    "open_issues_count": 420,
+    "forks_count": 1575
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 17292,
-    "open_issues_count": 102,
-    "forks_count": 623
+    "stargazers_count": 17325,
+    "open_issues_count": 103,
+    "forks_count": 624
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 77490,
-    "open_issues_count": 50,
-    "forks_count": 10603
+    "stargazers_count": 77660,
+    "open_issues_count": 52,
+    "forks_count": 10665
   },
   {
     "full_name": "andymatuschak/note-link-janitor",
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "remarkjs/remark-frontmatter",
-    "stargazers_count": 265,
+    "stargazers_count": 266,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "remarkjs/remark-gfm",
-    "stargazers_count": 770,
+    "stargazers_count": 772,
     "open_issues_count": 0,
     "forks_count": 27
   },
