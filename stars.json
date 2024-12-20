@@ -1,9 +1,9 @@
 [
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 32546,
-    "open_issues_count": 1117,
-    "forks_count": 886
+    "stargazers_count": 32971,
+    "open_issues_count": 1129,
+    "forks_count": 894
   },
   {
     "full_name": "engineswap/orderbook",
@@ -19,37 +19,37 @@
   },
   {
     "full_name": "mikeswanson/SpatialPlayer",
-    "stargazers_count": 240,
+    "stargazers_count": 242,
     "open_issues_count": 3,
     "forks_count": 24
   },
   {
     "full_name": "apple/swift-async-algorithms",
-    "stargazers_count": 3092,
+    "stargazers_count": 3093,
     "open_issues_count": 43,
     "forks_count": 152
   },
   {
     "full_name": "steel-dev/steel-browser",
-    "stargazers_count": 2486,
+    "stargazers_count": 2541,
     "open_issues_count": 5,
-    "forks_count": 112
+    "forks_count": 116
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 4247,
+    "stargazers_count": 4263,
     "open_issues_count": 79,
     "forks_count": 142
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 4952,
-    "open_issues_count": 61,
-    "forks_count": 542
+    "stargazers_count": 5215,
+    "open_issues_count": 71,
+    "forks_count": 582
   },
   {
     "full_name": "tailwindlabs/tailwindcss-container-queries",
-    "stargazers_count": 1300,
+    "stargazers_count": 1302,
     "open_issues_count": 8,
     "forks_count": 39
   },
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "fishttp/awesome-bluesky",
-    "stargazers_count": 743,
-    "open_issues_count": 6,
-    "forks_count": 45
+    "stargazers_count": 760,
+    "open_issues_count": 1,
+    "forks_count": 49
   },
   {
     "full_name": "langchain-ai/agent-protocol",
-    "stargazers_count": 164,
+    "stargazers_count": 168,
     "open_issues_count": 5,
     "forks_count": 4
   },
@@ -79,63 +79,63 @@
   },
   {
     "full_name": "barvian/fluid-tailwind",
-    "stargazers_count": 1336,
-    "open_issues_count": 3,
+    "stargazers_count": 1340,
+    "open_issues_count": 4,
     "forks_count": 21
   },
   {
     "full_name": "leaningtech/webvm",
-    "stargazers_count": 10964,
-    "open_issues_count": 5,
-    "forks_count": 1698
+    "stargazers_count": 11073,
+    "open_issues_count": 6,
+    "forks_count": 1704
   },
   {
     "full_name": "wasmvision/wasmvision",
-    "stargazers_count": 150,
+    "stargazers_count": 152,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "ibm-granite/granite-code-models",
-    "stargazers_count": 1168,
+    "stargazers_count": 1169,
     "open_issues_count": 2,
-    "forks_count": 84
+    "forks_count": 83
   },
   {
     "full_name": "outline/outline",
-    "stargazers_count": 28849,
-    "open_issues_count": 116,
-    "forks_count": 2298
+    "stargazers_count": 28894,
+    "open_issues_count": 112,
+    "forks_count": 2296
   },
   {
     "full_name": "fermyon/spin",
-    "stargazers_count": 5567,
-    "open_issues_count": 283,
+    "stargazers_count": 5570,
+    "open_issues_count": 279,
     "forks_count": 259
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11840,
+    "stargazers_count": 11841,
     "open_issues_count": 80,
     "forks_count": 1033
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 22328,
-    "open_issues_count": 420,
-    "forks_count": 1575
+    "stargazers_count": 22371,
+    "open_issues_count": 427,
+    "forks_count": 1579
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 17325,
-    "open_issues_count": 103,
-    "forks_count": 624
+    "stargazers_count": 17355,
+    "open_issues_count": 104,
+    "forks_count": 625
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 77660,
-    "open_issues_count": 52,
-    "forks_count": 10665
+    "stargazers_count": 77816,
+    "open_issues_count": 50,
+    "forks_count": 10737
   },
   {
     "full_name": "andymatuschak/note-link-janitor",
@@ -146,7 +146,7 @@
   {
     "full_name": "stereobooster/astro-digital-garden",
     "stargazers_count": 27,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 6
   },
   {
