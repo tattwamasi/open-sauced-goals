@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "upspeak/upspeak",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "withstudiocms/ui",
-    "stargazers_count": 19,
+    "stargazers_count": 21,
     "open_issues_count": 5,
     "forks_count": 0
   },
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "openauthjs/openauth",
-    "stargazers_count": 4079,
-    "open_issues_count": 47,
-    "forks_count": 112
+    "stargazers_count": 4124,
+    "open_issues_count": 48,
+    "forks_count": 119
   },
   {
     "full_name": "LayerAkira/kurosawa_akira",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 19606,
-    "open_issues_count": 226,
-    "forks_count": 1665
+    "stargazers_count": 20920,
+    "open_issues_count": 236,
+    "forks_count": 1776
   },
   {
     "full_name": "argentlabs/argent-x",
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 21169,
-    "open_issues_count": 189,
-    "forks_count": 487
+    "stargazers_count": 22388,
+    "open_issues_count": 174,
+    "forks_count": 529
   },
   {
     "full_name": "NethermindEth/StarknetByExample",
@@ -67,19 +73,19 @@
   },
   {
     "full_name": "leaningtech/cheerp-meta",
-    "stargazers_count": 1077,
-    "open_issues_count": 5,
+    "stargazers_count": 1078,
+    "open_issues_count": 4,
     "forks_count": 51
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 21850,
-    "open_issues_count": 211,
-    "forks_count": 1738
+    "stargazers_count": 22237,
+    "open_issues_count": 224,
+    "forks_count": 1792
   },
   {
     "full_name": "cbusillo/BD_to_AVP",
-    "stargazers_count": 111,
+    "stargazers_count": 113,
     "open_issues_count": 5,
     "forks_count": 5
   },
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 34734,
-    "open_issues_count": 1133,
-    "forks_count": 943
+    "stargazers_count": 35136,
+    "open_issues_count": 1129,
+    "forks_count": 956
   },
   {
     "full_name": "engineswap/orderbook",
@@ -105,59 +111,59 @@
     "full_name": "acuteimmersive/openimmersive",
     "stargazers_count": 58,
     "open_issues_count": 3,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "mikeswanson/SpatialPlayer",
-    "stargazers_count": 246,
+    "stargazers_count": 247,
     "open_issues_count": 3,
     "forks_count": 26
   },
   {
     "full_name": "apple/swift-async-algorithms",
-    "stargazers_count": 3116,
+    "stargazers_count": 3117,
     "open_issues_count": 42,
     "forks_count": 152
   },
   {
     "full_name": "steel-dev/steel-browser",
-    "stargazers_count": 2750,
-    "open_issues_count": 6,
-    "forks_count": 141
+    "stargazers_count": 2781,
+    "open_issues_count": 4,
+    "forks_count": 144
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 4315,
+    "stargazers_count": 4327,
     "open_issues_count": 79,
     "forks_count": 141
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 6289,
-    "open_issues_count": 154,
-    "forks_count": 744
+    "stargazers_count": 6524,
+    "open_issues_count": 157,
+    "forks_count": 769
   },
   {
     "full_name": "tailwindlabs/tailwindcss-container-queries",
-    "stargazers_count": 1313,
+    "stargazers_count": 1315,
     "open_issues_count": 7,
     "forks_count": 39
   },
   {
     "full_name": "beeman/awesome-atproto",
-    "stargazers_count": 146,
+    "stargazers_count": 149,
     "open_issues_count": 6,
     "forks_count": 11
   },
   {
     "full_name": "fishttp/awesome-bluesky",
-    "stargazers_count": 798,
+    "stargazers_count": 803,
     "open_issues_count": 9,
     "forks_count": 56
   },
   {
     "full_name": "langchain-ai/agent-protocol",
-    "stargazers_count": 183,
+    "stargazers_count": 188,
     "open_issues_count": 5,
     "forks_count": 4
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "barvian/fluid-tailwind",
-    "stargazers_count": 1375,
+    "stargazers_count": 1385,
     "open_issues_count": 4,
     "forks_count": 20
-  },
-  {
-    "full_name": "leaningtech/webvm",
-    "stargazers_count": 11199,
-    "open_issues_count": 8,
-    "forks_count": 1725
   }
 ]
