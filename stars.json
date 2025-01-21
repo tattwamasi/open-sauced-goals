@@ -1,9 +1,9 @@
 [
   {
     "full_name": "SVProgressHUD/SVProgressHUD",
-    "stargazers_count": 12445,
+    "stargazers_count": 12447,
     "open_issues_count": 77,
-    "forks_count": 2640
+    "forks_count": 2641
   },
   {
     "full_name": "TransitApp/SVProgressHUD",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "withstudiocms/ui",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 5,
     "forks_count": 0
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "openauthjs/openauth",
-    "stargazers_count": 4202,
-    "open_issues_count": 57,
-    "forks_count": 123
+    "stargazers_count": 4226,
+    "open_issues_count": 62,
+    "forks_count": 126
   },
   {
     "full_name": "LayerAkira/kurosawa_akira",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 22676,
-    "open_issues_count": 244,
-    "forks_count": 1999
+    "stargazers_count": 23278,
+    "open_issues_count": 273,
+    "forks_count": 2082
   },
   {
     "full_name": "argentlabs/argent-x",
-    "stargazers_count": 628,
+    "stargazers_count": 629,
     "open_issues_count": 85,
     "forks_count": 274
   },
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 23979,
-    "open_issues_count": 188,
-    "forks_count": 573
+    "stargazers_count": 24574,
+    "open_issues_count": 195,
+    "forks_count": 595
   },
   {
     "full_name": "NethermindEth/StarknetByExample",
-    "stargazers_count": 136,
+    "stargazers_count": 135,
     "open_issues_count": 28,
     "forks_count": 94
   },
   {
     "full_name": "blockchainsllc/DAO",
-    "stargazers_count": 1566,
+    "stargazers_count": 1567,
     "open_issues_count": 17,
     "forks_count": 497
   },
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "leaningtech/cheerp-meta",
-    "stargazers_count": 1079,
+    "stargazers_count": 1081,
     "open_issues_count": 4,
     "forks_count": 51
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 22832,
-    "open_issues_count": 254,
-    "forks_count": 1873
+    "stargazers_count": 23086,
+    "open_issues_count": 262,
+    "forks_count": 1908
   },
   {
     "full_name": "cbusillo/BD_to_AVP",
-    "stargazers_count": 114,
+    "stargazers_count": 115,
     "open_issues_count": 5,
     "forks_count": 5
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 36087,
-    "open_issues_count": 1199,
-    "forks_count": 980
+    "stargazers_count": 36445,
+    "open_issues_count": 1212,
+    "forks_count": 988
   },
   {
     "full_name": "engineswap/orderbook",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "acuteimmersive/openimmersive",
-    "stargazers_count": 58,
-    "open_issues_count": 3,
+    "stargazers_count": 62,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "apple/swift-async-algorithms",
-    "stargazers_count": 3131,
+    "stargazers_count": 3135,
     "open_issues_count": 44,
     "forks_count": 154
   },
   {
     "full_name": "steel-dev/steel-browser",
-    "stargazers_count": 2896,
-    "open_issues_count": 5,
-    "forks_count": 152
+    "stargazers_count": 3217,
+    "open_issues_count": 4,
+    "forks_count": 166
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 4344,
+    "stargazers_count": 4356,
     "open_issues_count": 80,
     "forks_count": 141
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 6920,
-    "open_issues_count": 142,
-    "forks_count": 832
+    "stargazers_count": 7111,
+    "open_issues_count": 148,
+    "forks_count": 855
   },
   {
     "full_name": "tailwindlabs/tailwindcss-container-queries",
-    "stargazers_count": 1334,
+    "stargazers_count": 1338,
     "open_issues_count": 7,
     "forks_count": 39
   },
   {
     "full_name": "beeman/awesome-atproto",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 6,
     "forks_count": 11
   },
   {
     "full_name": "fishttp/awesome-bluesky",
-    "stargazers_count": 829,
-    "open_issues_count": 16,
-    "forks_count": 62
+    "stargazers_count": 853,
+    "open_issues_count": 17,
+    "forks_count": 63
   },
   {
     "full_name": "langchain-ai/agent-protocol",
-    "stargazers_count": 197,
-    "open_issues_count": 5,
+    "stargazers_count": 199,
+    "open_issues_count": 6,
     "forks_count": 4
   }
 ]
