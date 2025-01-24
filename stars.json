@@ -1,9 +1,9 @@
 [
   {
     "full_name": "SVProgressHUD/SVProgressHUD",
-    "stargazers_count": 12447,
+    "stargazers_count": 12446,
     "open_issues_count": 77,
-    "forks_count": 2641
+    "forks_count": 2643
   },
   {
     "full_name": "TransitApp/SVProgressHUD",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "withstudiocms/ui",
-    "stargazers_count": 24,
-    "open_issues_count": 5,
+    "stargazers_count": 25,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "openauthjs/openauth",
-    "stargazers_count": 4226,
-    "open_issues_count": 62,
-    "forks_count": 126
+    "stargazers_count": 4272,
+    "open_issues_count": 63,
+    "forks_count": 128
   },
   {
     "full_name": "LayerAkira/kurosawa_akira",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 23278,
-    "open_issues_count": 273,
-    "forks_count": 2082
+    "stargazers_count": 24057,
+    "open_issues_count": 281,
+    "forks_count": 2175
   },
   {
     "full_name": "argentlabs/argent-x",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 24574,
-    "open_issues_count": 195,
-    "forks_count": 595
+    "stargazers_count": 24976,
+    "open_issues_count": 177,
+    "forks_count": 606
   },
   {
     "full_name": "NethermindEth/StarknetByExample",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 23086,
-    "open_issues_count": 262,
-    "forks_count": 1908
+    "stargazers_count": 23229,
+    "open_issues_count": 261,
+    "forks_count": 1940
   },
   {
     "full_name": "cbusillo/BD_to_AVP",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 36445,
-    "open_issues_count": 1212,
-    "forks_count": 988
+    "stargazers_count": 36799,
+    "open_issues_count": 1208,
+    "forks_count": 1000
   },
   {
     "full_name": "engineswap/orderbook",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "acuteimmersive/openimmersive",
-    "stargazers_count": 62,
+    "stargazers_count": 65,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -133,49 +133,49 @@
   },
   {
     "full_name": "apple/swift-async-algorithms",
-    "stargazers_count": 3135,
+    "stargazers_count": 3138,
     "open_issues_count": 44,
     "forks_count": 154
   },
   {
     "full_name": "steel-dev/steel-browser",
-    "stargazers_count": 3217,
-    "open_issues_count": 4,
+    "stargazers_count": 3252,
+    "open_issues_count": 8,
     "forks_count": 166
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 4356,
-    "open_issues_count": 80,
+    "stargazers_count": 4364,
+    "open_issues_count": 81,
     "forks_count": 141
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 7111,
-    "open_issues_count": 148,
-    "forks_count": 855
+    "stargazers_count": 7279,
+    "open_issues_count": 156,
+    "forks_count": 876
   },
   {
     "full_name": "tailwindlabs/tailwindcss-container-queries",
-    "stargazers_count": 1338,
+    "stargazers_count": 1340,
     "open_issues_count": 7,
     "forks_count": 39
   },
   {
     "full_name": "beeman/awesome-atproto",
-    "stargazers_count": 154,
+    "stargazers_count": 155,
     "open_issues_count": 6,
     "forks_count": 11
   },
   {
     "full_name": "fishttp/awesome-bluesky",
-    "stargazers_count": 853,
+    "stargazers_count": 863,
     "open_issues_count": 17,
     "forks_count": 63
   },
   {
     "full_name": "langchain-ai/agent-protocol",
-    "stargazers_count": 199,
+    "stargazers_count": 201,
     "open_issues_count": 6,
     "forks_count": 4
   }
