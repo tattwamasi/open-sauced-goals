@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "deepseek-ai/DeepSeek-V3",
+    "stargazers_count": 64384,
+    "open_issues_count": 188,
+    "forks_count": 9151
+  },
+  {
     "full_name": "SVProgressHUD/SVProgressHUD",
     "stargazers_count": 12446,
     "open_issues_count": 77,
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "upspeak/upspeak",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "openauthjs/openauth",
-    "stargazers_count": 4317,
-    "open_issues_count": 67,
-    "forks_count": 131
+    "stargazers_count": 4347,
+    "open_issues_count": 70,
+    "forks_count": 132
   },
   {
     "full_name": "LayerAkira/kurosawa_akira",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 25220,
-    "open_issues_count": 307,
-    "forks_count": 2281
+    "stargazers_count": 26076,
+    "open_issues_count": 322,
+    "forks_count": 2371
   },
   {
     "full_name": "argentlabs/argent-x",
     "stargazers_count": 630,
-    "open_issues_count": 86,
-    "forks_count": 274
+    "open_issues_count": 87,
+    "forks_count": 275
   },
   {
     "full_name": "argentlabs/argent-starknet-recover",
@@ -61,14 +67,14 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 25307,
-    "open_issues_count": 178,
-    "forks_count": 620
+    "stargazers_count": 25538,
+    "open_issues_count": 176,
+    "forks_count": 631
   },
   {
     "full_name": "NethermindEth/StarknetByExample",
     "stargazers_count": 135,
-    "open_issues_count": 23,
+    "open_issues_count": 22,
     "forks_count": 94
   },
   {
@@ -91,14 +97,14 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 23365,
-    "open_issues_count": 267,
-    "forks_count": 1964
+    "stargazers_count": 23428,
+    "open_issues_count": 277,
+    "forks_count": 1971
   },
   {
     "full_name": "cbusillo/BD_to_AVP",
     "stargazers_count": 117,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 5
   },
   {
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 37137,
-    "open_issues_count": 1230,
-    "forks_count": 1018
+    "stargazers_count": 37589,
+    "open_issues_count": 1235,
+    "forks_count": 1035
   },
   {
     "full_name": "engineswap/orderbook",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "acuteimmersive/openimmersive",
-    "stargazers_count": 66,
+    "stargazers_count": 69,
     "open_issues_count": 1,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "mikeswanson/SpatialPlayer",
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "apple/swift-async-algorithms",
-    "stargazers_count": 3144,
+    "stargazers_count": 3146,
     "open_issues_count": 44,
     "forks_count": 155
   },
   {
     "full_name": "steel-dev/steel-browser",
-    "stargazers_count": 3287,
-    "open_issues_count": 8,
-    "forks_count": 171
+    "stargazers_count": 3318,
+    "open_issues_count": 11,
+    "forks_count": 175
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 4389,
+    "stargazers_count": 4400,
     "open_issues_count": 81,
     "forks_count": 141
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 7441,
-    "open_issues_count": 163,
-    "forks_count": 898
+    "stargazers_count": 7643,
+    "open_issues_count": 151,
+    "forks_count": 923
   },
   {
     "full_name": "tailwindlabs/tailwindcss-container-queries",
-    "stargazers_count": 1344,
-    "open_issues_count": 7,
+    "stargazers_count": 1346,
+    "open_issues_count": 5,
     "forks_count": 39
   },
   {
     "full_name": "beeman/awesome-atproto",
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "open_issues_count": 6,
     "forks_count": 11
   },
   {
     "full_name": "fishttp/awesome-bluesky",
-    "stargazers_count": 881,
+    "stargazers_count": 887,
     "open_issues_count": 17,
     "forks_count": 63
-  },
-  {
-    "full_name": "langchain-ai/agent-protocol",
-    "stargazers_count": 205,
-    "open_issues_count": 6,
-    "forks_count": 4
   }
 ]
