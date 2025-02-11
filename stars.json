@@ -1,39 +1,39 @@
 [
   {
     "full_name": "requarks/wiki",
-    "stargazers_count": 25531,
-    "open_issues_count": 162,
-    "forks_count": 2824
+    "stargazers_count": 25590,
+    "open_issues_count": 164,
+    "forks_count": 2830
   },
   {
     "full_name": "redimp/otterwiki",
     "stargazers_count": 713,
-    "open_issues_count": 31,
-    "forks_count": 37
+    "open_issues_count": 32,
+    "forks_count": 38
   },
   {
     "full_name": "hku-mars/SUPER",
-    "stargazers_count": 193,
+    "stargazers_count": 232,
     "open_issues_count": 0,
-    "forks_count": 21
+    "forks_count": 30
   },
   {
     "full_name": "Fryuni/inox-tools",
-    "stargazers_count": 81,
-    "open_issues_count": 19,
+    "stargazers_count": 82,
+    "open_issues_count": 20,
     "forks_count": 5
   },
   {
     "full_name": "deepseek-ai/DeepSeek-V3",
-    "stargazers_count": 76999,
-    "open_issues_count": 177,
-    "forks_count": 12151
+    "stargazers_count": 82053,
+    "open_issues_count": 114,
+    "forks_count": 13054
   },
   {
     "full_name": "SVProgressHUD/SVProgressHUD",
-    "stargazers_count": 12444,
+    "stargazers_count": 12446,
     "open_issues_count": 77,
-    "forks_count": 2644
+    "forks_count": 2646
   },
   {
     "full_name": "TransitApp/SVProgressHUD",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "openauthjs/openauth",
-    "stargazers_count": 4502,
-    "open_issues_count": 62,
-    "forks_count": 137
+    "stargazers_count": 4548,
+    "open_issues_count": 67,
+    "forks_count": 142
   },
   {
     "full_name": "LayerAkira/kurosawa_akira",
     "stargazers_count": 12,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 27589,
-    "open_issues_count": 351,
-    "forks_count": 2534
+    "stargazers_count": 28348,
+    "open_issues_count": 367,
+    "forks_count": 2638
   },
   {
     "full_name": "argentlabs/argent-x",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 26146,
-    "open_issues_count": 185,
-    "forks_count": 644
+    "stargazers_count": 26413,
+    "open_issues_count": 195,
+    "forks_count": 655
   },
   {
     "full_name": "NethermindEth/StarknetByExample",
     "stargazers_count": 136,
     "open_issues_count": 22,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "blockchainsllc/DAO",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "leaningtech/cheerp-meta",
-    "stargazers_count": 1083,
+    "stargazers_count": 1082,
     "open_issues_count": 4,
     "forks_count": 52
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 23620,
-    "open_issues_count": 268,
-    "forks_count": 2002
+    "stargazers_count": 23725,
+    "open_issues_count": 271,
+    "forks_count": 2023
   },
   {
     "full_name": "cbusillo/BD_to_AVP",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 38500,
-    "open_issues_count": 1277,
-    "forks_count": 1066
+    "stargazers_count": 38925,
+    "open_issues_count": 1301,
+    "forks_count": 1082
   },
   {
     "full_name": "engineswap/orderbook",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "acuteimmersive/openimmersive",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "apple/swift-async-algorithms",
-    "stargazers_count": 3156,
+    "stargazers_count": 3157,
     "open_issues_count": 44,
     "forks_count": 155
   },
   {
     "full_name": "steel-dev/steel-browser",
-    "stargazers_count": 3382,
+    "stargazers_count": 3410,
     "open_issues_count": 10,
-    "forks_count": 192
+    "forks_count": 197
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 4424,
+    "stargazers_count": 4429,
     "open_issues_count": 81,
     "forks_count": 141
   }
