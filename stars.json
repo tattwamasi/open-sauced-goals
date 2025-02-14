@@ -1,39 +1,135 @@
 [
   {
+    "full_name": "e2b-dev/dashboard",
+    "stargazers_count": 14,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "e2b-dev/open-computer-use",
+    "stargazers_count": 658,
+    "open_issues_count": 7,
+    "forks_count": 90
+  },
+  {
+    "full_name": "e2b-dev/desktop",
+    "stargazers_count": 365,
+    "open_issues_count": 1,
+    "forks_count": 46
+  },
+  {
+    "full_name": "e2b-dev/ai-analyst",
+    "stargazers_count": 109,
+    "open_issues_count": 2,
+    "forks_count": 27
+  },
+  {
+    "full_name": "fricas/fricas",
+    "stargazers_count": 318,
+    "open_issues_count": 38,
+    "forks_count": 46
+  },
+  {
+    "full_name": "daly/axiom",
+    "stargazers_count": 374,
+    "open_issues_count": 16,
+    "forks_count": 57
+  },
+  {
+    "full_name": "zauberzeug/nicegui",
+    "stargazers_count": 11240,
+    "open_issues_count": 74,
+    "forks_count": 667
+  },
+  {
+    "full_name": "bluesky-social/feed-generator",
+    "stargazers_count": 1728,
+    "open_issues_count": 47,
+    "forks_count": 615
+  },
+  {
+    "full_name": "meow-d/markless",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "duriantaco/ostrich",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "duriantaco/pykomodo",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "yamadashy/repomix",
+    "stargazers_count": 8827,
+    "open_issues_count": 50,
+    "forks_count": 414
+  },
+  {
+    "full_name": "mermaid-js/mermaid",
+    "stargazers_count": 75652,
+    "open_issues_count": 1235,
+    "forks_count": 6969
+  },
+  {
+    "full_name": "ascherer/cweb",
+    "stargazers_count": 90,
+    "open_issues_count": 3,
+    "forks_count": 13
+  },
+  {
+    "full_name": "dotnet/try",
+    "stargazers_count": 2931,
+    "open_issues_count": 189,
+    "forks_count": 536
+  },
+  {
+    "full_name": "jonsequitur/dotnet-repl",
+    "stargazers_count": 757,
+    "open_issues_count": 34,
+    "forks_count": 37
+  },
+  {
     "full_name": "requarks/wiki",
-    "stargazers_count": 25590,
-    "open_issues_count": 164,
-    "forks_count": 2830
+    "stargazers_count": 25630,
+    "open_issues_count": 163,
+    "forks_count": 2831
   },
   {
     "full_name": "redimp/otterwiki",
-    "stargazers_count": 713,
+    "stargazers_count": 718,
     "open_issues_count": 32,
     "forks_count": 38
   },
   {
     "full_name": "hku-mars/SUPER",
-    "stargazers_count": 232,
+    "stargazers_count": 246,
     "open_issues_count": 0,
-    "forks_count": 30
+    "forks_count": 32
   },
   {
     "full_name": "Fryuni/inox-tools",
-    "stargazers_count": 82,
-    "open_issues_count": 20,
+    "stargazers_count": 85,
+    "open_issues_count": 18,
     "forks_count": 5
   },
   {
     "full_name": "deepseek-ai/DeepSeek-V3",
-    "stargazers_count": 82053,
-    "open_issues_count": 114,
-    "forks_count": 13054
+    "stargazers_count": 84047,
+    "open_issues_count": 128,
+    "forks_count": 13456
   },
   {
     "full_name": "SVProgressHUD/SVProgressHUD",
-    "stargazers_count": 12446,
+    "stargazers_count": 12445,
     "open_issues_count": 77,
-    "forks_count": 2646
+    "forks_count": 2647
   },
   {
     "full_name": "TransitApp/SVProgressHUD",
@@ -49,8 +145,8 @@
   },
   {
     "full_name": "withstudiocms/ui",
-    "stargazers_count": 27,
-    "open_issues_count": 2,
+    "stargazers_count": 28,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
@@ -61,9 +157,9 @@
   },
   {
     "full_name": "openauthjs/openauth",
-    "stargazers_count": 4548,
+    "stargazers_count": 4563,
     "open_issues_count": 67,
-    "forks_count": 142
+    "forks_count": 141
   },
   {
     "full_name": "LayerAkira/kurosawa_akira",
@@ -73,110 +169,14 @@
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 28348,
-    "open_issues_count": 367,
-    "forks_count": 2638
+    "stargazers_count": 29148,
+    "open_issues_count": 363,
+    "forks_count": 2723
   },
   {
     "full_name": "argentlabs/argent-x",
     "stargazers_count": 630,
     "open_issues_count": 87,
     "forks_count": 275
-  },
-  {
-    "full_name": "argentlabs/argent-starknet-recover",
-    "stargazers_count": 53,
-    "open_issues_count": 11,
-    "forks_count": 33
-  },
-  {
-    "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 26413,
-    "open_issues_count": 195,
-    "forks_count": 655
-  },
-  {
-    "full_name": "NethermindEth/StarknetByExample",
-    "stargazers_count": 136,
-    "open_issues_count": 22,
-    "forks_count": 95
-  },
-  {
-    "full_name": "blockchainsllc/DAO",
-    "stargazers_count": 1566,
-    "open_issues_count": 17,
-    "forks_count": 498
-  },
-  {
-    "full_name": "pballada/yutub",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "leaningtech/cheerp-meta",
-    "stargazers_count": 1082,
-    "open_issues_count": 4,
-    "forks_count": 52
-  },
-  {
-    "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 23725,
-    "open_issues_count": 271,
-    "forks_count": 2023
-  },
-  {
-    "full_name": "cbusillo/BD_to_AVP",
-    "stargazers_count": 118,
-    "open_issues_count": 8,
-    "forks_count": 5
-  },
-  {
-    "full_name": "sdennett55/cards-of-personality-frontend",
-    "stargazers_count": 117,
-    "open_issues_count": 21,
-    "forks_count": 10
-  },
-  {
-    "full_name": "astral-sh/uv",
-    "stargazers_count": 38925,
-    "open_issues_count": 1301,
-    "forks_count": 1082
-  },
-  {
-    "full_name": "engineswap/orderbook",
-    "stargazers_count": 20,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "acuteimmersive/openimmersive",
-    "stargazers_count": 72,
-    "open_issues_count": 1,
-    "forks_count": 8
-  },
-  {
-    "full_name": "mikeswanson/SpatialPlayer",
-    "stargazers_count": 251,
-    "open_issues_count": 3,
-    "forks_count": 26
-  },
-  {
-    "full_name": "apple/swift-async-algorithms",
-    "stargazers_count": 3157,
-    "open_issues_count": 44,
-    "forks_count": 155
-  },
-  {
-    "full_name": "steel-dev/steel-browser",
-    "stargazers_count": 3410,
-    "open_issues_count": 10,
-    "forks_count": 197
-  },
-  {
-    "full_name": "mark-when/markwhen",
-    "stargazers_count": 4429,
-    "open_issues_count": 81,
-    "forks_count": 141
   }
 ]
