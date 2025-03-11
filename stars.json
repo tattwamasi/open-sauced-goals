@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "clockworklabs/SpacetimeDB",
+    "stargazers_count": 8649,
+    "open_issues_count": 370,
+    "forks_count": 243
+  },
+  {
     "full_name": "fastly/pubsub",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -7,44 +13,44 @@
   },
   {
     "full_name": "withastro/storefront",
-    "stargazers_count": 671,
+    "stargazers_count": 673,
     "open_issues_count": 3,
     "forks_count": 82
   },
   {
     "full_name": "josegonzalez/python-github-backup",
-    "stargazers_count": 1396,
+    "stargazers_count": 1397,
     "open_issues_count": 42,
     "forks_count": 246
   },
   {
     "full_name": "huggingface/notebooks",
-    "stargazers_count": 3931,
+    "stargazers_count": 3933,
     "open_issues_count": 197,
     "forks_count": 1611
   },
   {
     "full_name": "koush/scrypted",
-    "stargazers_count": 4617,
-    "open_issues_count": 9,
+    "stargazers_count": 4621,
+    "open_issues_count": 8,
     "forks_count": 272
   },
   {
     "full_name": "dlt-hub/dlt-init-openapi",
     "stargazers_count": 23,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 3
   },
   {
     "full_name": "loopholelabs/drafter",
     "stargazers_count": 107,
-    "open_issues_count": 6,
+    "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "dakboard/Hardware-OS",
     "stargazers_count": 30,
-    "open_issues_count": 19,
+    "open_issues_count": 17,
     "forks_count": 4
   },
   {
@@ -61,19 +67,19 @@
   },
   {
     "full_name": "bluesky-social/statusphere-example-app",
-    "stargazers_count": 203,
+    "stargazers_count": 207,
     "open_issues_count": 14,
     "forks_count": 53
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 22759,
-    "open_issues_count": 341,
-    "forks_count": 606
+    "stargazers_count": 22820,
+    "open_issues_count": 338,
+    "forks_count": 608
   },
   {
     "full_name": "sindresorhus/emittery",
-    "stargazers_count": 1905,
+    "stargazers_count": 1908,
     "open_issues_count": 14,
     "forks_count": 75
   },
@@ -91,37 +97,37 @@
   },
   {
     "full_name": "microsoft/data-formulator",
-    "stargazers_count": 8558,
+    "stargazers_count": 8605,
     "open_issues_count": 22,
-    "forks_count": 668
+    "forks_count": 673
   },
   {
     "full_name": "bluesky-social/pds",
-    "stargazers_count": 1926,
-    "open_issues_count": 101,
+    "stargazers_count": 1938,
+    "open_issues_count": 103,
     "forks_count": 211
   },
   {
     "full_name": "e2b-dev/dashboard",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 2,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "e2b-dev/open-computer-use",
-    "stargazers_count": 790,
-    "open_issues_count": 7,
-    "forks_count": 104
+    "stargazers_count": 835,
+    "open_issues_count": 8,
+    "forks_count": 109
   },
   {
     "full_name": "e2b-dev/desktop",
-    "stargazers_count": 401,
-    "open_issues_count": 2,
-    "forks_count": 48
+    "stargazers_count": 420,
+    "open_issues_count": 1,
+    "forks_count": 50
   },
   {
     "full_name": "e2b-dev/ai-analyst",
-    "stargazers_count": 127,
+    "stargazers_count": 135,
     "open_issues_count": 1,
     "forks_count": 31
   },
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "zauberzeug/nicegui",
-    "stargazers_count": 11460,
-    "open_issues_count": 72,
-    "forks_count": 688
+    "stargazers_count": 11488,
+    "open_issues_count": 77,
+    "forks_count": 694
   },
   {
     "full_name": "bluesky-social/feed-generator",
-    "stargazers_count": 1759,
-    "open_issues_count": 47,
-    "forks_count": 625
+    "stargazers_count": 1766,
+    "open_issues_count": 48,
+    "forks_count": 628
   },
   {
     "full_name": "meow-d/markless",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "duriantaco/pykomodo",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "yamadashy/repomix",
-    "stargazers_count": 12452,
-    "open_issues_count": 55,
-    "forks_count": 528
-  },
-  {
-    "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 76486,
-    "open_issues_count": 1267,
-    "forks_count": 7101
+    "stargazers_count": 12769,
+    "open_issues_count": 57,
+    "forks_count": 549
   }
 ]
