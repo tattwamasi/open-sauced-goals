@@ -1,55 +1,79 @@
 [
   {
+    "full_name": "latticexyz/mud",
+    "stargazers_count": 803,
+    "open_issues_count": 476,
+    "forks_count": 208
+  },
+  {
+    "full_name": "AllYarnsAreBeautiful/ayab-desktop",
+    "stargazers_count": 70,
+    "open_issues_count": 69,
+    "forks_count": 34
+  },
+  {
+    "full_name": "Seifert69/DikuMUD3",
+    "stargazers_count": 204,
+    "open_issues_count": 31,
+    "forks_count": 54
+  },
+  {
+    "full_name": "luciensadi/AwakeMUD",
+    "stargazers_count": 62,
+    "open_issues_count": 6,
+    "forks_count": 34
+  },
+  {
     "full_name": "ReactiveX/RxCpp",
-    "stargazers_count": 3103,
+    "stargazers_count": 3100,
     "open_issues_count": 100,
     "forks_count": 400
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 31154,
+    "stargazers_count": 31156,
     "open_issues_count": 271,
-    "forks_count": 3008
+    "forks_count": 3009
   },
   {
     "full_name": "actor-framework/actor-framework",
-    "stargazers_count": 3244,
+    "stargazers_count": 3247,
     "open_issues_count": 59,
-    "forks_count": 552
+    "forks_count": 553
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 2080,
-    "open_issues_count": 57,
-    "forks_count": 42
+    "stargazers_count": 2746,
+    "open_issues_count": 55,
+    "forks_count": 59
   },
   {
     "full_name": "mnfst/manifest",
-    "stargazers_count": 2339,
-    "open_issues_count": 13,
-    "forks_count": 91
+    "stargazers_count": 2369,
+    "open_issues_count": 12,
+    "forks_count": 92
   },
   {
     "full_name": "huggingface/lerobot",
-    "stargazers_count": 11132,
-    "open_issues_count": 271,
-    "forks_count": 1223
+    "stargazers_count": 11393,
+    "open_issues_count": 276,
+    "forks_count": 1247
   },
   {
     "full_name": "suitenumerique/docs",
-    "stargazers_count": 10294,
-    "open_issues_count": 172,
-    "forks_count": 226
+    "stargazers_count": 10688,
+    "open_issues_count": 174,
+    "forks_count": 245
   },
   {
     "full_name": "block/goose",
-    "stargazers_count": 10946,
-    "open_issues_count": 195,
-    "forks_count": 789
+    "stargazers_count": 11104,
+    "open_issues_count": 201,
+    "forks_count": 802
   },
   {
     "full_name": "OpenEPaperLink/OpenEPaperLink",
-    "stargazers_count": 1266,
+    "stargazers_count": 1271,
     "open_issues_count": 23,
     "forks_count": 112
   },
@@ -61,43 +85,43 @@
   },
   {
     "full_name": "clockworklabs/SpacetimeDB",
-    "stargazers_count": 10899,
-    "open_issues_count": 401,
-    "forks_count": 372
+    "stargazers_count": 11004,
+    "open_issues_count": 389,
+    "forks_count": 377
   },
   {
     "full_name": "fastly/pubsub",
     "stargazers_count": 6,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "withastro/storefront",
     "stargazers_count": 676,
     "open_issues_count": 4,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "josegonzalez/python-github-backup",
     "stargazers_count": 1404,
-    "open_issues_count": 43,
+    "open_issues_count": 42,
     "forks_count": 246
   },
   {
     "full_name": "huggingface/notebooks",
-    "stargazers_count": 3973,
+    "stargazers_count": 3984,
     "open_issues_count": 200,
-    "forks_count": 1630
+    "forks_count": 1633
   },
   {
     "full_name": "koush/scrypted",
-    "stargazers_count": 4670,
+    "stargazers_count": 4681,
     "open_issues_count": 9,
-    "forks_count": 277
+    "forks_count": 278
   },
   {
     "full_name": "dlt-hub/dlt-init-openapi",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 26,
     "forks_count": 3
   },
@@ -116,7 +140,7 @@
   {
     "full_name": "dakboard/Cloud-Platform",
     "stargazers_count": 170,
-    "open_issues_count": 23,
+    "open_issues_count": 22,
     "forks_count": 39
   },
   {
@@ -127,20 +151,20 @@
   },
   {
     "full_name": "bluesky-social/statusphere-example-app",
-    "stargazers_count": 217,
+    "stargazers_count": 221,
     "open_issues_count": 15,
-    "forks_count": 56
+    "forks_count": 58
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 23034,
-    "open_issues_count": 329,
-    "forks_count": 612
+    "stargazers_count": 23088,
+    "open_issues_count": 336,
+    "forks_count": 615
   },
   {
     "full_name": "sindresorhus/emittery",
     "stargazers_count": 1917,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 75
   },
   {
@@ -154,29 +178,5 @@
     "stargazers_count": 582,
     "open_issues_count": 0,
     "forks_count": 17
-  },
-  {
-    "full_name": "microsoft/data-formulator",
-    "stargazers_count": 10972,
-    "open_issues_count": 24,
-    "forks_count": 844
-  },
-  {
-    "full_name": "bluesky-social/pds",
-    "stargazers_count": 1972,
-    "open_issues_count": 105,
-    "forks_count": 212
-  },
-  {
-    "full_name": "e2b-dev/dashboard",
-    "stargazers_count": 30,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "e2b-dev/open-computer-use",
-    "stargazers_count": 956,
-    "open_issues_count": 10,
-    "forks_count": 124
   }
 ]
