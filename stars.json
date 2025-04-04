@@ -1,19 +1,19 @@
 [
   {
     "full_name": "latticexyz/mud",
-    "stargazers_count": 803,
-    "open_issues_count": 476,
-    "forks_count": 208
+    "stargazers_count": 804,
+    "open_issues_count": 480,
+    "forks_count": 209
   },
   {
     "full_name": "AllYarnsAreBeautiful/ayab-desktop",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 69,
     "forks_count": 34
   },
   {
     "full_name": "Seifert69/DikuMUD3",
-    "stargazers_count": 204,
+    "stargazers_count": 205,
     "open_issues_count": 31,
     "forks_count": 54
   },
@@ -26,50 +26,50 @@
   {
     "full_name": "ReactiveX/RxCpp",
     "stargazers_count": 3100,
-    "open_issues_count": 100,
-    "forks_count": 400
+    "open_issues_count": 101,
+    "forks_count": 402
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 31156,
-    "open_issues_count": 271,
-    "forks_count": 3009
+    "stargazers_count": 31165,
+    "open_issues_count": 272,
+    "forks_count": 3008
   },
   {
     "full_name": "actor-framework/actor-framework",
-    "stargazers_count": 3247,
+    "stargazers_count": 3249,
     "open_issues_count": 59,
     "forks_count": 553
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 2746,
-    "open_issues_count": 55,
-    "forks_count": 59
+    "stargazers_count": 2971,
+    "open_issues_count": 68,
+    "forks_count": 68
   },
   {
     "full_name": "mnfst/manifest",
-    "stargazers_count": 2369,
-    "open_issues_count": 12,
-    "forks_count": 92
+    "stargazers_count": 2400,
+    "open_issues_count": 15,
+    "forks_count": 94
   },
   {
     "full_name": "huggingface/lerobot",
-    "stargazers_count": 11393,
-    "open_issues_count": 276,
-    "forks_count": 1247
+    "stargazers_count": 11637,
+    "open_issues_count": 281,
+    "forks_count": 1273
   },
   {
     "full_name": "suitenumerique/docs",
-    "stargazers_count": 10688,
+    "stargazers_count": 10956,
     "open_issues_count": 174,
-    "forks_count": 245
+    "forks_count": 256
   },
   {
     "full_name": "block/goose",
-    "stargazers_count": 11104,
-    "open_issues_count": 201,
-    "forks_count": 802
+    "stargazers_count": 11229,
+    "open_issues_count": 200,
+    "forks_count": 821
   },
   {
     "full_name": "OpenEPaperLink/OpenEPaperLink",
@@ -85,43 +85,43 @@
   },
   {
     "full_name": "clockworklabs/SpacetimeDB",
-    "stargazers_count": 11004,
-    "open_issues_count": 389,
-    "forks_count": 377
+    "stargazers_count": 11083,
+    "open_issues_count": 385,
+    "forks_count": 379
   },
   {
     "full_name": "fastly/pubsub",
-    "stargazers_count": 6,
-    "open_issues_count": 2,
+    "stargazers_count": 7,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "withastro/storefront",
-    "stargazers_count": 676,
+    "stargazers_count": 677,
     "open_issues_count": 4,
     "forks_count": 84
   },
   {
     "full_name": "josegonzalez/python-github-backup",
-    "stargazers_count": 1404,
+    "stargazers_count": 1406,
     "open_issues_count": 42,
     "forks_count": 246
   },
   {
     "full_name": "huggingface/notebooks",
-    "stargazers_count": 3984,
-    "open_issues_count": 200,
+    "stargazers_count": 3991,
+    "open_issues_count": 202,
     "forks_count": 1633
   },
   {
     "full_name": "koush/scrypted",
-    "stargazers_count": 4681,
-    "open_issues_count": 9,
+    "stargazers_count": 4692,
+    "open_issues_count": 11,
     "forks_count": 278
   },
   {
     "full_name": "dlt-hub/dlt-init-openapi",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 26,
     "forks_count": 3
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "dakboard/Hardware-OS",
-    "stargazers_count": 31,
+    "stargazers_count": 33,
     "open_issues_count": 16,
     "forks_count": 4
   },
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "bluesky-social/statusphere-example-app",
-    "stargazers_count": 221,
-    "open_issues_count": 15,
-    "forks_count": 58
+    "stargazers_count": 224,
+    "open_issues_count": 16,
+    "forks_count": 60
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 23088,
-    "open_issues_count": 336,
-    "forks_count": 615
+    "stargazers_count": 23135,
+    "open_issues_count": 334,
+    "forks_count": 623
   },
   {
     "full_name": "sindresorhus/emittery",
-    "stargazers_count": 1917,
+    "stargazers_count": 1920,
     "open_issues_count": 15,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "dpapavas/luaprompt",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "wakatime/wakaq",
-    "stargazers_count": 582,
+    "stargazers_count": 583,
     "open_issues_count": 0,
     "forks_count": 17
   }
