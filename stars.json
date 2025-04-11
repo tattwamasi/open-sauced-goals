@@ -1,8 +1,26 @@
 [
   {
+    "full_name": "openai/openai-agents-python",
+    "stargazers_count": 8443,
+    "open_issues_count": 143,
+    "forks_count": 1029
+  },
+  {
+    "full_name": "github/github-mcp-server",
+    "stargazers_count": 10560,
+    "open_issues_count": 61,
+    "forks_count": 490
+  },
+  {
+    "full_name": "modelcontextprotocol/python-sdk",
+    "stargazers_count": 8617,
+    "open_issues_count": 191,
+    "forks_count": 867
+  },
+  {
     "full_name": "latticexyz/mud",
-    "stargazers_count": 804,
-    "open_issues_count": 480,
+    "stargazers_count": 805,
+    "open_issues_count": 485,
     "forks_count": 209
   },
   {
@@ -20,7 +38,7 @@
   {
     "full_name": "luciensadi/AwakeMUD",
     "stargazers_count": 62,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 34
   },
   {
@@ -31,63 +49,63 @@
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 31174,
+    "stargazers_count": 31182,
     "open_issues_count": 272,
-    "forks_count": 3008
+    "forks_count": 3007
   },
   {
     "full_name": "actor-framework/actor-framework",
-    "stargazers_count": 3251,
-    "open_issues_count": 60,
-    "forks_count": 554
+    "stargazers_count": 3253,
+    "open_issues_count": 61,
+    "forks_count": 553
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 3225,
-    "open_issues_count": 67,
-    "forks_count": 75
+    "stargazers_count": 3387,
+    "open_issues_count": 73,
+    "forks_count": 80
   },
   {
     "full_name": "mnfst/manifest",
-    "stargazers_count": 2412,
-    "open_issues_count": 12,
+    "stargazers_count": 2427,
+    "open_issues_count": 14,
     "forks_count": 94
   },
   {
     "full_name": "huggingface/lerobot",
-    "stargazers_count": 11961,
-    "open_issues_count": 280,
-    "forks_count": 1305
+    "stargazers_count": 12144,
+    "open_issues_count": 289,
+    "forks_count": 1332
   },
   {
     "full_name": "suitenumerique/docs",
-    "stargazers_count": 11174,
-    "open_issues_count": 186,
+    "stargazers_count": 11306,
+    "open_issues_count": 190,
     "forks_count": 266
   },
   {
     "full_name": "block/goose",
-    "stargazers_count": 11347,
-    "open_issues_count": 200,
-    "forks_count": 832
+    "stargazers_count": 11533,
+    "open_issues_count": 212,
+    "forks_count": 852
   },
   {
     "full_name": "OpenEPaperLink/OpenEPaperLink",
-    "stargazers_count": 1276,
-    "open_issues_count": 25,
+    "stargazers_count": 1277,
+    "open_issues_count": 24,
     "forks_count": 112
   },
   {
     "full_name": "OpenEPaperLink/Home_Assistant_Integration",
-    "stargazers_count": 206,
+    "stargazers_count": 207,
     "open_issues_count": 18,
     "forks_count": 40
   },
   {
     "full_name": "clockworklabs/SpacetimeDB",
-    "stargazers_count": 11634,
-    "open_issues_count": 384,
-    "forks_count": 390
+    "stargazers_count": 12854,
+    "open_issues_count": 383,
+    "forks_count": 423
   },
   {
     "full_name": "fastly/pubsub",
@@ -97,25 +115,25 @@
   },
   {
     "full_name": "withastro/storefront",
-    "stargazers_count": 678,
+    "stargazers_count": 679,
     "open_issues_count": 4,
     "forks_count": 85
   },
   {
     "full_name": "josegonzalez/python-github-backup",
-    "stargazers_count": 1407,
+    "stargazers_count": 1409,
     "open_issues_count": 42,
-    "forks_count": 246
+    "forks_count": 248
   },
   {
     "full_name": "huggingface/notebooks",
-    "stargazers_count": 3999,
+    "stargazers_count": 4009,
     "open_issues_count": 202,
-    "forks_count": 1636
+    "forks_count": 1638
   },
   {
     "full_name": "koush/scrypted",
-    "stargazers_count": 4702,
+    "stargazers_count": 4705,
     "open_issues_count": 9,
     "forks_count": 278
   },
@@ -127,7 +145,7 @@
   },
   {
     "full_name": "loopholelabs/drafter",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 7,
     "forks_count": 7
   },
@@ -140,7 +158,7 @@
   {
     "full_name": "dakboard/Cloud-Platform",
     "stargazers_count": 171,
-    "open_issues_count": 22,
+    "open_issues_count": 20,
     "forks_count": 39
   },
   {
@@ -153,30 +171,12 @@
     "full_name": "bluesky-social/statusphere-example-app",
     "stargazers_count": 229,
     "open_issues_count": 16,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 23164,
-    "open_issues_count": 337,
-    "forks_count": 624
-  },
-  {
-    "full_name": "sindresorhus/emittery",
-    "stargazers_count": 1921,
-    "open_issues_count": 15,
-    "forks_count": 76
-  },
-  {
-    "full_name": "dpapavas/luaprompt",
-    "stargazers_count": 97,
-    "open_issues_count": 0,
-    "forks_count": 16
-  },
-  {
-    "full_name": "wakatime/wakaq",
-    "stargazers_count": 583,
-    "open_issues_count": 0,
-    "forks_count": 17
+    "stargazers_count": 23195,
+    "open_issues_count": 343,
+    "forks_count": 626
   }
 ]
