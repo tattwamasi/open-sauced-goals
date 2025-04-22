@@ -1,55 +1,79 @@
 [
   {
+    "full_name": "kestra-io/kestra",
+    "stargazers_count": 17422,
+    "open_issues_count": 407,
+    "forks_count": 1452
+  },
+  {
+    "full_name": "momentohq/mcp-momento",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdx-editor/editor",
+    "stargazers_count": 2525,
+    "open_issues_count": 67,
+    "forks_count": 198
+  },
+  {
+    "full_name": "superfly/flymcp",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "oatpp/oatpp-mcp",
-    "stargazers_count": 36,
+    "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "AI-QL/chat-mcp",
-    "stargazers_count": 171,
+    "stargazers_count": 174,
     "open_issues_count": 0,
-    "forks_count": 22
+    "forks_count": 24
   },
   {
     "full_name": "magnetai/mcp-free-usdc-transfer",
     "stargazers_count": 14,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "ronaldoussoren/pyobjc",
-    "stargazers_count": 635,
-    "open_issues_count": 111,
-    "forks_count": 56
+    "stargazers_count": 636,
+    "open_issues_count": 110,
+    "forks_count": 57
   },
   {
     "full_name": "openai/openai-agents-python",
-    "stargazers_count": 8856,
-    "open_issues_count": 142,
-    "forks_count": 1117
+    "stargazers_count": 9168,
+    "open_issues_count": 140,
+    "forks_count": 1173
   },
   {
     "full_name": "github/github-mcp-server",
-    "stargazers_count": 11535,
-    "open_issues_count": 72,
-    "forks_count": 583
+    "stargazers_count": 11873,
+    "open_issues_count": 83,
+    "forks_count": 617
   },
   {
     "full_name": "modelcontextprotocol/python-sdk",
-    "stargazers_count": 9650,
-    "open_issues_count": 234,
-    "forks_count": 985
+    "stargazers_count": 10108,
+    "open_issues_count": 250,
+    "forks_count": 1055
   },
   {
     "full_name": "latticexyz/mud",
-    "stargazers_count": 805,
-    "open_issues_count": 487,
+    "stargazers_count": 806,
+    "open_issues_count": 491,
     "forks_count": 209
   },
   {
     "full_name": "AllYarnsAreBeautiful/ayab-desktop",
-    "stargazers_count": 71,
+    "stargazers_count": 70,
     "open_issues_count": 61,
     "forks_count": 34
   },
@@ -73,63 +97,63 @@
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 31210,
+    "stargazers_count": 31217,
     "open_issues_count": 272,
-    "forks_count": 3008
+    "forks_count": 3007
   },
   {
     "full_name": "actor-framework/actor-framework",
-    "stargazers_count": 3259,
-    "open_issues_count": 59,
+    "stargazers_count": 3262,
+    "open_issues_count": 62,
     "forks_count": 553
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 3993,
-    "open_issues_count": 80,
-    "forks_count": 96
+    "stargazers_count": 4564,
+    "open_issues_count": 87,
+    "forks_count": 101
   },
   {
     "full_name": "mnfst/manifest",
-    "stargazers_count": 2457,
+    "stargazers_count": 2475,
     "open_issues_count": 15,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "huggingface/lerobot",
-    "stargazers_count": 12431,
-    "open_issues_count": 288,
-    "forks_count": 1397
+    "stargazers_count": 12533,
+    "open_issues_count": 299,
+    "forks_count": 1423
   },
   {
     "full_name": "suitenumerique/docs",
-    "stargazers_count": 11470,
-    "open_issues_count": 195,
-    "forks_count": 272
+    "stargazers_count": 11619,
+    "open_issues_count": 202,
+    "forks_count": 275
   },
   {
     "full_name": "block/goose",
-    "stargazers_count": 11807,
-    "open_issues_count": 217,
-    "forks_count": 888
+    "stargazers_count": 11954,
+    "open_issues_count": 222,
+    "forks_count": 897
   },
   {
     "full_name": "OpenEPaperLink/OpenEPaperLink",
-    "stargazers_count": 1284,
+    "stargazers_count": 1298,
     "open_issues_count": 25,
     "forks_count": 113
   },
   {
     "full_name": "OpenEPaperLink/Home_Assistant_Integration",
-    "stargazers_count": 210,
-    "open_issues_count": 18,
+    "stargazers_count": 213,
+    "open_issues_count": 19,
     "forks_count": 40
   },
   {
     "full_name": "clockworklabs/SpacetimeDB",
-    "stargazers_count": 14201,
-    "open_issues_count": 397,
-    "forks_count": 457
+    "stargazers_count": 14759,
+    "open_issues_count": 399,
+    "forks_count": 470
   },
   {
     "full_name": "fastly/pubsub",
@@ -139,44 +163,20 @@
   },
   {
     "full_name": "withastro/storefront",
-    "stargazers_count": 680,
+    "stargazers_count": 683,
     "open_issues_count": 4,
     "forks_count": 86
   },
   {
     "full_name": "josegonzalez/python-github-backup",
-    "stargazers_count": 1414,
-    "open_issues_count": 43,
+    "stargazers_count": 1415,
+    "open_issues_count": 44,
     "forks_count": 249
   },
   {
     "full_name": "huggingface/notebooks",
-    "stargazers_count": 4020,
+    "stargazers_count": 4028,
     "open_issues_count": 204,
-    "forks_count": 1645
-  },
-  {
-    "full_name": "koush/scrypted",
-    "stargazers_count": 4717,
-    "open_issues_count": 10,
-    "forks_count": 280
-  },
-  {
-    "full_name": "dlt-hub/dlt-init-openapi",
-    "stargazers_count": 26,
-    "open_issues_count": 26,
-    "forks_count": 3
-  },
-  {
-    "full_name": "loopholelabs/drafter",
-    "stargazers_count": 112,
-    "open_issues_count": 8,
-    "forks_count": 7
-  },
-  {
-    "full_name": "dakboard/Hardware-OS",
-    "stargazers_count": 33,
-    "open_issues_count": 13,
-    "forks_count": 4
+    "forks_count": 1649
   }
 ]
