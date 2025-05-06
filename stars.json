@@ -1,5 +1,173 @@
 [
   {
+    "full_name": "supercorp-ai/superinterface",
+    "stargazers_count": 204,
+    "open_issues_count": 0,
+    "forks_count": 27
+  },
+  {
+    "full_name": "zeromq/libzmq",
+    "stargazers_count": 10178,
+    "open_issues_count": 357,
+    "forks_count": 2401
+  },
+  {
+    "full_name": "HybridRobotics/Berkeley-Humanoid-Lite",
+    "stargazers_count": 308,
+    "open_issues_count": 2,
+    "forks_count": 28
+  },
+  {
+    "full_name": "zeromq/cppzmq",
+    "stargazers_count": 2091,
+    "open_issues_count": 125,
+    "forks_count": 778
+  },
+  {
+    "full_name": "zeromq/zmqpp",
+    "stargazers_count": 457,
+    "open_issues_count": 50,
+    "forks_count": 199
+  },
+  {
+    "full_name": "antirez/gguf-tools",
+    "stargazers_count": 269,
+    "open_issues_count": 3,
+    "forks_count": 18
+  },
+  {
+    "full_name": "antirez/disque",
+    "stargazers_count": 8037,
+    "open_issues_count": 60,
+    "forks_count": 536
+  },
+  {
+    "full_name": "zeromq/zyre",
+    "stargazers_count": 901,
+    "open_issues_count": 8,
+    "forks_count": 176
+  },
+  {
+    "full_name": "zeromq/malamute",
+    "stargazers_count": 327,
+    "open_issues_count": 28,
+    "forks_count": 78
+  },
+  {
+    "full_name": "carterlasalle/mac_messages_mcp",
+    "stargazers_count": 75,
+    "open_issues_count": 4,
+    "forks_count": 7
+  },
+  {
+    "full_name": "InditexTech/mcp-server-simulator-ios-idb",
+    "stargazers_count": 156,
+    "open_issues_count": 3,
+    "forks_count": 5
+  },
+  {
+    "full_name": "hannesj/mcp-graphql-schema",
+    "stargazers_count": 19,
+    "open_issues_count": 3,
+    "forks_count": 4
+  },
+  {
+    "full_name": "idosal/git-mcp",
+    "stargazers_count": 2065,
+    "open_issues_count": 19,
+    "forks_count": 119
+  },
+  {
+    "full_name": "Automata-Labs-team/code-sandbox-mcp",
+    "stargazers_count": 159,
+    "open_issues_count": 9,
+    "forks_count": 21
+  },
+  {
+    "full_name": "AI-QL/tuui",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "co-browser/agent-browser",
+    "stargazers_count": 23,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "co-browser/attestable-mcp-server",
+    "stargazers_count": 8,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Omar-V2/mcp-ical",
+    "stargazers_count": 81,
+    "open_issues_count": 8,
+    "forks_count": 36
+  },
+  {
+    "full_name": "TobyLobster/Inform",
+    "stargazers_count": 86,
+    "open_issues_count": 9,
+    "forks_count": 18
+  },
+  {
+    "full_name": "ganelson/inform",
+    "stargazers_count": 1429,
+    "open_issues_count": 10,
+    "forks_count": 77
+  },
+  {
+    "full_name": "erkyrath/tworld",
+    "stargazers_count": 75,
+    "open_issues_count": 73,
+    "forks_count": 12
+  },
+  {
+    "full_name": "TimelyDataflow/differential-dataflow",
+    "stargazers_count": 2688,
+    "open_issues_count": 112,
+    "forks_count": 188
+  },
+  {
+    "full_name": "expo/expo",
+    "stargazers_count": 39683,
+    "open_issues_count": 793,
+    "forks_count": 6814
+  },
+  {
+    "full_name": "jo/hyperwood",
+    "stargazers_count": 307,
+    "open_issues_count": 5,
+    "forks_count": 6
+  },
+  {
+    "full_name": "SkipLabs/skip",
+    "stargazers_count": 1174,
+    "open_issues_count": 74,
+    "forks_count": 24
+  },
+  {
+    "full_name": "rowboatlabs/rowboat",
+    "stargazers_count": 2570,
+    "open_issues_count": 18,
+    "forks_count": 187
+  },
+  {
+    "full_name": "iiab/iiab",
+    "stargazers_count": 1398,
+    "open_issues_count": 268,
+    "forks_count": 92
+  },
+  {
+    "full_name": "tigerbeetle/tigerbeetle",
+    "stargazers_count": 12347,
+    "open_issues_count": 87,
+    "forks_count": 601
+  },
+  {
     "full_name": "xpack-dev-tools/clang-xpack",
     "stargazers_count": 15,
     "open_issues_count": 1,
@@ -7,176 +175,8 @@
   },
   {
     "full_name": "socketio/socket.io",
-    "stargazers_count": 61971,
+    "stargazers_count": 61980,
     "open_issues_count": 197,
-    "forks_count": 10144
-  },
-  {
-    "full_name": "libuv/libuv",
-    "stargazers_count": 25190,
-    "open_issues_count": 183,
-    "forks_count": 3686
-  },
-  {
-    "full_name": "limitless-ai-inc/limitless-api-examples",
-    "stargazers_count": 51,
-    "open_issues_count": 1,
-    "forks_count": 8
-  },
-  {
-    "full_name": "llvm/llvm-project",
-    "stargazers_count": 32198,
-    "open_issues_count": 29811,
-    "forks_count": 13370
-  },
-  {
-    "full_name": "Orphis/boost-cmake",
-    "stargazers_count": 404,
-    "open_issues_count": 30,
-    "forks_count": 157
-  },
-  {
-    "full_name": "alexreinking/sdcppmu-diffuse",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tilt-dev/tilt",
-    "stargazers_count": 8410,
-    "open_issues_count": 475,
-    "forks_count": 328
-  },
-  {
-    "full_name": "modern-cmake/cppfront",
-    "stargazers_count": 78,
-    "open_issues_count": 9,
-    "forks_count": 23
-  },
-  {
-    "full_name": "alvinunreal/tmuxai",
-    "stargazers_count": 443,
-    "open_issues_count": 5,
-    "forks_count": 21
-  },
-  {
-    "full_name": "DanielSarmiento04/ObjectDetectionApi",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "formoon/realworld-oatpp",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "gothinkster/realworld",
-    "stargazers_count": 81518,
-    "open_issues_count": 70,
-    "forks_count": 7431
-  },
-  {
-    "full_name": "dylibso/hermit",
-    "stargazers_count": 213,
-    "open_issues_count": 8,
-    "forks_count": 11
-  },
-  {
-    "full_name": "jart/cosmopolitan",
-    "stargazers_count": 19288,
-    "open_issues_count": 172,
-    "forks_count": 681
-  },
-  {
-    "full_name": "cpp-pre/oatpppre-staticfileserver",
-    "stargazers_count": 5,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "matterai/DataKitsune",
-    "stargazers_count": 53,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "modelcontextprotocol/inspector",
-    "stargazers_count": 2598,
-    "open_issues_count": 59,
-    "forks_count": 353
-  },
-  {
-    "full_name": "oatpp/oatpp-protobuf",
-    "stargazers_count": 6,
-    "open_issues_count": 4,
-    "forks_count": 4
-  },
-  {
-    "full_name": "oatpp/oatpp-ssdp",
-    "stargazers_count": 3,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "ParaGroup/caf-pp",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "seasonedcc/composable-functions",
-    "stargazers_count": 700,
-    "open_issues_count": 2,
-    "forks_count": 14
-  },
-  {
-    "full_name": "punkpeye/awesome-mcp-clients",
-    "stargazers_count": 2904,
-    "open_issues_count": 31,
-    "forks_count": 193
-  },
-  {
-    "full_name": "Qihoo360/TinyMCP",
-    "stargazers_count": 37,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "acl-dev/acl",
-    "stargazers_count": 2953,
-    "open_issues_count": 41,
-    "forks_count": 941
-  },
-  {
-    "full_name": "xmake-io/xmake",
-    "stargazers_count": 10911,
-    "open_issues_count": 212,
-    "forks_count": 837
-  },
-  {
-    "full_name": "SolaceLabs/solace-agent-mesh",
-    "stargazers_count": 130,
-    "open_issues_count": 6,
-    "forks_count": 11
-  },
-  {
-    "full_name": "redis/mcp-redis",
-    "stargazers_count": 29,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "PostHog/posthog-mcp",
-    "stargazers_count": 30,
-    "open_issues_count": 4,
-    "forks_count": 6
-  },
-  {
-    "full_name": "LekoArts/astro-loaders",
-    "stargazers_count": 19,
-    "open_issues_count": 3,
-    "forks_count": 0
+    "forks_count": 10145
   }
 ]
