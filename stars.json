@@ -1,182 +1,182 @@
 [
   {
-    "full_name": "isidorostsa/RayTrayCpp2",
-    "stargazers_count": 5,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
-    "full_name": "chroma-core/chroma",
-    "stargazers_count": 20268,
-    "open_issues_count": 528,
-    "forks_count": 1635
-  },
-  {
-    "full_name": "BlackyDrum/chromadb-cpp",
-    "stargazers_count": 14,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "adeelahmad/mlx-grpo",
-    "stargazers_count": 8,
+    "full_name": "timsong-cpp/cppwp",
+    "stargazers_count": 465,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 29
   },
   {
-    "full_name": "ostris/ai-toolkit",
-    "stargazers_count": 4809,
-    "open_issues_count": 142,
-    "forks_count": 561
+    "full_name": "AlexanderKoch-Koch/low_cost_robot",
+    "stargazers_count": 3304,
+    "open_issues_count": 24,
+    "forks_count": 290
   },
   {
-    "full_name": "kazazes/YOLOverlay",
-    "stargazers_count": 7,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "n3d1117/ios2m1",
-    "stargazers_count": 39,
-    "open_issues_count": 2,
-    "forks_count": 5
-  },
-  {
-    "full_name": "nick-botticelli/super-tart",
-    "stargazers_count": 44,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "Sub-Soft/Siliv",
-    "stargazers_count": 197,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "Blaizzy/mlx-audio",
-    "stargazers_count": 2347,
-    "open_issues_count": 52,
-    "forks_count": 167
-  },
-  {
-    "full_name": "below/HelloSilicon",
-    "stargazers_count": 4685,
-    "open_issues_count": 9,
-    "forks_count": 306
-  },
-  {
-    "full_name": "pmbittner/Polypropylene",
-    "stargazers_count": 20,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "varnishcache/varnish-cache",
-    "stargazers_count": 3864,
-    "open_issues_count": 141,
-    "forks_count": 392
-  },
-  {
-    "full_name": "squid-cache/squid",
-    "stargazers_count": 2513,
-    "open_issues_count": 140,
-    "forks_count": 555
-  },
-  {
-    "full_name": "black-forest-labs/flux",
-    "stargazers_count": 22205,
-    "open_issues_count": 174,
-    "forks_count": 1572
-  },
-  {
-    "full_name": "mitmproxy/mitmproxy",
-    "stargazers_count": 39366,
-    "open_issues_count": 354,
-    "forks_count": 4205
-  },
-  {
-    "full_name": "Stiffstream/sobjectizer",
-    "stargazers_count": 534,
+    "full_name": "jess-moss/koch-v1-1",
+    "stargazers_count": 623,
     "open_issues_count": 11,
-    "forks_count": 49
+    "forks_count": 53
   },
   {
-    "full_name": "xissburg/edyn",
-    "stargazers_count": 696,
-    "open_issues_count": 4,
+    "full_name": "tree-sitter/tree-sitter",
+    "stargazers_count": 20918,
+    "open_issues_count": 196,
+    "forks_count": 1861
+  },
+  {
+    "full_name": "adeelahmad/MacPilot",
+    "stargazers_count": 46,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "da-z/mlx-ui",
+    "stargazers_count": 255,
+    "open_issues_count": 3,
+    "forks_count": 32
+  },
+  {
+    "full_name": "ali-vilab/In-Context-LoRA",
+    "stargazers_count": 1906,
+    "open_issues_count": 30,
+    "forks_count": 90
+  },
+  {
+    "full_name": "armbues/SiLLM",
+    "stargazers_count": 271,
+    "open_issues_count": 3,
     "forks_count": 27
   },
   {
-    "full_name": "kfsone/imguiwrap",
-    "stargazers_count": 60,
-    "open_issues_count": 1,
-    "forks_count": 8
+    "full_name": "sschmid/Entitas",
+    "stargazers_count": 7414,
+    "open_issues_count": 102,
+    "forks_count": 1118
   },
   {
-    "full_name": "enkisoftware/imgui_markdown",
-    "stargazers_count": 1195,
-    "open_issues_count": 6,
-    "forks_count": 84
-  },
-  {
-    "full_name": "NIKEA-SOFT/HelenaFramework",
-    "stargazers_count": 78,
+    "full_name": "vpand/icpp",
+    "stargazers_count": 326,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 17
   },
   {
-    "full_name": "inanevin/LinaEngine",
-    "stargazers_count": 867,
-    "open_issues_count": 1,
-    "forks_count": 56
+    "full_name": "unicorn-engine/unicorn",
+    "stargazers_count": 8233,
+    "open_issues_count": 126,
+    "forks_count": 1409
   },
   {
-    "full_name": "Naios/idle",
-    "stargazers_count": 210,
-    "open_issues_count": 1,
-    "forks_count": 15
+    "full_name": "apple/swift-openapi-generator",
+    "stargazers_count": 1647,
+    "open_issues_count": 97,
+    "forks_count": 132
   },
   {
-    "full_name": "microsoft/vcpkg",
-    "stargazers_count": 24948,
-    "open_issues_count": 1378,
-    "forks_count": 6888
+    "full_name": "apple/coremltools",
+    "stargazers_count": 4766,
+    "open_issues_count": 392,
+    "forks_count": 696
   },
   {
-    "full_name": "TrinityCore/TrinityCore",
-    "stargazers_count": 10014,
-    "open_issues_count": 1595,
-    "forks_count": 6143
+    "full_name": "apple/swift-llbuild2",
+    "stargazers_count": 296,
+    "open_issues_count": 2,
+    "forks_count": 27
   },
   {
-    "full_name": "SanderMertens/ecs-faq",
-    "stargazers_count": 2288,
+    "full_name": "apple/swift-nio",
+    "stargazers_count": 8159,
+    "open_issues_count": 231,
+    "forks_count": 676
+  },
+  {
+    "full_name": "apple/FHIRModels",
+    "stargazers_count": 192,
     "open_issues_count": 6,
-    "forks_count": 80
+    "forks_count": 32
   },
   {
-    "full_name": "sourcey/libsourcey",
-    "stargazers_count": 1344,
-    "open_issues_count": 70,
-    "forks_count": 350
+    "full_name": "apple/swift-cluster-membership",
+    "stargazers_count": 224,
+    "open_issues_count": 21,
+    "forks_count": 32
   },
   {
-    "full_name": "PolusAI/sos-xeus-cling",
-    "stargazers_count": 10,
+    "full_name": "apple/swift-distributed-actors",
+    "stargazers_count": 639,
+    "open_issues_count": 188,
+    "forks_count": 74
+  },
+  {
+    "full_name": "apple/ml-recurrent-drafter",
+    "stargazers_count": 212,
+    "open_issues_count": 8,
+    "forks_count": 17
+  },
+  {
+    "full_name": "apple/ml-dataset-decomposition",
+    "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 1
   },
   {
-    "full_name": "jacksondunstan/UnityNativeScripting",
-    "stargazers_count": 1365,
-    "open_issues_count": 7,
-    "forks_count": 135
+    "full_name": "mlfoundations/open_lm",
+    "stargazers_count": 498,
+    "open_issues_count": 69,
+    "forks_count": 69
   },
   {
-    "full_name": "awslabs/mountpoint-s3",
-    "stargazers_count": 5202,
-    "open_issues_count": 112,
-    "forks_count": 203
+    "full_name": "apple/ml-acn-embed",
+    "stargazers_count": 24,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "conventional-commits/conventionalcommits.org",
+    "stargazers_count": 7785,
+    "open_issues_count": 124,
+    "forks_count": 594
+  },
+  {
+    "full_name": "apple/foundationdb",
+    "stargazers_count": 15262,
+    "open_issues_count": 840,
+    "forks_count": 1374
+  },
+  {
+    "full_name": "apple/ml-slowfast-llava",
+    "stargazers_count": 225,
+    "open_issues_count": 3,
+    "forks_count": 13
+  },
+  {
+    "full_name": "wjakob/nanobind",
+    "stargazers_count": 2826,
+    "open_issues_count": 22,
+    "forks_count": 232
+  },
+  {
+    "full_name": "vczh-libraries/GacUI",
+    "stargazers_count": 2379,
+    "open_issues_count": 12,
+    "forks_count": 301
+  },
+  {
+    "full_name": "SpartanJ/efsw",
+    "stargazers_count": 741,
+    "open_issues_count": 6,
+    "forks_count": 113
+  },
+  {
+    "full_name": "Gen-Verse/ReasonFlux",
+    "stargazers_count": 402,
+    "open_issues_count": 10,
+    "forks_count": 30
+  },
+  {
+    "full_name": "ToTheBeginning/ComfyUI-DreamO",
+    "stargazers_count": 123,
+    "open_issues_count": 14,
+    "forks_count": 5
   }
 ]
