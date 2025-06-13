@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "MervinPraison/PraisonAI",
+    "stargazers_count": 4844,
+    "open_issues_count": 28,
+    "forks_count": 671
+  },
+  {
+    "full_name": "bytecodealliance/wasmtime",
+    "stargazers_count": 16502,
+    "open_issues_count": 792,
+    "forks_count": 1435
+  },
+  {
+    "full_name": "p-ranav/argparse",
+    "stargazers_count": 3093,
+    "open_issues_count": 62,
+    "forks_count": 276
+  },
+  {
+    "full_name": "renatoGarcia/icecream-cpp",
+    "stargazers_count": 706,
+    "open_issues_count": 3,
+    "forks_count": 35
+  },
+  {
+    "full_name": "JohelEGP/llvm-project",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "timsong-cpp/cppwp",
     "stargazers_count": 465,
     "open_issues_count": 0,
@@ -7,49 +37,49 @@
   },
   {
     "full_name": "AlexanderKoch-Koch/low_cost_robot",
-    "stargazers_count": 3304,
+    "stargazers_count": 3305,
     "open_issues_count": 24,
     "forks_count": 290
   },
   {
     "full_name": "jess-moss/koch-v1-1",
-    "stargazers_count": 623,
+    "stargazers_count": 626,
     "open_issues_count": 11,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "tree-sitter/tree-sitter",
-    "stargazers_count": 20918,
-    "open_issues_count": 196,
-    "forks_count": 1861
+    "stargazers_count": 20951,
+    "open_issues_count": 194,
+    "forks_count": 1866
   },
   {
     "full_name": "adeelahmad/MacPilot",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "da-z/mlx-ui",
-    "stargazers_count": 255,
+    "stargazers_count": 256,
     "open_issues_count": 3,
     "forks_count": 32
   },
   {
     "full_name": "ali-vilab/In-Context-LoRA",
-    "stargazers_count": 1906,
+    "stargazers_count": 1907,
     "open_issues_count": 30,
     "forks_count": 90
   },
   {
     "full_name": "armbues/SiLLM",
-    "stargazers_count": 271,
+    "stargazers_count": 272,
     "open_issues_count": 3,
     "forks_count": 27
   },
   {
     "full_name": "sschmid/Entitas",
-    "stargazers_count": 7414,
+    "stargazers_count": 7416,
     "open_issues_count": 102,
     "forks_count": 1118
   },
@@ -61,21 +91,21 @@
   },
   {
     "full_name": "unicorn-engine/unicorn",
-    "stargazers_count": 8233,
-    "open_issues_count": 126,
+    "stargazers_count": 8240,
+    "open_issues_count": 127,
     "forks_count": 1409
   },
   {
     "full_name": "apple/swift-openapi-generator",
-    "stargazers_count": 1647,
-    "open_issues_count": 97,
+    "stargazers_count": 1651,
+    "open_issues_count": 101,
     "forks_count": 132
   },
   {
     "full_name": "apple/coremltools",
-    "stargazers_count": 4766,
-    "open_issues_count": 392,
-    "forks_count": 696
+    "stargazers_count": 4785,
+    "open_issues_count": 395,
+    "forks_count": 700
   },
   {
     "full_name": "apple/swift-llbuild2",
@@ -85,25 +115,25 @@
   },
   {
     "full_name": "apple/swift-nio",
-    "stargazers_count": 8159,
-    "open_issues_count": 231,
-    "forks_count": 676
+    "stargazers_count": 8160,
+    "open_issues_count": 232,
+    "forks_count": 677
   },
   {
     "full_name": "apple/FHIRModels",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 6,
     "forks_count": 32
   },
   {
     "full_name": "apple/swift-cluster-membership",
-    "stargazers_count": 224,
+    "stargazers_count": 228,
     "open_issues_count": 21,
     "forks_count": 32
   },
   {
     "full_name": "apple/swift-distributed-actors",
-    "stargazers_count": 639,
+    "stargazers_count": 641,
     "open_issues_count": 188,
     "forks_count": 74
   },
@@ -121,7 +151,7 @@
   },
   {
     "full_name": "mlfoundations/open_lm",
-    "stargazers_count": 498,
+    "stargazers_count": 497,
     "open_issues_count": 69,
     "forks_count": 69
   },
@@ -133,50 +163,20 @@
   },
   {
     "full_name": "conventional-commits/conventionalcommits.org",
-    "stargazers_count": 7785,
-    "open_issues_count": 124,
-    "forks_count": 594
+    "stargazers_count": 7796,
+    "open_issues_count": 126,
+    "forks_count": 595
   },
   {
     "full_name": "apple/foundationdb",
-    "stargazers_count": 15262,
-    "open_issues_count": 840,
-    "forks_count": 1374
+    "stargazers_count": 15325,
+    "open_issues_count": 843,
+    "forks_count": 1379
   },
   {
     "full_name": "apple/ml-slowfast-llava",
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 3,
     "forks_count": 13
-  },
-  {
-    "full_name": "wjakob/nanobind",
-    "stargazers_count": 2826,
-    "open_issues_count": 22,
-    "forks_count": 232
-  },
-  {
-    "full_name": "vczh-libraries/GacUI",
-    "stargazers_count": 2379,
-    "open_issues_count": 12,
-    "forks_count": 301
-  },
-  {
-    "full_name": "SpartanJ/efsw",
-    "stargazers_count": 741,
-    "open_issues_count": 6,
-    "forks_count": 113
-  },
-  {
-    "full_name": "Gen-Verse/ReasonFlux",
-    "stargazers_count": 402,
-    "open_issues_count": 10,
-    "forks_count": 30
-  },
-  {
-    "full_name": "ToTheBeginning/ComfyUI-DreamO",
-    "stargazers_count": 123,
-    "open_issues_count": 14,
-    "forks_count": 5
   }
 ]
