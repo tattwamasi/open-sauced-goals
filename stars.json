@@ -1,15 +1,147 @@
 [
   {
+    "full_name": "Lathentar/aoc_2024",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "bloomberg/blazingmq",
+    "stargazers_count": 2676,
+    "open_issues_count": 82,
+    "forks_count": 142
+  },
+  {
+    "full_name": "jll63/yomm2",
+    "stargazers_count": 367,
+    "open_issues_count": 0,
+    "forks_count": 21
+  },
+  {
+    "full_name": "tcbrindle/flux",
+    "stargazers_count": 619,
+    "open_issues_count": 22,
+    "forks_count": 36
+  },
+  {
+    "full_name": "vanceism7/ls-cpp2",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ArchiveBox/archivebox-proxy",
+    "stargazers_count": 25,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "anycable/anycable",
+    "stargazers_count": 2102,
+    "open_issues_count": 0,
+    "forks_count": 99
+  },
+  {
+    "full_name": "debiki/talkyard",
+    "stargazers_count": 1772,
+    "open_issues_count": 121,
+    "forks_count": 129
+  },
+  {
+    "full_name": "dcbaker/meson-plus-plus",
+    "stargazers_count": 58,
+    "open_issues_count": 38,
+    "forks_count": 10
+  },
+  {
+    "full_name": "getml/reflect-cpp",
+    "stargazers_count": 1427,
+    "open_issues_count": 46,
+    "forks_count": 130
+  },
+  {
+    "full_name": "celtera/avendish",
+    "stargazers_count": 445,
+    "open_issues_count": 53,
+    "forks_count": 14
+  },
+  {
+    "full_name": "transformerlab/transformerlab-app",
+    "stargazers_count": 3428,
+    "open_issues_count": 60,
+    "forks_count": 293
+  },
+  {
+    "full_name": "Trans-N-ai/swama",
+    "stargazers_count": 208,
+    "open_issues_count": 14,
+    "forks_count": 10
+  },
+  {
+    "full_name": "JosefAlbers/whisper-turbo-mlx",
+    "stargazers_count": 210,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "Karmaz95/Snake_Apple",
+    "stargazers_count": 205,
+    "open_issues_count": 0,
+    "forks_count": 23
+  },
+  {
+    "full_name": "terragraph/meta-terragraph",
+    "stargazers_count": 53,
+    "open_issues_count": 9,
+    "forks_count": 32
+  },
+  {
+    "full_name": "multigres/multigres",
+    "stargazers_count": 782,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "cpp-testing/mocks_injector",
+    "stargazers_count": 35,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "dascandy/hippomocks",
+    "stargazers_count": 199,
+    "open_issues_count": 33,
+    "forks_count": 68
+  },
+  {
+    "full_name": "p2r3/HTTPortal",
+    "stargazers_count": 301,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "WAUthethird/Marble-Marcher-Community-Edition",
+    "stargazers_count": 274,
+    "open_issues_count": 22,
+    "forks_count": 19
+  },
+  {
+    "full_name": "netlify/examples",
+    "stargazers_count": 27,
+    "open_issues_count": 7,
+    "forks_count": 18
+  },
+  {
     "full_name": "pi-hole/pi-hole",
-    "stargazers_count": 52237,
-    "open_issues_count": 48,
-    "forks_count": 2837
+    "stargazers_count": 52272,
+    "open_issues_count": 50,
+    "forks_count": 2836
   },
   {
     "full_name": "searxng/searxng",
-    "stargazers_count": 19722,
-    "open_issues_count": 247,
-    "forks_count": 2013
+    "stargazers_count": 19785,
+    "open_issues_count": 248,
+    "forks_count": 2023
   },
   {
     "full_name": "berty/weshnet",
@@ -25,15 +157,15 @@
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 64914,
-    "open_issues_count": 210,
-    "forks_count": 4343
+    "stargazers_count": 64982,
+    "open_issues_count": 213,
+    "forks_count": 4352
   },
   {
     "full_name": "unbit/uwsgi",
-    "stargazers_count": 3502,
+    "stargazers_count": 3503,
     "open_issues_count": 861,
-    "forks_count": 695
+    "forks_count": 694
   },
   {
     "full_name": "vfeskov/war-of-bob",
@@ -46,137 +178,5 @@
     "stargazers_count": 392,
     "open_issues_count": 69,
     "forks_count": 8
-  },
-  {
-    "full_name": "nix-darwin/nix-darwin",
-    "stargazers_count": 4108,
-    "open_issues_count": 354,
-    "forks_count": 522
-  },
-  {
-    "full_name": "zhaofengli/attic",
-    "stargazers_count": 1381,
-    "open_issues_count": 128,
-    "forks_count": 109
-  },
-  {
-    "full_name": "superfly/flyctl",
-    "stargazers_count": 1528,
-    "open_issues_count": 345,
-    "forks_count": 264
-  },
-  {
-    "full_name": "kata-containers/kata-containers",
-    "stargazers_count": 6343,
-    "open_issues_count": 1611,
-    "forks_count": 1122
-  },
-  {
-    "full_name": "apple/containerization",
-    "stargazers_count": 6980,
-    "open_issues_count": 32,
-    "forks_count": 149
-  },
-  {
-    "full_name": "apple/container",
-    "stargazers_count": 14218,
-    "open_issues_count": 72,
-    "forks_count": 261
-  },
-  {
-    "full_name": "MervinPraison/PraisonAI",
-    "stargazers_count": 4866,
-    "open_issues_count": 28,
-    "forks_count": 670
-  },
-  {
-    "full_name": "bytecodealliance/wasmtime",
-    "stargazers_count": 16508,
-    "open_issues_count": 787,
-    "forks_count": 1438
-  },
-  {
-    "full_name": "p-ranav/argparse",
-    "stargazers_count": 3103,
-    "open_issues_count": 62,
-    "forks_count": 276
-  },
-  {
-    "full_name": "renatoGarcia/icecream-cpp",
-    "stargazers_count": 706,
-    "open_issues_count": 2,
-    "forks_count": 35
-  },
-  {
-    "full_name": "JohelEGP/llvm-project",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "timsong-cpp/cppwp",
-    "stargazers_count": 465,
-    "open_issues_count": 0,
-    "forks_count": 29
-  },
-  {
-    "full_name": "AlexanderKoch-Koch/low_cost_robot",
-    "stargazers_count": 3305,
-    "open_issues_count": 24,
-    "forks_count": 291
-  },
-  {
-    "full_name": "jess-moss/koch-v1-1",
-    "stargazers_count": 626,
-    "open_issues_count": 11,
-    "forks_count": 54
-  },
-  {
-    "full_name": "tree-sitter/tree-sitter",
-    "stargazers_count": 20977,
-    "open_issues_count": 191,
-    "forks_count": 1875
-  },
-  {
-    "full_name": "adeelahmad/MacPilot",
-    "stargazers_count": 47,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "da-z/mlx-ui",
-    "stargazers_count": 256,
-    "open_issues_count": 3,
-    "forks_count": 32
-  },
-  {
-    "full_name": "ali-vilab/In-Context-LoRA",
-    "stargazers_count": 1912,
-    "open_issues_count": 30,
-    "forks_count": 91
-  },
-  {
-    "full_name": "armbues/SiLLM",
-    "stargazers_count": 272,
-    "open_issues_count": 3,
-    "forks_count": 27
-  },
-  {
-    "full_name": "sschmid/Entitas",
-    "stargazers_count": 7418,
-    "open_issues_count": 102,
-    "forks_count": 1119
-  },
-  {
-    "full_name": "vpand/icpp",
-    "stargazers_count": 326,
-    "open_issues_count": 0,
-    "forks_count": 17
-  },
-  {
-    "full_name": "unicorn-engine/unicorn",
-    "stargazers_count": 8254,
-    "open_issues_count": 126,
-    "forks_count": 1410
   }
 ]
