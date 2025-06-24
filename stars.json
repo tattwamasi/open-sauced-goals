@@ -1,5 +1,149 @@
 [
   {
+    "full_name": "Homebrew/homebrew-core",
+    "stargazers_count": 14413,
+    "open_issues_count": 87,
+    "forks_count": 12871
+  },
+  {
+    "full_name": "IBM/mcp-context-forge",
+    "stargazers_count": 512,
+    "open_issues_count": 22,
+    "forks_count": 71
+  },
+  {
+    "full_name": "cesanta/mongoose",
+    "stargazers_count": 11813,
+    "open_issues_count": 5,
+    "forks_count": 2795
+  },
+  {
+    "full_name": "brettviren/cppzmq-tour",
+    "stargazers_count": 18,
+    "open_issues_count": 3,
+    "forks_count": 6
+  },
+  {
+    "full_name": "SanderMertens/tower_defense",
+    "stargazers_count": 83,
+    "open_issues_count": 1,
+    "forks_count": 19
+  },
+  {
+    "full_name": "ecsact-dev/ecsact_unreal",
+    "stargazers_count": 3,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Dan-in-CA/SIP",
+    "stargazers_count": 383,
+    "open_issues_count": 5,
+    "forks_count": 160
+  },
+  {
+    "full_name": "arendst/Tasmota",
+    "stargazers_count": 23368,
+    "open_issues_count": 7,
+    "forks_count": 4931
+  },
+  {
+    "full_name": "openziti/ziti",
+    "stargazers_count": 3392,
+    "open_issues_count": 240,
+    "forks_count": 196
+  },
+  {
+    "full_name": "firezone/firezone",
+    "stargazers_count": 7346,
+    "open_issues_count": 446,
+    "forks_count": 323
+  },
+  {
+    "full_name": "rabbitmq/rabbitmq-server",
+    "stargazers_count": 12897,
+    "open_issues_count": 266,
+    "forks_count": 3949
+  },
+  {
+    "full_name": "eclipse-mosquitto/mosquitto",
+    "stargazers_count": 9848,
+    "open_issues_count": 833,
+    "forks_count": 2503
+  },
+  {
+    "full_name": "halfgaar/FlashMQ",
+    "stargazers_count": 217,
+    "open_issues_count": 10,
+    "forks_count": 26
+  },
+  {
+    "full_name": "emitter-io/emitter",
+    "stargazers_count": 3937,
+    "open_issues_count": 15,
+    "forks_count": 355
+  },
+  {
+    "full_name": "redboltz/async_mqtt",
+    "stargazers_count": 136,
+    "open_issues_count": 4,
+    "forks_count": 15
+  },
+  {
+    "full_name": "eclipse-paho/paho.mqtt.c",
+    "stargazers_count": 2095,
+    "open_issues_count": 182,
+    "forks_count": 1126
+  },
+  {
+    "full_name": "eclipse-cyclonedds/cyclonedds",
+    "stargazers_count": 996,
+    "open_issues_count": 270,
+    "forks_count": 390
+  },
+  {
+    "full_name": "boostorg/mqtt5",
+    "stargazers_count": 184,
+    "open_issues_count": 2,
+    "forks_count": 17
+  },
+  {
+    "full_name": "sabuhish/fastapi-mqtt",
+    "stargazers_count": 283,
+    "open_issues_count": 3,
+    "forks_count": 43
+  },
+  {
+    "full_name": "microsoft/genaiscript",
+    "stargazers_count": 2663,
+    "open_issues_count": 111,
+    "forks_count": 190
+  },
+  {
+    "full_name": "czhu12/canine",
+    "stargazers_count": 1732,
+    "open_issues_count": 18,
+    "forks_count": 53
+  },
+  {
+    "full_name": "awesome-selfhosted/awesome-selfhosted",
+    "stargazers_count": 233523,
+    "open_issues_count": 0,
+    "forks_count": 10865
+  },
+  {
+    "full_name": "minio/minio",
+    "stargazers_count": 53296,
+    "open_issues_count": 52,
+    "forks_count": 5961
+  },
+  {
+    "full_name": "seaweedfs/seaweedfs",
+    "stargazers_count": 24895,
+    "open_issues_count": 591,
+    "forks_count": 2425
+  },
+  {
     "full_name": "Lathentar/aoc_2024",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -8,7 +152,7 @@
   {
     "full_name": "bloomberg/blazingmq",
     "stargazers_count": 2676,
-    "open_issues_count": 82,
+    "open_issues_count": 83,
     "forks_count": 142
   },
   {
@@ -19,7 +163,7 @@
   },
   {
     "full_name": "tcbrindle/flux",
-    "stargazers_count": 619,
+    "stargazers_count": 620,
     "open_issues_count": 22,
     "forks_count": 36
   },
@@ -34,149 +178,5 @@
     "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "anycable/anycable",
-    "stargazers_count": 2102,
-    "open_issues_count": 0,
-    "forks_count": 99
-  },
-  {
-    "full_name": "debiki/talkyard",
-    "stargazers_count": 1772,
-    "open_issues_count": 121,
-    "forks_count": 129
-  },
-  {
-    "full_name": "dcbaker/meson-plus-plus",
-    "stargazers_count": 58,
-    "open_issues_count": 38,
-    "forks_count": 10
-  },
-  {
-    "full_name": "getml/reflect-cpp",
-    "stargazers_count": 1427,
-    "open_issues_count": 46,
-    "forks_count": 130
-  },
-  {
-    "full_name": "celtera/avendish",
-    "stargazers_count": 445,
-    "open_issues_count": 53,
-    "forks_count": 14
-  },
-  {
-    "full_name": "transformerlab/transformerlab-app",
-    "stargazers_count": 3428,
-    "open_issues_count": 60,
-    "forks_count": 293
-  },
-  {
-    "full_name": "Trans-N-ai/swama",
-    "stargazers_count": 208,
-    "open_issues_count": 14,
-    "forks_count": 10
-  },
-  {
-    "full_name": "JosefAlbers/whisper-turbo-mlx",
-    "stargazers_count": 210,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "Karmaz95/Snake_Apple",
-    "stargazers_count": 205,
-    "open_issues_count": 0,
-    "forks_count": 23
-  },
-  {
-    "full_name": "terragraph/meta-terragraph",
-    "stargazers_count": 53,
-    "open_issues_count": 9,
-    "forks_count": 32
-  },
-  {
-    "full_name": "multigres/multigres",
-    "stargazers_count": 782,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "cpp-testing/mocks_injector",
-    "stargazers_count": 35,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "dascandy/hippomocks",
-    "stargazers_count": 199,
-    "open_issues_count": 33,
-    "forks_count": 68
-  },
-  {
-    "full_name": "p2r3/HTTPortal",
-    "stargazers_count": 301,
-    "open_issues_count": 0,
-    "forks_count": 6
-  },
-  {
-    "full_name": "WAUthethird/Marble-Marcher-Community-Edition",
-    "stargazers_count": 274,
-    "open_issues_count": 22,
-    "forks_count": 19
-  },
-  {
-    "full_name": "netlify/examples",
-    "stargazers_count": 27,
-    "open_issues_count": 7,
-    "forks_count": 18
-  },
-  {
-    "full_name": "pi-hole/pi-hole",
-    "stargazers_count": 52272,
-    "open_issues_count": 50,
-    "forks_count": 2836
-  },
-  {
-    "full_name": "searxng/searxng",
-    "stargazers_count": 19785,
-    "open_issues_count": 248,
-    "forks_count": 2023
-  },
-  {
-    "full_name": "berty/weshnet",
-    "stargazers_count": 201,
-    "open_issues_count": 6,
-    "forks_count": 33
-  },
-  {
-    "full_name": "taubyte/dream",
-    "stargazers_count": 77,
-    "open_issues_count": 9,
-    "forks_count": 25
-  },
-  {
-    "full_name": "caddyserver/caddy",
-    "stargazers_count": 64982,
-    "open_issues_count": 213,
-    "forks_count": 4352
-  },
-  {
-    "full_name": "unbit/uwsgi",
-    "stargazers_count": 3503,
-    "open_issues_count": 861,
-    "forks_count": 694
-  },
-  {
-    "full_name": "vfeskov/war-of-bob",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "vfeskov/gitpunch",
-    "stargazers_count": 392,
-    "open_issues_count": 69,
-    "forks_count": 8
   }
 ]
