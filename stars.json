@@ -1,20 +1,74 @@
 [
   {
+    "full_name": "bkaradzic/bgfx",
+    "stargazers_count": 15841,
+    "open_issues_count": 310,
+    "forks_count": 1996
+  },
+  {
+    "full_name": "ibizaman/selfhostblocks",
+    "stargazers_count": 293,
+    "open_issues_count": 76,
+    "forks_count": 11
+  },
+  {
+    "full_name": "bluecherrydvr/bluecherry-apps",
+    "stargazers_count": 240,
+    "open_issues_count": 138,
+    "forks_count": 73
+  },
+  {
+    "full_name": "google-gemini/gemini-cli",
+    "stargazers_count": 29554,
+    "open_issues_count": 501,
+    "forks_count": 2127
+  },
+  {
+    "full_name": "David-Haim/concurrencpp",
+    "stargazers_count": 2586,
+    "open_issues_count": 10,
+    "forks_count": 229
+  },
+  {
+    "full_name": "scylladb/seastar",
+    "stargazers_count": 8729,
+    "open_issues_count": 557,
+    "forks_count": 1615
+  },
+  {
+    "full_name": "threeifbyair/cppfront",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "opentensor/bittensor",
+    "stargazers_count": 1174,
+    "open_issues_count": 25,
+    "forks_count": 391
+  },
+  {
+    "full_name": "latent-to/developer-docs",
+    "stargazers_count": 3,
+    "open_issues_count": 6,
+    "forks_count": 3
+  },
+  {
     "full_name": "Homebrew/homebrew-core",
-    "stargazers_count": 14413,
-    "open_issues_count": 87,
-    "forks_count": 12871
+    "stargazers_count": 14423,
+    "open_issues_count": 101,
+    "forks_count": 12877
   },
   {
     "full_name": "IBM/mcp-context-forge",
-    "stargazers_count": 512,
-    "open_issues_count": 22,
-    "forks_count": 71
+    "stargazers_count": 670,
+    "open_issues_count": 29,
+    "forks_count": 89
   },
   {
     "full_name": "cesanta/mongoose",
-    "stargazers_count": 11813,
-    "open_issues_count": 5,
+    "stargazers_count": 11824,
+    "open_issues_count": 6,
     "forks_count": 2795
   },
   {
@@ -43,33 +97,33 @@
   },
   {
     "full_name": "arendst/Tasmota",
-    "stargazers_count": 23368,
-    "open_issues_count": 7,
+    "stargazers_count": 23378,
+    "open_issues_count": 9,
     "forks_count": 4931
   },
   {
     "full_name": "openziti/ziti",
-    "stargazers_count": 3392,
+    "stargazers_count": 3400,
     "open_issues_count": 240,
     "forks_count": 196
   },
   {
     "full_name": "firezone/firezone",
-    "stargazers_count": 7346,
-    "open_issues_count": 446,
-    "forks_count": 323
+    "stargazers_count": 7349,
+    "open_issues_count": 433,
+    "forks_count": 324
   },
   {
     "full_name": "rabbitmq/rabbitmq-server",
-    "stargazers_count": 12897,
+    "stargazers_count": 12902,
     "open_issues_count": 266,
-    "forks_count": 3949
+    "forks_count": 3948
   },
   {
     "full_name": "eclipse-mosquitto/mosquitto",
-    "stargazers_count": 9848,
-    "open_issues_count": 833,
-    "forks_count": 2503
+    "stargazers_count": 9860,
+    "open_issues_count": 836,
+    "forks_count": 2505
   },
   {
     "full_name": "halfgaar/FlashMQ",
@@ -81,7 +135,7 @@
     "full_name": "emitter-io/emitter",
     "stargazers_count": 3937,
     "open_issues_count": 15,
-    "forks_count": 355
+    "forks_count": 356
   },
   {
     "full_name": "redboltz/async_mqtt",
@@ -91,13 +145,13 @@
   },
   {
     "full_name": "eclipse-paho/paho.mqtt.c",
-    "stargazers_count": 2095,
+    "stargazers_count": 2096,
     "open_issues_count": 182,
-    "forks_count": 1126
+    "forks_count": 1127
   },
   {
     "full_name": "eclipse-cyclonedds/cyclonedds",
-    "stargazers_count": 996,
+    "stargazers_count": 998,
     "open_issues_count": 270,
     "forks_count": 390
   },
@@ -115,68 +169,14 @@
   },
   {
     "full_name": "microsoft/genaiscript",
-    "stargazers_count": 2663,
-    "open_issues_count": 111,
-    "forks_count": 190
+    "stargazers_count": 2667,
+    "open_issues_count": 104,
+    "forks_count": 192
   },
   {
     "full_name": "czhu12/canine",
-    "stargazers_count": 1732,
-    "open_issues_count": 18,
-    "forks_count": 53
-  },
-  {
-    "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 233523,
-    "open_issues_count": 0,
-    "forks_count": 10865
-  },
-  {
-    "full_name": "minio/minio",
-    "stargazers_count": 53296,
-    "open_issues_count": 52,
-    "forks_count": 5961
-  },
-  {
-    "full_name": "seaweedfs/seaweedfs",
-    "stargazers_count": 24895,
-    "open_issues_count": 591,
-    "forks_count": 2425
-  },
-  {
-    "full_name": "Lathentar/aoc_2024",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "bloomberg/blazingmq",
-    "stargazers_count": 2676,
-    "open_issues_count": 83,
-    "forks_count": 142
-  },
-  {
-    "full_name": "jll63/yomm2",
-    "stargazers_count": 367,
-    "open_issues_count": 0,
-    "forks_count": 21
-  },
-  {
-    "full_name": "tcbrindle/flux",
-    "stargazers_count": 620,
-    "open_issues_count": 22,
-    "forks_count": 36
-  },
-  {
-    "full_name": "vanceism7/ls-cpp2",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ArchiveBox/archivebox-proxy",
-    "stargazers_count": 25,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 1778,
+    "open_issues_count": 20,
+    "forks_count": 56
   }
 ]
