@@ -1,5 +1,113 @@
 [
   {
+    "full_name": "derekburgess/dungen",
+    "stargazers_count": 10,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "cdacamar/ball_pit",
+    "stargazers_count": 30,
+    "open_issues_count": 1,
+    "forks_count": 8
+  },
+  {
+    "full_name": "rivet-gg/rivetkit",
+    "stargazers_count": 1016,
+    "open_issues_count": 56,
+    "forks_count": 30
+  },
+  {
+    "full_name": "cwida/duckpgq-extension",
+    "stargazers_count": 217,
+    "open_issues_count": 25,
+    "forks_count": 14
+  },
+  {
+    "full_name": "Dtenwolde/duckpgq-extension",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Query-farm/radio",
+    "stargazers_count": 23,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "duckdb/duckdb",
+    "stargazers_count": 30703,
+    "open_issues_count": 513,
+    "forks_count": 2411
+  },
+  {
+    "full_name": "duckdb/duckdb-wasm",
+    "stargazers_count": 1638,
+    "open_issues_count": 137,
+    "forks_count": 161
+  },
+  {
+    "full_name": "deepseek-ai/3FS",
+    "stargazers_count": 9085,
+    "open_issues_count": 120,
+    "forks_count": 908
+  },
+  {
+    "full_name": "deepseek-ai/smallpond",
+    "stargazers_count": 4719,
+    "open_issues_count": 28,
+    "forks_count": 415
+  },
+  {
+    "full_name": "Query-farm/shellfs",
+    "stargazers_count": 74,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ulid/spec",
+    "stargazers_count": 10285,
+    "open_issues_count": 72,
+    "forks_count": 182
+  },
+  {
+    "full_name": "l1xnan/duckling",
+    "stargazers_count": 354,
+    "open_issues_count": 51,
+    "forks_count": 17
+  },
+  {
+    "full_name": "tconbeer/harlequin",
+    "stargazers_count": 4717,
+    "open_issues_count": 47,
+    "forks_count": 110
+  },
+  {
+    "full_name": "uwdata/mosaic",
+    "stargazers_count": 1064,
+    "open_issues_count": 63,
+    "forks_count": 75
+  },
+  {
+    "full_name": "spiceai/spiceai",
+    "stargazers_count": 2473,
+    "open_issues_count": 290,
+    "forks_count": 134
+  },
+  {
+    "full_name": "davidgasquez/awesome-duckdb",
+    "stargazers_count": 1903,
+    "open_issues_count": 2,
+    "forks_count": 144
+  },
+  {
+    "full_name": "eclipse-paho/paho.mqtt.cpp",
+    "stargazers_count": 1165,
+    "open_issues_count": 61,
+    "forks_count": 464
+  },
+  {
     "full_name": "ProgramComputer/NASA-MCP-server",
     "stargazers_count": 62,
     "open_issues_count": 2,
@@ -7,13 +115,13 @@
   },
   {
     "full_name": "wilsonchenghy/ShaderToy-MCP",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "dvcrn/mcp-server-siri-shortcuts",
-    "stargazers_count": 140,
+    "stargazers_count": 144,
     "open_issues_count": 1,
     "forks_count": 11
   },
@@ -31,33 +139,33 @@
   },
   {
     "full_name": "ttroy50/cmake-examples",
-    "stargazers_count": 12855,
+    "stargazers_count": 12859,
     "open_issues_count": 31,
     "forks_count": 2539
   },
   {
     "full_name": "hmemcpy/milewski-ctfp-pdf",
-    "stargazers_count": 11265,
+    "stargazers_count": 11268,
     "open_issues_count": 58,
     "forks_count": 612
   },
   {
     "full_name": "getml/sqlgen",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "snarfed/bridgy-fed",
-    "stargazers_count": 1031,
+    "stargazers_count": 1032,
     "open_issues_count": 204,
     "forks_count": 51
   },
   {
     "full_name": "toeverything/blocksuite",
-    "stargazers_count": 5057,
-    "open_issues_count": 175,
-    "forks_count": 474
+    "stargazers_count": 5063,
+    "open_issues_count": 174,
+    "forks_count": 475
   },
   {
     "full_name": "eclipse-cyclonedds/cyclonedds-cxx",
@@ -70,113 +178,5 @@
     "stargazers_count": 142,
     "open_issues_count": 78,
     "forks_count": 62
-  },
-  {
-    "full_name": "domoticz/domoticz",
-    "stargazers_count": 3588,
-    "open_issues_count": 102,
-    "forks_count": 1133
-  },
-  {
-    "full_name": "jhpyle/docassemble",
-    "stargazers_count": 852,
-    "open_issues_count": 15,
-    "forks_count": 267
-  },
-  {
-    "full_name": "roflcoopter/viseron",
-    "stargazers_count": 2124,
-    "open_issues_count": 129,
-    "forks_count": 241
-  },
-  {
-    "full_name": "xyproto/algernon",
-    "stargazers_count": 2919,
-    "open_issues_count": 28,
-    "forks_count": 142
-  },
-  {
-    "full_name": "microsoft/RD-Agent",
-    "stargazers_count": 6328,
-    "open_issues_count": 89,
-    "forks_count": 598
-  },
-  {
-    "full_name": "duckdb/ducklake",
-    "stargazers_count": 1710,
-    "open_issues_count": 49,
-    "forks_count": 64
-  },
-  {
-    "full_name": "duckdb/pg_duckdb",
-    "stargazers_count": 2349,
-    "open_issues_count": 63,
-    "forks_count": 114
-  },
-  {
-    "full_name": "duckdb/duckdb-vss",
-    "stargazers_count": 192,
-    "open_issues_count": 12,
-    "forks_count": 17
-  },
-  {
-    "full_name": "pingcap/ossinsight",
-    "stargazers_count": 2029,
-    "open_issues_count": 81,
-    "forks_count": 366
-  },
-  {
-    "full_name": "memgraph/memgraph",
-    "stargazers_count": 3040,
-    "open_issues_count": 482,
-    "forks_count": 165
-  },
-  {
-    "full_name": "yugabyte/yugabyte-db",
-    "stargazers_count": 9603,
-    "open_issues_count": 7085,
-    "forks_count": 1147
-  },
-  {
-    "full_name": "unum-cloud/usearch",
-    "stargazers_count": 2889,
-    "open_issues_count": 84,
-    "forks_count": 201
-  },
-  {
-    "full_name": "n0-computer/iroh",
-    "stargazers_count": 5389,
-    "open_issues_count": 203,
-    "forks_count": 254
-  },
-  {
-    "full_name": "bkaradzic/bgfx",
-    "stargazers_count": 15850,
-    "open_issues_count": 310,
-    "forks_count": 1997
-  },
-  {
-    "full_name": "ibizaman/selfhostblocks",
-    "stargazers_count": 294,
-    "open_issues_count": 77,
-    "forks_count": 11
-  },
-  {
-    "full_name": "bluecherrydvr/bluecherry-apps",
-    "stargazers_count": 240,
-    "open_issues_count": 138,
-    "forks_count": 73
-  },
-  {
-    "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 46247,
-    "open_issues_count": 860,
-    "forks_count": 3762
-  },
-  {
-    "full_name": "David-Haim/concurrencpp",
-    "stargazers_count": 2591,
-    "open_issues_count": 10,
-    "forks_count": 229
   }
 ]
